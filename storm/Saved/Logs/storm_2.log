@@ -1,0 +1,818 @@
+﻿Log file open, 10/06/17 20:08:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: storm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1174869689) SRandInit(-1174869689).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.224149
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-0
+LogInit: Engine Version: 4.17.2-0+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-0+++UE4+Release-4.17
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Oct  3 2017 12:16:54
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.06-23.08.39:136][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.06-23.08.39:136][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.06-23.08.39:170][  0]LogInit: Computer: DESKTOP-V0QB7PK
+[2017.10.06-23.08.39:170][  0]LogInit: User: Erick
+[2017.10.06-23.08.39:171][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.06-23.08.39:171][  0]LogInit: High frequency timer resolution =3.125021 MHz
+[2017.10.06-23.08.39:171][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.10.06-23.08.39:171][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.06-23.08.39:171][  0]LogMemory: Process Physical Memory: 277.62 MB used, 277.62 MB peak
+[2017.10.06-23.08.39:171][  0]LogMemory: Process Virtual Memory: 275.95 MB used, 275.95 MB peak
+[2017.10.06-23.08.39:171][  0]LogMemory: Physical Memory: 4640.40 MB used,  1445.34 MB free, 6085.74 MB total
+[2017.10.06-23.08.39:171][  0]LogMemory: Virtual Memory: 670.80 MB used,  1445.34 MB free, 134217728.00 MB total
+[2017.10.06-23.08.39:574][  0]LogInit: Using OS detected language (pt-BR).
+[2017.10.06-23.08.39:574][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.10.06-23.08.42:728][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.06-23.08.42:776][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 630' (Feature Level 11_0)
+[2017.10.06-23.08.42:776][  0]LogD3D11RHI:       2000/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.06-23.08.42:779][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.06-23.08.42:779][  0]LogD3D11RHI:       0/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.06-23.08.42:779][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.06-23.08.42:785][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.06-23.08.42:785][  0]LogD3D11RHI:     GPU DeviceId: 0xf00 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.06-23.08.42:785][  0]LogWindows: EnumDisplayDevices:
+[2017.10.06-23.08.42:785][  0]LogWindows:    0. 'NVIDIA GeForce GT 630' (P:1 D:1)
+[2017.10.06-23.08.42:785][  0]LogWindows:    1. 'NVIDIA GeForce GT 630' (P:0 D:0)
+[2017.10.06-23.08.42:785][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.10.06-23.08.42:786][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 630
+[2017.10.06-23.08.42:786][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.06-23.08.42:786][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.06-23.08.42:786][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.06-23.08.42:841][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.10.06-23.08.42:841][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.06-23.08.42:853][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.06-23.08.42:855][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2017.10.06-23.08.42:856][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/Erick/Documents/GitHub/storm/storm/Intermediate/Shaders/WorkingDirectory/9604/).
+[2017.10.06-23.08.42:856][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Erick/AppData/Local/Temp/UnrealShaderWorkingDir/EE12CF4141825366D40FB5B93160CF3A/'.
+[2017.10.06-23.08.42:856][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.06-23.08.44:318][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.06-23.08.44:430][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.06-23.08.44:533][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.06-23.08.44:652][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.06-23.08.44:760][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.06-23.08.44:880][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.06-23.08.44:983][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.06-23.08.45:098][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.06-23.08.45:199][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.06-23.08.45:311][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.06-23.08.45:469][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.06-23.08.45:611][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.06-23.08.45:734][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.06-23.08.45:863][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.06-23.08.45:958][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.06-23.08.46:163][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.06-23.08.46:163][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.06-23.08.46:257][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.06-23.08.46:456][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.06-23.08.46:512][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.06-23.08.46:512][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.06-23.08.47:741][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.06-23.08.48:204][  0]LogDerivedDataCache: Loaded boot cache 0.46s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.06-23.08.48:205][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc
+[2017.10.06-23.08.48:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.06-23.08.48:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.06-23.08.48:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.06-23.08.48:205][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2017.10.06-23.08.48:220][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2017.10.06-23.08.48:220][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2017.10.06-23.08.48:220][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2017.10.06-23.08.48:237][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.06-23.08.48:238][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.06-23.08.48:247][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.06-23.08.48:247][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.06-23.08.49:746][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2017.10.06-23.08.49:920][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.06-23.08.50:188][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.06-23.08.51:282][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.06-23.08.51:282][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.06-23.08.51:282][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.06-23.08.51:282][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2017.10.06-23.08.51:282][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.06-23.08.51:282][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2017.10.06-23.08.51:871][  0]LogNetVersion: storm , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3367854216)
+[2017.10.06-23.08.52:269][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.075352 seconds
+[2017.10.06-23.08.52:275][  0]LogUObjectArray: 35784 objects as part of root set at end of initial load.
+[2017.10.06-23.08.52:275][  0]LogUObjectAllocator: 7522360 out of 0 bytes used by permanent object pool.
+[2017.10.06-23.08.52:275][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.06-23.08.52:437][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.06-23.08.59:643][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.06-23.08.59:722][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.06-23.09.01:215][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.06-23.09.02:103][  0]SourceControl: Controle de origem desativado
+[2017.10.06-23.09.04:212][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.06-23.09.04:798][  0]LogOcInput: OculusInput pre-init called
+[2017.10.06-23.09.05:398][  0]LogEngine: Initializing Engine...
+[2017.10.06-23.09.05:402][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.06-23.09.05:692][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.06-23.09.05:692][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.06-23.09.05:985][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.06-23.09.05:996][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-23.09.06:015][  0]LogInit: FAudioDevice initialized.
+[2017.10.06-23.09.06:140][  0]LogDerivedDataCache: Saved boot cache 0.12s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.06-23.09.06:163][  0]LogInit: Texture streaming: Enabled
+[2017.10.06-23.09.06:459][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.06-23.09.06:995][  0]LogInit: Transaction tracking system initialized
+[2017.10.06-23.09.07:758][  0]BlueprintLog: New page: Carregar Editor
+[2017.10.06-23.09.09:962][  0]LocalizationService: Localization service is disabled
+[2017.10.06-23.09.11:608][  0]LogConsoleResponse: Display: 
+[2017.10.06-23.09.12:241][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.06-23.09.12:241][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.06-23.09.12:242][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.06-23.09.13:251][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' took 0.02s
+[2017.10.06-23.09.14:987][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.06-23.09.14:988][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.06-23.09.15:088][  0]MapCheck: New page: Verificação de Mapa
+[2017.10.06-23.09.15:088][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.06-23.09.15:514][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:515][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.06-23.09.15:515][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:515][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.06-23.09.15:515][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.06-23.09.15:515][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:515][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.06-23.09.15:515][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:515][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.06-23.09.15:515][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.06-23.09.15:521][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:521][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.06-23.09.15:521][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:521][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.06-23.09.15:521][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.06-23.09.15:521][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:521][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.06-23.09.15:521][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:521][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.06-23.09.15:522][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.06-23.09.15:926][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:926][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.06-23.09.15:926][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.06-23.09.15:926][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:926][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.06-23.09.15:926][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.06-23.09.15:926][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:927][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.06-23.09.15:927][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.06-23.09.15:927][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.06-23.09.15:927][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.06-23.09.15:927][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.06-23.09.16:528][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-23.09.16:658][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.06-23.09.16:692][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.06-23.09.16:806][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113,898ms to complete.
+[2017.10.06-23.09.16:806][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.820
+[2017.10.06-23.09.17:043][  0]LogCollectionManager: Loaded 0 collections in 0.004803 seconds
+[2017.10.06-23.09.17:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' took 0.01s
+[2017.10.06-23.09.17:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' took 0.01s
+[2017.10.06-23.09.17:187][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' took 0.01s
+[2017.10.06-23.09.17:187][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.06-23.09.17:199][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2385 classes and 498 folders.
+[2017.10.06-23.09.17:353][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.06-23.09.17:851][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.06-23.09.17:969][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.06-23.09.18:017][  0]LogSlate: Took 0.008552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.06-23.09.18:024][  0]LogSlate: Took 0.005889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.06-23.09.18:036][  0]LogSlate: Took 0.005161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.06-23.09.18:222][  0]LogRenderer: Reallocating scene render targets to support 676x540 Format 10 NumSamples 1 (Frame:1).
+[2017.10.06-23.09.18:340][  0]LogSlate: Took 0.005084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-23.09.18:527][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.06-23.09.18:527][  0]LogLoad: (Engine Initialization) Total time: 42.77 seconds
+[2017.10.06-23.09.18:527][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.06-23.09.18:528][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.06-23.09.18:528][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.06-23.09.18:561][  0]SourceControl: On branch master
+[2017.10.06-23.09.18:561][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.10.06-23.09.18:561][  0]SourceControl: Changes to be committed:
+[2017.10.06-23.09.18:561][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/toilet/ValveMat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/toilet/Water.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/toilet/WaterMat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/toilet/Water_TubeMat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/window/Window_001.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/window/defaultMat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/Body_Courtyard_Template002_Window_reference_smd_mesh_0Mat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001_Skeleton.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/defaultMat.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window_normal.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/window.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/window_0_PhysicsAsset.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/window_PhysicsAsset.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	new file:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: Changes not staged for commit:
+[2017.10.06-23.09.18:561][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.10.06-23.09.18:561][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.10.06-23.09.18:561][  0]SourceControl: 	modified:   storm/Config/DefaultGame.ini
+[2017.10.06-23.09.18:561][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-23.09.18:561][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	modified:   storm/Content/windoww/window.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	modified:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: Untracked files:
+[2017.10.06-23.09.18:561][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Build/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Config/DefaultEditor.ini
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Config/DefaultEditorPerProjectUserSettings.ini
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Mannequin/Animations/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Mannequin/Character/Materials/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/Mannequin/Character/Textures/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Architecture/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Blueprints/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/HDRI/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Maps/
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.10.06-23.09.18:561][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Fire.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Smoke.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Sparks.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Shapes/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/StarterContent/Textures/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/ThirdPerson/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/ThirdPersonBP/Blueprints/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Content/props/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/DerivedDataCache/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Intermediate/
+[2017.10.06-23.09.18:562][  0]SourceControl: 	storm/Saved/
+[2017.10.06-23.09.18:563][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.10.06-23.09.18:640][  1]LogAssetRegistry: Asset discovery search completed in 28.9159 seconds
+[2017.10.06-23.09.18:642][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.06-23.09.18:642][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2017.10.06-23.09.48:078][250]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door2_mat”
+[2017.10.06-23.09.48:079][250]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/Door2_mdl.uasset” ao carregar /Game/UrbanCity/Materials/Props/Door2_mat.
+[2017.10.06-23.09.48:079][250]LoadErrors: Error: /Game/props/Door2_mdl : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Materials/Props/Door2_mat
+[2017.10.06-23.09.48:079][250]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door2_mat”
+[2017.10.06-23.09.48:079][250]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/Door2_mdl.uasset” ao carregar /Game/UrbanCity/Materials/Props/Door2_mat.
+[2017.10.06-23.09.48:080][250]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door2_mat”
+[2017.10.06-23.09.48:080][250]LoadErrors: Falha ao carregar /Game/UrbanCity/Materials/Props/Door2_mat.Door2_mat Referenciado por Door2_mdl
+[2017.10.06-23.09.48:080][250]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Materials/Props/Door2_mat.
+[2017.10.06-23.09.48:081][250]LogStaticMesh: Criando malha estática Door2_mdl...
+[2017.10.06-23.09.48:083][250]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-23.09.48:094][250]LogStaticMesh: Built static mesh [0.01s] /Game/props/Door2_mdl.Door2_mdl
+[2017.10.06-23.09.48:511][276]LogActorFactory: Actor Factory created Door2_mdl
+[2017.10.06-23.09.49:323][308]LogActorFactory: Actor Factory created Door2_mdl
+[2017.10.06-23.09.49:546][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door2_mdl)
+[2017.10.06-23.09.49:571][311]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.06-23.09.49:993][326]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.06-23.09.55:213][477]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-23.11.15:265][403]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.10.06-23.13.59:195][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_A”
+[2017.10.06-23.13.59:195][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_A.
+[2017.10.06-23.13.59:195][112]LoadErrors: Error: /Game/props/mat/Props/Door2_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door2_A
+[2017.10.06-23.13.59:196][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_C”
+[2017.10.06-23.13.59:196][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_C.
+[2017.10.06-23.13.59:196][112]LoadErrors: Error: /Game/props/mat/Props/Door2_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door2_C
+[2017.10.06-23.13.59:196][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_N”
+[2017.10.06-23.13.59:196][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_N.
+[2017.10.06-23.13.59:196][112]LoadErrors: Error: /Game/props/mat/Props/Door2_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door2_N
+[2017.10.06-23.13.59:196][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_A”
+[2017.10.06-23.13.59:197][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_A.
+[2017.10.06-23.13.59:197][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_C”
+[2017.10.06-23.13.59:197][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_C.
+[2017.10.06-23.13.59:197][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_N”
+[2017.10.06-23.13.59:197][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door2_N.
+[2017.10.06-23.13.59:198][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_A”
+[2017.10.06-23.13.59:198][112]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door2_A.Door2_A Referenciado por MaterialExpressionTextureSample_3
+[2017.10.06-23.13.59:198][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door2_A.
+[2017.10.06-23.13.59:198][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_N”
+[2017.10.06-23.13.59:199][112]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door2_N.Door2_N Referenciado por MaterialExpressionTextureSample_5
+[2017.10.06-23.13.59:199][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door2_N.
+[2017.10.06-23.13.59:199][112]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door2_C”
+[2017.10.06-23.13.59:199][112]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door2_C.Door2_C Referenciado por MaterialExpressionTextureSample_6
+[2017.10.06-23.13.59:199][112]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door2_C.
+[2017.10.06-23.13.59:201][112]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.13.59:201][112]LogMaterial: Warning: Failed to compile Material /Game/props/mat/Props/Door2_mat.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.13.59:201][112]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.04:720][163]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.10.06-23.14.04:723][163]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.14.04:723][163]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.14.04:723][163]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.04:845][163]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.14.04:845][163]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.14.04:845][163]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.04:849][163]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.14.04:849][163]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.14.04:849][163]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.04:880][163]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.06-23.14.04:883][163]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.10.06-23.14.04:884][163]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.10.06-23.14.04:886][163]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.04:897][163]LogSlate: Took 0.006117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.06-23.14.34:529][769]LogTexture: Display: Building textures: Door2_C (AutoDXT, 2048X2048)
+[2017.10.06-23.14.34:534][769]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.14.34:535][769]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.14.34:535][769]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.34:545][769]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.06-23.14.51:358][432]LogTexture: Display: Building textures: doors_d (AutoDXT, 2048X2048)
+[2017.10.06-23.14.51:362][432]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.14.51:363][432]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.14.51:363][432]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.14.51:372][432]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.06-23.15.23:905][330]LogTexture: Display: Building textures: Door1_C (AutoDXT, 2048X2048)
+[2017.10.06-23.15.23:909][330]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.15.23:910][330]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door2_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.15.23:910][330]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.15.23:915][330]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2017.10.06-23.15.33:938][748]LogTexture: Display: Building textures: Door2_N (BC5, 2048X2048)
+[2017.10.06-23.15.33:942][748]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.15.33:977][748]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2017.10.06-23.15.35:300][789]LogMaterialEditor: Saving and Compiling material Door2_mat
+[2017.10.06-23.15.37:015][789]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.15.37:060][789]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.15.37:100][789]LogMaterial: Missing cached shader map for material Door2_mat, compiling. 
+[2017.10.06-23.15.37:150][789]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Door2_mat, compiling. 
+[2017.10.06-23.15.38:547][789]TextureStreamingBuild: Display: Compiling optional shaders took 1.404 seconds.
+[2017.10.06-23.15.40:941][789]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.06-23.15.41:072][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/props/mat/Props/Door2_mat" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset" SILENT=true
+[2017.10.06-23.15.41:125][789]LogSavePackage: Save=32.89ms
+[2017.10.06-23.15.41:125][789]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Door2_mat1FB89A084A2990D29001E895A9D9CD6A.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset'
+[2017.10.06-23.15.41:133][789]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door2_mat.uasset
+[2017.10.06-23.15.41:143][789]MaterialEditorStats: Base pass shader: 94 instructions
+[2017.10.06-23.15.41:143][789]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.06-23.15.41:143][789]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.06-23.15.41:143][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.06-23.16.08:864][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door2_mdl)
+[2017.10.06-23.16.10:397][802]Cmd: DELETE
+[2017.10.06-23.16.10:397][802]Cmd: ACTOR DELETE
+[2017.10.06-23.16.10:408][802]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-23.16.10:419][802]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2017.10.06-23.16.19:892][109]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door1_mat”
+[2017.10.06-23.16.19:892][109]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/Door1_mdl.uasset” ao carregar /Game/UrbanCity/Materials/Props/Door1_mat.
+[2017.10.06-23.16.19:892][109]LoadErrors: Error: /Game/props/Door1_mdl : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Materials/Props/Door1_mat
+[2017.10.06-23.16.19:892][109]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door1_mat”
+[2017.10.06-23.16.19:892][109]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/Door1_mdl.uasset” ao carregar /Game/UrbanCity/Materials/Props/Door1_mat.
+[2017.10.06-23.16.19:893][109]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Materials/Props/Door1_mat”
+[2017.10.06-23.16.19:893][109]LoadErrors: Falha ao carregar /Game/UrbanCity/Materials/Props/Door1_mat.Door1_mat Referenciado por Door1_mdl
+[2017.10.06-23.16.19:894][109]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Materials/Props/Door1_mat.
+[2017.10.06-23.16.19:900][109]LogStaticMesh: Criando malha estática Door1_mdl...
+[2017.10.06-23.16.19:910][109]LogStaticMesh: Built static mesh [0.02s] /Game/props/Door1_mdl.Door1_mdl
+[2017.10.06-23.16.20:297][142]LogActorFactory: Actor Factory created Door1_mdl
+[2017.10.06-23.16.20:432][148]LogActorFactory: Actor Factory created Door1_mdl
+[2017.10.06-23.16.21:211][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_mdl)
+[2017.10.06-23.16.28:435][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_A”
+[2017.10.06-23.16.28:435][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_A.
+[2017.10.06-23.16.28:435][684]LoadErrors: Error: /Game/props/mat/Props/Door1_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door1_A
+[2017.10.06-23.16.28:435][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_C”
+[2017.10.06-23.16.28:435][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_C.
+[2017.10.06-23.16.28:435][684]LoadErrors: Error: /Game/props/mat/Props/Door1_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door1_C
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_N”
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_N.
+[2017.10.06-23.16.28:436][684]LoadErrors: Error: /Game/props/mat/Props/Door1_mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Props/Door1_N
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_A”
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_A.
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_C”
+[2017.10.06-23.16.28:436][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_C.
+[2017.10.06-23.16.28:437][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_N”
+[2017.10.06-23.16.28:437][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/props/mat/Props/Door1_mat.uasset” ao carregar /Game/UrbanCity/Textures/Props/Door1_N.
+[2017.10.06-23.16.28:438][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_A”
+[2017.10.06-23.16.28:438][684]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door1_A.Door1_A Referenciado por MaterialExpressionTextureSample_0
+[2017.10.06-23.16.28:438][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door1_A.
+[2017.10.06-23.16.28:438][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_N”
+[2017.10.06-23.16.28:438][684]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door1_N.Door1_N Referenciado por MaterialExpressionTextureSample_2
+[2017.10.06-23.16.28:438][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door1_N.
+[2017.10.06-23.16.28:439][684]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Props/Door1_C”
+[2017.10.06-23.16.28:439][684]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Props/Door1_C.Door1_C Referenciado por MaterialExpressionTextureSample_7
+[2017.10.06-23.16.28:439][684]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Props/Door1_C.
+[2017.10.06-23.16.28:441][684]LogMaterial: Missing cached shader map for material Door1_mat, compiling. 
+[2017.10.06-23.16.28:441][684]LogMaterial: Warning: Failed to compile Material /Game/props/mat/Props/Door1_mat.Door1_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.16.28:442][684]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.16.32:912][726]LogMaterial: Missing cached shader map for material Door1_mat, compiling. 
+[2017.10.06-23.16.32:912][726]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door1_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.16.32:912][726]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.16.33:065][726]LogMaterial: Missing cached shader map for material Door1_mat, compiling. 
+[2017.10.06-23.16.33:065][726]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door1_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.16.33:065][726]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.16.33:069][726]LogMaterial: Missing cached shader map for material Door1_mat, compiling. 
+[2017.10.06-23.16.33:069][726]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Door1_mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.06-23.16.33:069][726]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.16.33:097][726]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.06-23.16.33:099][726]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2017.10.06-23.16.33:101][726]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.06-23.16.33:104][726]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2017.10.06-23.16.46:788][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_mdl)
+[2017.10.06-23.17.11:156][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Door1_mdl)
+[2017.10.06-23.17.12:143][244]Cmd: DELETE
+[2017.10.06-23.17.12:143][244]Cmd: ACTOR DELETE
+[2017.10.06-23.17.12:143][244]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-23.17.12:170][244]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2017.10.06-23.17.43:900][642]Cmd: QUIT_EDITOR
+[2017.10.06-23.17.43:952][642]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.06-23.17.43:969][642]LogExit: Preparing to exit.
+[2017.10.06-23.17.45:037][642]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' was aborted.
+[2017.10.06-23.17.45:068][642]LogExit: Editor shut down
+[2017.10.06-23.17.45:075][642]LogExit: Transaction tracking system shut down
+[2017.10.06-23.17.45:253][642]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.06-23.17.45:253][642]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/' was aborted.
+[2017.10.06-23.17.45:253][642]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.06-23.17.45:253][642]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.06-23.17.45:253][642]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.06-23.17.45:384][642]LogExit: Object subsystem successfully closed.
+[2017.10.06-23.17.45:404][642]LogD3D11RHI: Shutdown
+[2017.10.06-23.17.45:404][642]LogD3D11RHI: CleanupD3DDevice
+[2017.10.06-23.17.45:534][642]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.06-23.17.45:610][642]LogModuleManager: Shutting down and abandoning module MaterialEditor (522)
+[2017.10.06-23.17.45:610][642]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (520)
+[2017.10.06-23.17.45:610][642]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (518)
+[2017.10.06-23.17.45:610][642]LogModuleManager: Shutting down and abandoning module SceneOutliner (516)
+[2017.10.06-23.17.45:610][642]LogModuleManager: Shutting down and abandoning module AddContentDialog (514)
+[2017.10.06-23.17.45:612][642]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UnrealEngine-release/FeaturePacks/' was aborted.
+[2017.10.06-23.17.45:613][642]LogModuleManager: Shutting down and abandoning module WidgetCarousel (513)
+[2017.10.06-23.17.45:613][642]LogModuleManager: Shutting down and abandoning module EditorWidgets (510)
+[2017.10.06-23.17.45:613][642]LogModuleManager: Shutting down and abandoning module CollectionManager (508)
+[2017.10.06-23.17.45:613][642]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' was aborted.
+[2017.10.06-23.17.45:613][642]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' was aborted.
+[2017.10.06-23.17.45:613][642]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' was aborted.
+[2017.10.06-23.17.45:613][642]LogModuleManager: Shutting down and abandoning module StatsViewer (506)
+[2017.10.06-23.17.45:614][642]LogModuleManager: Shutting down and abandoning module FoliageEdit (504)
+[2017.10.06-23.17.45:614][642]LogModuleManager: Shutting down and abandoning module LandscapeEditor (502)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module MeshPaintMode (500)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (498)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module ActorPickerMode (496)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module GeometryMode (494)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module TextureAlignMode (492)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module BspMode (490)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (488)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module HardwareSurvey (486)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (484)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module AutomationWorker (482)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (480)
+[2017.10.06-23.17.45:615][642]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (478)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module PlacementMode (477)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (474)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (472)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (470)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (468)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (466)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module Media (465)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (462)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module CharacterAI (460)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module AudioCapture (458)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module SequenceRecorder (457)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module SmartSnapping (454)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module SessionServices (452)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module ViewportSnapping (450)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module ViewportInteraction (448)
+[2017.10.06-23.17.45:616][642]LogModuleManager: Shutting down and abandoning module ClothPainter (446)
+[2017.10.06-23.17.45:618][642]LogModuleManager: Shutting down and abandoning module LogVisualizer (444)
+[2017.10.06-23.17.45:619][642]LogModuleManager: Shutting down and abandoning module IntroTutorials (442)
+[2017.10.06-23.17.45:621][642]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (441)
+[2017.10.06-23.17.45:623][642]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (438)
+[2017.10.06-23.17.45:623][642]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (436)
+[2017.10.06-23.17.45:623][642]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (434)
+[2017.10.06-23.17.45:623][642]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (433)
+[2017.10.06-23.17.46:065][642]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (430)
+[2017.10.06-23.17.46:065][642]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (428)
+[2017.10.06-23.17.46:065][642]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (426)
+[2017.10.06-23.17.46:065][642]LogModuleManager: Shutting down and abandoning module InputBindingEditor (424)
+[2017.10.06-23.17.46:065][642]LogModuleManager: Shutting down and abandoning module MergeActors (422)
+[2017.10.06-23.17.46:066][642]LogModuleManager: Shutting down and abandoning module SizeMap (420)
+[2017.10.06-23.17.46:066][642]LogModuleManager: Shutting down and abandoning module TreeMap (418)
+[2017.10.06-23.17.46:067][642]LogModuleManager: Shutting down and abandoning module ReferenceViewer (416)
+[2017.10.06-23.17.46:068][642]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (414)
+[2017.10.06-23.17.46:068][642]LogModuleManager: Shutting down and abandoning module LocalizationService (413)
+[2017.10.06-23.17.46:069][642]LogModuleManager: Shutting down and abandoning module HardwareTargeting (410)
+[2017.10.06-23.17.46:069][642]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (408)
+[2017.10.06-23.17.46:069][642]LogModuleManager: Shutting down and abandoning module UndoHistory (406)
+[2017.10.06-23.17.46:069][642]LogModuleManager: Shutting down and abandoning module XmlParser (404)
+[2017.10.06-23.17.46:070][642]LogModuleManager: Shutting down and abandoning module Blutility (402)
+[2017.10.06-23.17.46:070][642]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (400)
+[2017.10.06-23.17.46:070][642]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (399)
+[2017.10.06-23.17.46:070][642]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (396)
+[2017.10.06-23.17.46:070][642]LogModuleManager: Shutting down and abandoning module SettingsEditor (394)
+[2017.10.06-23.17.46:071][642]LogModuleManager: Shutting down and abandoning module ProjectLauncher (392)
+[2017.10.06-23.17.46:072][642]LogModuleManager: Shutting down and abandoning module SessionFrontend (390)
+[2017.10.06-23.17.46:072][642]LogModuleManager: Shutting down and abandoning module ProfilerClient (388)
+[2017.10.06-23.17.46:072][642]LogModuleManager: Shutting down and abandoning module DeviceManager (386)
+[2017.10.06-23.17.46:073][642]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (385)
+[2017.10.06-23.17.46:137][642]LogModuleManager: Shutting down and abandoning module AutomationController (382)
+[2017.10.06-23.17.46:138][642]LogModuleManager: Shutting down and abandoning module AutomationWindow (380)
+[2017.10.06-23.17.46:140][642]LogModuleManager: Shutting down and abandoning module Layers (378)
+[2017.10.06-23.17.46:142][642]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (376)
+[2017.10.06-23.17.46:142][642]LogModuleManager: Shutting down and abandoning module DetailCustomizations (374)
+[2017.10.06-23.17.46:143][642]LogModuleManager: Shutting down and abandoning module PackagesDialog (372)
+[2017.10.06-23.17.46:144][642]LogModuleManager: Shutting down and abandoning module Persona (370)
+[2017.10.06-23.17.46:145][642]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (369)
+[2017.10.06-23.17.46:145][642]LogModuleManager: Shutting down and abandoning module AnimGraph (367)
+[2017.10.06-23.17.46:145][642]LogModuleManager: Shutting down and abandoning module Kismet (364)
+[2017.10.06-23.17.46:147][642]LogModuleManager: Shutting down and abandoning module ClassViewer (362)
+[2017.10.06-23.17.46:147][642]LogModuleManager: Shutting down and abandoning module Toolbox (360)
+[2017.10.06-23.17.46:147][642]LogModuleManager: Shutting down and abandoning module ModuleUI (358)
+[2017.10.06-23.17.46:147][642]LogModuleManager: Shutting down and abandoning module MovieSceneTools (356)
+[2017.10.06-23.17.46:148][642]LogModuleManager: Shutting down and abandoning module OutputLog (354)
+[2017.10.06-23.17.46:149][642]LogModuleManager: Shutting down and abandoning module GammaUI (352)
+[2017.10.06-23.17.46:149][642]LogModuleManager: Shutting down and abandoning module Documentation (350)
+[2017.10.06-23.17.46:149][642]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (348)
+[2017.10.06-23.17.46:149][642]LogModuleManager: Shutting down and abandoning module MovieScene (346)
+[2017.10.06-23.17.46:150][642]LogModuleManager: Shutting down and abandoning module Niagara (344)
+[2017.10.06-23.17.46:150][642]LogModuleManager: Shutting down and abandoning module NiagaraEditor (343)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (340)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module LauncherPlatform (338)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module AnalyticsET (336)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module PortalServices (334)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module PortalRpc (332)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module MessagingRpc (330)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module AIModule (328)
+[2017.10.06-23.17.46:152][642]LogModuleManager: Shutting down and abandoning module GameplayDebugger (327)
+[2017.10.06-23.17.46:153][642]LogModuleManager: Shutting down and abandoning module AITestSuite (325)
+[2017.10.06-23.17.46:153][642]LogModuleManager: Shutting down and abandoning module ProfilerService (322)
+[2017.10.06-23.17.46:210][642]LogModuleManager: Shutting down and abandoning module TaskGraph (320)
+[2017.10.06-23.17.46:211][642]LogModuleManager: Shutting down and abandoning module SteamVRController (318)
+[2017.10.06-23.17.46:211][642]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (316)
+[2017.10.06-23.17.46:211][642]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (314)
+[2017.10.06-23.17.46:211][642]LogModuleManager: Shutting down and abandoning module OculusInput (312)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (310)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (308)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module CableComponent (306)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (304)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module AndroidPermission (302)
+[2017.10.06-23.17.46:212][642]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (298)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module HTML5Networking (296)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module AlembicImporter (294)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module AlembicLibrary (293)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module GeometryCache (292)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (291)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (286)
+[2017.10.06-23.17.46:215][642]LogModuleManager: Shutting down and abandoning module PluginBrowser (284)
+[2017.10.06-23.17.46:217][642]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2017.10.06-23.17.46:218][642]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (280)
+[2017.10.06-23.17.46:218][642]LogModuleManager: Shutting down and abandoning module DesktopPlatform (279)
+[2017.10.06-23.17.46:219][642]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2017.10.06-23.17.46:219][642]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2017.10.06-23.17.46:219][642]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2017.10.06-23.17.46:220][642]LogModuleManager: Shutting down and abandoning module GitSourceControl (270)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module SourceControl (269)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (266)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (264)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (262)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module Paper2DEditor (260)
+[2017.10.06-23.17.46:221][642]LogModuleManager: Shutting down and abandoning module MeshPaint (259)
+[2017.10.06-23.17.46:222][642]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2017.10.06-23.17.46:222][642]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2017.10.06-23.17.46:223][642]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2017.10.06-23.17.46:223][642]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (248)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module OculusEditor (242)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (240)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (238)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (236)
+[2017.10.06-23.17.46:224][642]LogModuleManager: Shutting down and abandoning module UdpMessaging (234)
+[2017.10.06-23.17.46:325][642]LogModuleManager: Shutting down and abandoning module TcpMessaging (232)
+[2017.10.06-23.17.46:426][642]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (230)
+[2017.10.06-23.17.46:426][642]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (228)
+[2017.10.06-23.17.46:427][642]LogModuleManager: Shutting down and abandoning module FacialAnimation (226)
+[2017.10.06-23.17.46:427][642]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (224)
+[2017.10.06-23.17.46:429][642]LogModuleManager: Shutting down and abandoning module GraphEditor (223)
+[2017.10.06-23.17.46:429][642]LogModuleManager: Shutting down and abandoning module ContentBrowser (221)
+[2017.10.06-23.17.46:433][642]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (218)
+[2017.10.06-23.17.46:433][642]LogModuleManager: Shutting down and abandoning module Paper2D (216)
+[2017.10.06-23.17.46:434][642]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (214)
+[2017.10.06-23.17.46:434][642]LogModuleManager: Shutting down and abandoning module WmfMedia (212)
+[2017.10.06-23.17.46:436][642]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2017.10.06-23.17.46:436][642]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2017.10.06-23.17.46:436][642]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2017.10.06-23.17.46:438][642]LogModuleManager: Shutting down and abandoning module Overlay (204)
+[2017.10.06-23.17.46:438][642]LogModuleManager: Shutting down and abandoning module OverlayEditor (203)
+[2017.10.06-23.17.46:438][642]LogModuleManager: Shutting down and abandoning module MediaAssets (200)
+[2017.10.06-23.17.46:438][642]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2017.10.06-23.17.46:441][642]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2017.10.06-23.17.46:442][642]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2017.10.06-23.17.46:442][642]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2017.10.06-23.17.46:446][642]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2017.10.06-23.17.46:446][642]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2017.10.06-23.17.46:447][642]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2017.10.06-23.17.46:447][642]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2017.10.06-23.17.46:448][642]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2017.10.06-23.17.46:450][642]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2017.10.06-23.17.46:452][642]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2017.10.06-23.17.46:452][642]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2017.10.06-23.17.46:454][642]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2017.10.06-23.17.46:454][642]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (166)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (164)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module XAudio2 (162)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module Networking (160)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module Core (156)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module LevelSequence (150)
+[2017.10.06-23.17.46:458][642]LogModuleManager: Shutting down and abandoning module MeshUtilities (148)
+[2017.10.06-23.17.46:459][642]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (147)
+[2017.10.06-23.17.46:460][642]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (146)
+[2017.10.06-23.17.46:460][642]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (145)
+[2017.10.06-23.17.46:461][642]LogModuleManager: Shutting down and abandoning module MaterialBaking (141)
+[2017.10.06-23.17.46:461][642]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (138)
+[2017.10.06-23.17.46:463][642]LogModuleManager: Shutting down and abandoning module DerivedDataCache (136)
+[2017.10.06-23.17.46:522][642]LogDerivedDataCache: Shutdown
+[2017.10.06-23.17.46:522][642]LogModuleManager: Shutting down and abandoning module TargetPlatform (134)
+[2017.10.06-23.17.46:523][642]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (133)
+[2017.10.06-23.17.46:523][642]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (131)
+[2017.10.06-23.17.46:524][642]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (129)
+[2017.10.06-23.17.46:525][642]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (127)
+[2017.10.06-23.17.46:525][642]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (125)
+[2017.10.06-23.17.46:526][642]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (123)
+[2017.10.06-23.17.46:526][642]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (121)
+[2017.10.06-23.17.46:526][642]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (119)
+[2017.10.06-23.17.46:526][642]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (117)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (115)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module ImageWrapper (114)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (111)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (109)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (107)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (105)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.06-23.17.46:527][642]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.06-23.17.46:528][642]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.06-23.17.46:529][642]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.06-23.17.46:529][642]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.06-23.17.46:529][642]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.06-23.17.46:529][642]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.06-23.17.46:530][642]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.06-23.17.46:532][642]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.06-23.17.46:532][642]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.06-23.17.46:532][642]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B929193CB-4A42-3BCC-1043-6AB54F492592%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.17.2-0%2B%2B%2BUE4%2BRelease-4.17&UserID=c4f097a14edb72948e1b609202c1ac2d%7C6c0923afca2c450bb55d507de94b1cd7%7Cc2725472-7586-4a72-b68b-f40897905ab3&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2017.10.06-23.17.46:540][642]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.06-23.17.46:543][642]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.06-23.17.46:544][642]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.06-23.17.46:544][642]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.06-23.17.46:546][642]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.06-23.17.46:546][642]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.06-23.17.46:546][642]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.06-23.17.46:546][642]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.06-23.17.46:548][642]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.06-23.17.46:549][642]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.06-23.17.46:549][642]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.06-23.17.46:549][642]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.06-23.17.46:549][642]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.06-23.17.46:550][642]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.06-23.17.46:556][642]LogExit: Exiting.
+[2017.10.06-23.17.46:583][642]Log file closed, 10/06/17 20:17:46

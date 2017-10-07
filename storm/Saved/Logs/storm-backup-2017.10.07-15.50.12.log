@@ -1,0 +1,1487 @@
+﻿Log file open, 10/07/17 15:28:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: storm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1628569572) SRandInit(1628569572).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.809956
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-0
+LogInit: Engine Version: 4.17.2-0+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-0+++UE4+Release-4.17
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Oct  3 2017 12:16:54
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.07-18.28.59:498][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-18.28.59:498][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.07-18.28.59:547][  0]LogInit: Computer: DESKTOP-V0QB7PK
+[2017.10.07-18.28.59:547][  0]LogInit: User: Erick
+[2017.10.07-18.28.59:547][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.07-18.28.59:547][  0]LogInit: High frequency timer resolution =3.125021 MHz
+[2017.10.07-18.28.59:548][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.10.07-18.28.59:549][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.07-18.28.59:549][  0]LogMemory: Process Physical Memory: 279.91 MB used, 279.91 MB peak
+[2017.10.07-18.28.59:549][  0]LogMemory: Process Virtual Memory: 276.11 MB used, 276.11 MB peak
+[2017.10.07-18.28.59:549][  0]LogMemory: Physical Memory: 3748.46 MB used,  2337.29 MB free, 6085.74 MB total
+[2017.10.07-18.28.59:549][  0]LogMemory: Virtual Memory: 670.80 MB used,  2337.29 MB free, 134217728.00 MB total
+[2017.10.07-18.29.00:282][  0]LogInit: Using OS detected language (pt-BR).
+[2017.10.07-18.29.00:282][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.10.07-18.29.03:475][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.07-18.29.03:550][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 630' (Feature Level 11_0)
+[2017.10.07-18.29.03:550][  0]LogD3D11RHI:       2000/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.07-18.29.03:553][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.07-18.29.03:553][  0]LogD3D11RHI:       0/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.07-18.29.03:553][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.07-18.29.03:564][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.07-18.29.03:565][  0]LogD3D11RHI:     GPU DeviceId: 0xf00 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.07-18.29.03:565][  0]LogWindows: EnumDisplayDevices:
+[2017.10.07-18.29.03:565][  0]LogWindows:    0. 'NVIDIA GeForce GT 630' (P:1 D:1)
+[2017.10.07-18.29.03:565][  0]LogWindows:    1. 'NVIDIA GeForce GT 630' (P:0 D:0)
+[2017.10.07-18.29.03:565][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.10.07-18.29.03:565][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 630
+[2017.10.07-18.29.03:565][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.07-18.29.03:565][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.07-18.29.03:565][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.07-18.29.03:613][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.10.07-18.29.03:615][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.07-18.29.03:657][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.07-18.29.03:668][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2017.10.07-18.29.03:671][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Erick/Documents/GitHub/storm/storm/Intermediate/Shaders/WorkingDirectory/31232/).
+[2017.10.07-18.29.03:672][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Erick/AppData/Local/Temp/UnrealShaderWorkingDir/1CA0FEB14722C1CF7421D791F360A152/'.
+[2017.10.07-18.29.03:672][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.07-18.29.06:602][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.07-18.29.06:704][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.07-18.29.06:830][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.07-18.29.06:931][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.07-18.29.07:047][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.07-18.29.07:152][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.07-18.29.07:257][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.07-18.29.07:371][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.07-18.29.07:468][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.07-18.29.07:583][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.07-18.29.07:681][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.07-18.29.07:812][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.07-18.29.07:917][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.07-18.29.08:022][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.07-18.29.08:135][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.07-18.29.08:354][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.07-18.29.08:354][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.07-18.29.08:449][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.07-18.29.08:661][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.07-18.29.08:720][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.07-18.29.08:720][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.07-18.29.10:343][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: Loaded boot cache 0.68s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.07-18.29.11:027][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2017.10.07-18.29.11:040][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2017.10.07-18.29.11:040][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2017.10.07-18.29.11:040][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2017.10.07-18.29.11:068][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.07-18.29.11:077][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.07-18.29.11:098][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-18.29.11:098][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-18.29.14:601][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2017.10.07-18.29.14:840][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-18.29.15:463][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.07-18.29.16:106][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.07-18.29.16:107][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.07-18.29.16:107][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.07-18.29.16:107][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2017.10.07-18.29.16:107][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.07-18.29.16:107][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2017.10.07-18.29.17:252][  0]LogNetVersion: storm , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3367854216)
+[2017.10.07-18.29.18:031][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.082276 seconds
+[2017.10.07-18.29.18:038][  0]LogUObjectArray: 35784 objects as part of root set at end of initial load.
+[2017.10.07-18.29.18:038][  0]LogUObjectAllocator: 7522360 out of 0 bytes used by permanent object pool.
+[2017.10.07-18.29.18:038][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.07-18.29.18:202][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.07-18.29.26:142][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.07-18.29.26:228][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.07-18.29.27:885][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.07-18.29.28:945][  0]SourceControl: Controle de origem desativado
+[2017.10.07-18.29.31:264][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.07-18.29.31:879][  0]LogOcInput: OculusInput pre-init called
+[2017.10.07-18.29.32:547][  0]LogEngine: Initializing Engine...
+[2017.10.07-18.29.32:554][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.07-18.29.33:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.07-18.29.33:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.07-18.29.33:451][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.07-18.29.33:495][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-18.29.33:522][  0]LogInit: FAudioDevice initialized.
+[2017.10.07-18.29.33:654][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.07-18.29.33:674][  0]LogInit: Texture streaming: Enabled
+[2017.10.07-18.29.33:985][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.07-18.29.34:562][  0]LogInit: Transaction tracking system initialized
+[2017.10.07-18.29.35:344][  0]BlueprintLog: New page: Carregar Editor
+[2017.10.07-18.29.37:622][  0]LocalizationService: Localization service is disabled
+[2017.10.07-18.29.39:259][  0]LogConsoleResponse: Display: 
+[2017.10.07-18.29.40:105][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.07-18.29.40:106][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.07-18.29.40:107][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.07-18.29.40:992][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' took 0.04s
+[2017.10.07-18.29.42:947][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.07-18.29.42:950][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.07-18.29.43:057][  0]MapCheck: New page: Verificação de Mapa
+[2017.10.07-18.29.43:057][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.07-18.29.44:077][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:077][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-18.29.44:077][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:078][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-18.29.44:078][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.07-18.29.44:078][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:078][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-18.29.44:078][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:078][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-18.29.44:078][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.07-18.29.44:095][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:095][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-18.29.44:095][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:095][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-18.29.44:095][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.07-18.29.44:096][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:096][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-18.29.44:096][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.44:096][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-18.29.44:096][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.07-18.29.45:105][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:105][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:105][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-18.29.45:105][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-18.29.45:105][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-18.29.45:105][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_n
+[2017.10.07-18.29.45:105][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-18.29.45:106][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-18.29.45:106][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_r
+[2017.10.07-18.29.45:106][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:106][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:106][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-18.29.45:106][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-18.29.45:106][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-18.29.45:106][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_n
+[2017.10.07-18.29.45:107][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-18.29.45:107][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-18.29.45:107][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_r
+[2017.10.07-18.29.45:109][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:109][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:109][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-18.29.45:109][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-18.29.45:110][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-18.29.45:110][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/road_r
+[2017.10.07-18.29.45:110][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:110][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:110][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-18.29.45:110][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-18.29.45:110][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-18.29.45:111][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/road_r
+[2017.10.07-18.29.45:508][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.45:508][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-18.29.45:508][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.07-18.29.45:508][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.45:508][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-18.29.45:508][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.07-18.29.45:509][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.45:509][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-18.29.45:509][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.07-18.29.45:509][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-18.29.45:509][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-18.29.45:509][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.07-18.29.45:739][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:739][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por MaterialExpressionTextureSampleParameter2D_0
+[2017.10.07-18.29.45:739][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:739][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por MaterialExpressionTextureSampleParameter2D_0
+[2017.10.07-18.29.45:739][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-18.29.45:740][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.metal_01_r Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2017.10.07-18.29.45:740][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-18.29.45:740][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.metal_01_r Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2017.10.07-18.29.45:740][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-18.29.45:740][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.metal_01_n Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2017.10.07-18.29.45:740][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-18.29.45:740][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.metal_01_n Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2017.10.07-18.29.45:741][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-18.29.45:741][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por metal_03_Inst
+[2017.10.07-18.29.45:741][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-18.29.45:741][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por metal_03_Inst
+[2017.10.07-18.29.45:741][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-18.29.45:741][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/road_r.road_r Referenciado por metal_03_Inst
+[2017.10.07-18.29.45:742][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-18.29.45:742][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/road_r.road_r Referenciado por metal_03_Inst
+[2017.10.07-18.29.46:634][  0]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.29.46:975][  0]LogMaterial: Missing cached shader map for material -Metal_Mat, compiling. 
+[2017.10.07-18.29.46:976][  0]LogMaterial: Warning: Failed to compile Material /Game/UrbanCity/Materials/-Metal_Mat.-Metal_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-18.29.46:976][  0]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.10.07-18.29.47:048][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.07-18.29.51:587][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.07-18.29.51:846][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.07-18.29.52:001][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 154,85ms to complete.
+[2017.10.07-18.29.52:001][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 9.055
+[2017.10.07-18.29.52:420][  0]LogCollectionManager: Loaded 0 collections in 0.005459 seconds
+[2017.10.07-18.29.52:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' took 0.01s
+[2017.10.07-18.29.52:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' took 0.01s
+[2017.10.07-18.29.52:595][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' took 0.01s
+[2017.10.07-18.29.52:595][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.07-18.29.52:612][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2385 classes and 498 folders.
+[2017.10.07-18.29.52:793][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.07-18.29.53:304][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.07-18.29.53:414][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.07-18.29.53:533][  0]LogSlate: Took 0.008866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-18.29.53:542][  0]LogSlate: Took 0.005702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.07-18.29.53:558][  0]LogSlate: Took 0.005232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.07-18.29.53:811][  0]LogRenderer: Reallocating scene render targets to support 676x580 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-18.29.54:254][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.07-18.29.54:254][  0]LogLoad: (Engine Initialization) Total time: 62.95 seconds
+[2017.10.07-18.29.54:254][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.07-18.29.54:255][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.07-18.29.54:255][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.07-18.29.54:332][  0]SourceControl: On branch master
+[2017.10.07-18.29.54:332][  0]SourceControl: Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+[2017.10.07-18.29.54:332][  0]SourceControl:   (use "git pull" to update your local branch)
+[2017.10.07-18.29.54:332][  0]SourceControl: Changes to be committed:
+[2017.10.07-18.29.54:332][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_DISP.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_Mat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_NRM.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_OCC.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_SPEC.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/Papel-de-Parede-bandeira-brasileira-em-pano-36174.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/07___Default.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_Box46_PhysicsAsset.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_Box46_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_hehualou02_PhysicsAsset.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_hehualou02_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_hehulou01_PhysicsAsset.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052d_hehulou01_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/D0208052s.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/Material__51.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/Material__52.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/hehualou_cloor_01.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/aaa/hehualou_cloor_02.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/grass.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/grass_LayerInfo.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/grasss.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/sss/D0208052.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/sss/D0208052_Box46_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/sss/D0208052_hehualou02_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/sss/D0208052_hehulou01_Skeleton.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/toilet/ValveMat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/toilet/Water.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/toilet/WaterMat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/toilet/Water_TubeMat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/waterfall/water_d_Mat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/window/Window_001.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/window/defaultMat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/windoww/Body_Courtyard_Template002_Window_reference_smd_mesh_0Mat.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001.uasset
+[2017.10.07-18.29.54:332][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/defaultMat.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window_normal.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/window.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/window_0_PhysicsAsset.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/window_PhysicsAsset.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	new file:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: Changes not staged for commit:
+[2017.10.07-18.29.54:333][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.10.07-18.29.54:333][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   README.md
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Config/DefaultGame.ini
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_Mat.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/aaa/07___Default.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/aaa/Material__51.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/aaa/Material__52.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/grass.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	deleted:    storm/Content/sss/D0208052.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	deleted:    storm/Content/sss/D0208052_Box46_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	deleted:    storm/Content/sss/D0208052_hehualou02_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	deleted:    storm/Content/sss/D0208052_hehulou01_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/windoww/window.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	modified:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: Untracked files:
+[2017.10.07-18.29.54:333][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Build/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Config/DefaultEditor.ini
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Config/DefaultEditorPerProjectUserSettings.ini
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Mannequin/Animations/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Mannequin/Character/Materials/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/Mannequin/Character/Textures/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Architecture/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Blueprints/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/HDRI/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Maps/
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.10.07-18.29.54:333][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Fire.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Smoke.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Sparks.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Shapes/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/StarterContent/Textures/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/ThirdPerson/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/ThirdPersonBP/Blueprints/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Foliage.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Metal_Mat.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Tilable_Ground.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Tilable_mat.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Window_mat.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Buildings/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/ColorVariation_WorldSpace.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Decals/
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/DemoTerrainMat.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/-Foliage.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_01_Inst.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_01_Inst_STorm.uasset
+[2017.10.07-18.29.54:334][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_Mat.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/dECALS.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/decal_DeadLeaves_Inst.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Functions/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Props/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Road.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Tileable/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Tint.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Materials/building_mat.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Models/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Particles/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Detail_Metal_A_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Foliage/
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/LUT.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_E.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_A.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_C.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_N.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_d.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_n.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_r.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_d.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_m.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_n.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_r.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_a.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_ao.uasset
+[2017.10.07-18.29.54:335][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_ao.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_a.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_m.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_n.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_r.uasset
+[2017.10.07-18.29.54:336][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_a.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_ao.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_n.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_r.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_a.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_ao.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_m.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_n.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_r.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLights_e.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_a.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_ao.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_n.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/usaflag.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/wood_grunge.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Sign_1_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Sign_2_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Sign_3_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Sign_4_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Sign_5_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Stairs_1_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Stairs_2_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Stairs_3_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Stairs_4_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/StoreSign_1_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/StoreSign_2_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/StoreSign_3_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/StoreSign_4_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/TrashBag_1_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/TrashBag_2_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/Tree_Fence_mdl.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/mat/
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_ac_02.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_barrier_Lrg.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_barrier_Sml.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_bench.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_cementBarrier.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_chainlinkFence.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_chainlinkPost.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_chair.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_crosswalkSign.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_electricalBox.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_fireHydrant_A.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_fireHydrant_B.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_flag.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_garbageCan.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_light_01.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_light_02.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_light_03.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_light_04.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_manhole.uasset
+[2017.10.07-18.29.54:337][  0]SourceControl: 	storm/Content/props/prp_metalFence.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_metalPillar.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_parkingMeter.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_potRoung.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_potSquare_A.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_potSquare_B.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_powerlines.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_pylon_Lrg.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_pylong_Sml.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_sewerGrate.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_streetLight.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_table.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_tableUmbrella.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_tarp.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_telephonepole.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_trafficLight.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_vent_01.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/prp_vent_02.uasset
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Content/props/text/
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/DerivedDataCache/
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Intermediate/
+[2017.10.07-18.29.54:338][  0]SourceControl: 	storm/Saved/
+[2017.10.07-18.29.54:339][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.10.07-18.29.54:566][  2]LogAssetRegistry: Asset discovery search completed in 39.9877 seconds
+[2017.10.07-18.29.54:569][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.07-18.29.54:570][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2017.10.07-18.29.55:428][ 14]LogSlate: Took 0.006715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-18.31.23:774][823]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.31.23:796][823]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.31.23:896][823]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.10.07-18.31.49:878][105]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-18.31.50:007][105]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.10.07-18.31.50:013][105]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.31.50:167][105]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.31.50:184][105]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.31.50:223][105]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.31.50:240][105]LogSlate: Took 0.005682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.07-18.31.52:657][138]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.31.52:657][138]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.31.52:657][138]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.31.52:657][138]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.32.36:445][567]LogTexture: Display: Building textures: tex_placeholder_diff (AutoDXT, 1024X1024)
+[2017.10.07-18.32.36:445][567]LogTexture: Display: Building textures: tex_grass_diff (AutoDXT, 512X256)
+[2017.10.07-18.32.36:445][567]LogMaterial: Missing cached shader map for material M_grass, compiling. 
+[2017.10.07-18.32.36:701][567]LogMaterial: Missing cached shader map for material M_grass, compiling. 
+[2017.10.07-18.32.37:287][568]LogMaterial: Missing cached shader map for material M_grass, compiling. 
+[2017.10.07-18.35.01:646][810]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.01:665][810]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.35.04:586][881]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.35.04:586][881]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.35.04:586][881]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.35.04:586][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.35.08:733][987]LogMaterialEditor: Saving and Compiling material grass
+[2017.10.07-18.35.10:106][987]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.10:149][987]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.10:185][987]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.10:202][987]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.10:279][987]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass, compiling. 
+[2017.10.07-18.35.11:485][987]TextureStreamingBuild: Display: Compiling optional shaders took 1.213 seconds.
+[2017.10.07-18.35.13:762][987]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-18.35.13:906][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset" SILENT=true
+[2017.10.07-18.35.13:985][987]LogSavePackage: Save=35.86ms
+[2017.10.07-18.35.13:985][987]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/grass9AC4DC794A41DA32D9E630A5A9545C40.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset'
+[2017.10.07-18.35.13:995][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset
+[2017.10.07-18.35.14:000][987]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.35.14:001][987]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.35.14:001][987]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.07-18.35.14:001][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.35.44:162][414]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.35.44:460][415]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.36.08:297][951]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 8X8)
+[2017.10.07-18.36.08:337][951]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.36.08:426][951]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 8X8)
+[2017.10.07-18.36.08:481][951]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 8X8)
+[2017.10.07-18.36.08:550][951]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 8X8)
+[2017.10.07-18.36.08:628][951]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 8X8)
+[2017.10.07-18.36.08:712][951]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 8X8)
+[2017.10.07-18.36.08:789][951]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 8X8)
+[2017.10.07-18.36.08:865][951]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 8X8)
+[2017.10.07-18.36.08:945][951]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 8X8)
+[2017.10.07-18.36.09:024][951]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 8X8)
+[2017.10.07-18.36.09:098][951]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 8X8)
+[2017.10.07-18.36.09:180][951]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 8X8)
+[2017.10.07-18.36.09:258][951]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 8X8)
+[2017.10.07-18.36.09:338][951]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 8X8)
+[2017.10.07-18.36.09:416][951]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 8X8)
+[2017.10.07-18.36.09:503][951]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 8X8)
+[2017.10.07-18.36.09:576][951]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 8X8)
+[2017.10.07-18.36.09:653][951]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 8X8)
+[2017.10.07-18.36.09:743][951]LogTexture: Display: Building textures: Texture2D_276 (BGRA8, 8X8)
+[2017.10.07-18.36.09:830][951]LogTexture: Display: Building textures: Texture2D_277 (BGRA8, 8X8)
+[2017.10.07-18.36.09:909][951]LogTexture: Display: Building textures: Texture2D_278 (BGRA8, 8X8)
+[2017.10.07-18.36.09:987][951]LogTexture: Display: Building textures: Texture2D_279 (BGRA8, 8X8)
+[2017.10.07-18.36.10:061][951]LogTexture: Display: Building textures: Texture2D_280 (BGRA8, 8X8)
+[2017.10.07-18.36.10:135][951]LogTexture: Display: Building textures: Texture2D_281 (BGRA8, 8X8)
+[2017.10.07-18.36.10:217][951]LogTexture: Display: Building textures: Texture2D_282 (BGRA8, 8X8)
+[2017.10.07-18.36.10:297][951]LogTexture: Display: Building textures: Texture2D_283 (BGRA8, 8X8)
+[2017.10.07-18.36.10:379][951]LogTexture: Display: Building textures: Texture2D_284 (BGRA8, 8X8)
+[2017.10.07-18.36.10:460][951]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 8X8)
+[2017.10.07-18.36.10:538][951]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 8X8)
+[2017.10.07-18.36.10:615][951]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 8X8)
+[2017.10.07-18.36.10:698][951]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 8X8)
+[2017.10.07-18.36.10:776][951]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 8X8)
+[2017.10.07-18.36.10:861][951]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 8X8)
+[2017.10.07-18.36.10:932][951]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 8X8)
+[2017.10.07-18.36.11:015][951]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 8X8)
+[2017.10.07-18.36.11:106][951]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 8X8)
+[2017.10.07-18.36.11:179][951]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 8X8)
+[2017.10.07-18.36.11:265][951]LogTexture: Display: Building textures: Texture2D_295 (BGRA8, 8X8)
+[2017.10.07-18.36.11:342][951]LogTexture: Display: Building textures: Texture2D_296 (BGRA8, 8X8)
+[2017.10.07-18.36.11:429][951]LogTexture: Display: Building textures: Texture2D_297 (BGRA8, 8X8)
+[2017.10.07-18.36.11:520][951]LogTexture: Display: Building textures: Texture2D_298 (BGRA8, 8X8)
+[2017.10.07-18.36.11:605][951]LogTexture: Display: Building textures: Texture2D_299 (BGRA8, 8X8)
+[2017.10.07-18.36.11:680][951]LogTexture: Display: Building textures: Texture2D_300 (BGRA8, 8X8)
+[2017.10.07-18.36.11:768][951]LogTexture: Display: Building textures: Texture2D_301 (BGRA8, 8X8)
+[2017.10.07-18.36.11:842][951]LogTexture: Display: Building textures: Texture2D_302 (BGRA8, 8X8)
+[2017.10.07-18.36.11:922][951]LogTexture: Display: Building textures: Texture2D_303 (BGRA8, 8X8)
+[2017.10.07-18.36.12:000][951]LogTexture: Display: Building textures: Texture2D_304 (BGRA8, 8X8)
+[2017.10.07-18.36.12:072][951]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 8X8)
+[2017.10.07-18.36.12:152][951]LogTexture: Display: Building textures: Texture2D_306 (BGRA8, 8X8)
+[2017.10.07-18.36.12:233][951]LogTexture: Display: Building textures: Texture2D_307 (BGRA8, 8X8)
+[2017.10.07-18.36.12:306][951]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 8X8)
+[2017.10.07-18.36.12:391][951]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 8X8)
+[2017.10.07-18.36.12:481][951]LogTexture: Display: Building textures: Texture2D_310 (BGRA8, 8X8)
+[2017.10.07-18.36.12:557][951]LogTexture: Display: Building textures: Texture2D_311 (BGRA8, 8X8)
+[2017.10.07-18.36.12:635][951]LogTexture: Display: Building textures: Texture2D_312 (BGRA8, 8X8)
+[2017.10.07-18.36.12:720][951]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 8X8)
+[2017.10.07-18.36.12:794][951]LogTexture: Display: Building textures: Texture2D_314 (BGRA8, 8X8)
+[2017.10.07-18.36.12:870][951]LogTexture: Display: Building textures: Texture2D_315 (BGRA8, 8X8)
+[2017.10.07-18.36.12:952][951]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 8X8)
+[2017.10.07-18.36.13:032][951]LogTexture: Display: Building textures: Texture2D_317 (BGRA8, 8X8)
+[2017.10.07-18.36.13:106][951]LogTexture: Display: Building textures: Texture2D_318 (BGRA8, 8X8)
+[2017.10.07-18.36.13:180][951]LogTexture: Display: Building textures: Texture2D_319 (BGRA8, 8X8)
+[2017.10.07-18.36.13:256][951]LogTexture: Display: Building textures: Texture2D_320 (BGRA8, 8X8)
+[2017.10.07-18.36.13:331][951]LogTexture: Display: Building textures: Texture2D_321 (BGRA8, 8X8)
+[2017.10.07-18.36.13:412][951]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 8X8)
+[2017.10.07-18.36.13:488][951]LogTexture: Display: Building textures: Texture2D_323 (BGRA8, 8X8)
+[2017.10.07-18.36.13:560][951]LogTexture: Display: Building textures: Texture2D_324 (BGRA8, 8X8)
+[2017.10.07-18.36.13:640][951]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 8X8)
+[2017.10.07-18.36.13:712][951]LogTexture: Display: Building textures: Texture2D_326 (BGRA8, 8X8)
+[2017.10.07-18.36.13:784][951]LogTexture: Display: Building textures: Texture2D_327 (BGRA8, 8X8)
+[2017.10.07-18.36.13:861][951]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 8X8)
+[2017.10.07-18.36.13:933][951]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 8X8)
+[2017.10.07-18.36.14:007][951]LogTexture: Display: Building textures: Texture2D_330 (BGRA8, 8X8)
+[2017.10.07-18.36.14:080][951]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 8X8)
+[2017.10.07-18.36.14:155][951]LogTexture: Display: Building textures: Texture2D_332 (BGRA8, 8X8)
+[2017.10.07-18.36.14:241][951]LogTexture: Display: Building textures: Texture2D_333 (BGRA8, 8X8)
+[2017.10.07-18.36.14:311][951]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 8X8)
+[2017.10.07-18.36.14:384][951]LogTexture: Display: Building textures: Texture2D_335 (BGRA8, 8X8)
+[2017.10.07-18.36.14:463][951]LogTexture: Display: Building textures: Texture2D_336 (BGRA8, 8X8)
+[2017.10.07-18.36.14:531][951]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 8X8)
+[2017.10.07-18.36.14:604][951]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 8X8)
+[2017.10.07-18.36.14:675][951]LogTexture: Display: Building textures: Texture2D_339 (BGRA8, 8X8)
+[2017.10.07-18.36.14:760][951]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 8X8)
+[2017.10.07-18.36.14:830][951]LogTexture: Display: Building textures: Texture2D_341 (BGRA8, 8X8)
+[2017.10.07-18.36.14:905][951]LogTexture: Display: Building textures: Texture2D_342 (BGRA8, 8X8)
+[2017.10.07-18.36.14:986][951]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 8X8)
+[2017.10.07-18.36.15:055][951]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 8X8)
+[2017.10.07-18.36.15:125][951]LogTexture: Display: Building textures: Texture2D_345 (BGRA8, 8X8)
+[2017.10.07-18.36.15:201][951]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 8X8)
+[2017.10.07-18.36.15:276][951]LogTexture: Display: Building textures: Texture2D_347 (BGRA8, 8X8)
+[2017.10.07-18.36.15:347][951]LogTexture: Display: Building textures: Texture2D_348 (BGRA8, 8X8)
+[2017.10.07-18.36.15:418][951]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 8X8)
+[2017.10.07-18.36.15:496][951]LogTexture: Display: Building textures: Texture2D_350 (BGRA8, 8X8)
+[2017.10.07-18.36.15:569][951]LogTexture: Display: Building textures: Texture2D_351 (BGRA8, 8X8)
+[2017.10.07-18.36.15:639][951]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 8X8)
+[2017.10.07-18.36.15:719][951]LogTexture: Display: Building textures: Texture2D_353 (BGRA8, 8X8)
+[2017.10.07-18.36.15:789][951]LogTexture: Display: Building textures: Texture2D_354 (BGRA8, 8X8)
+[2017.10.07-18.36.15:861][951]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 8X8)
+[2017.10.07-18.36.15:946][951]LogTexture: Display: Building textures: Texture2D_356 (BGRA8, 8X8)
+[2017.10.07-18.36.16:018][951]LogTexture: Display: Building textures: Texture2D_357 (BGRA8, 8X8)
+[2017.10.07-18.36.16:097][951]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 8X8)
+[2017.10.07-18.36.16:199][951]LogTexture: Display: Building textures: Texture2D_359 (BGRA8, 8X8)
+[2017.10.07-18.36.16:286][951]LogTexture: Display: Building textures: Texture2D_360 (BGRA8, 8X8)
+[2017.10.07-18.36.16:355][951]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 8X8)
+[2017.10.07-18.36.16:425][951]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 8X8)
+[2017.10.07-18.36.16:498][951]LogTexture: Display: Building textures: Texture2D_363 (BGRA8, 8X8)
+[2017.10.07-18.36.16:570][951]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 8X8)
+[2017.10.07-18.36.16:639][951]LogTexture: Display: Building textures: Texture2D_365 (BGRA8, 8X8)
+[2017.10.07-18.36.16:719][951]LogTexture: Display: Building textures: Texture2D_366 (BGRA8, 8X8)
+[2017.10.07-18.36.16:785][951]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 8X8)
+[2017.10.07-18.36.16:856][951]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 8X8)
+[2017.10.07-18.36.16:925][951]LogTexture: Display: Building textures: Texture2D_369 (BGRA8, 8X8)
+[2017.10.07-18.36.17:005][951]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 8X8)
+[2017.10.07-18.36.17:075][951]LogTexture: Display: Building textures: Texture2D_371 (BGRA8, 8X8)
+[2017.10.07-18.36.17:144][951]LogTexture: Display: Building textures: Texture2D_372 (BGRA8, 8X8)
+[2017.10.07-18.36.17:225][951]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 8X8)
+[2017.10.07-18.36.17:295][951]LogTexture: Display: Building textures: Texture2D_374 (BGRA8, 8X8)
+[2017.10.07-18.36.17:365][951]LogTexture: Display: Building textures: Texture2D_375 (BGRA8, 8X8)
+[2017.10.07-18.36.17:436][951]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 8X8)
+[2017.10.07-18.36.17:515][951]LogTexture: Display: Building textures: Texture2D_377 (BGRA8, 8X8)
+[2017.10.07-18.36.17:586][951]LogTexture: Display: Building textures: Texture2D_378 (BGRA8, 8X8)
+[2017.10.07-18.36.17:655][951]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 8X8)
+[2017.10.07-18.36.17:738][951]LogTexture: Display: Building textures: Texture2D_380 (BGRA8, 8X8)
+[2017.10.07-18.36.17:809][951]LogTexture: Display: Building textures: Texture2D_381 (BGRA8, 8X8)
+[2017.10.07-18.36.17:883][951]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 8X8)
+[2017.10.07-18.36.17:961][951]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 8X8)
+[2017.10.07-18.36.18:046][951]LogTexture: Display: Building textures: Texture2D_384 (BGRA8, 8X8)
+[2017.10.07-18.36.18:122][951]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 8X8)
+[2017.10.07-18.36.18:198][951]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 8X8)
+[2017.10.07-18.36.18:285][951]LogTexture: Display: Building textures: Texture2D_387 (BGRA8, 8X8)
+[2017.10.07-18.36.18:356][951]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 8X8)
+[2017.10.07-18.36.18:437][951]LogTexture: Display: Building textures: Texture2D_389 (BGRA8, 8X8)
+[2017.10.07-18.36.18:540][951]LogTexture: Display: Building textures: Texture2D_390 (BGRA8, 8X8)
+[2017.10.07-18.36.18:610][951]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 8X8)
+[2017.10.07-18.36.18:682][951]LogTexture: Display: Building textures: Texture2D_392 (BGRA8, 8X8)
+[2017.10.07-18.36.18:763][951]LogTexture: Display: Building textures: Texture2D_393 (BGRA8, 8X8)
+[2017.10.07-18.36.18:834][951]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 8X8)
+[2017.10.07-18.36.18:905][951]LogTexture: Display: Building textures: Texture2D_395 (BGRA8, 8X8)
+[2017.10.07-18.36.18:984][951]LogTexture: Display: Building textures: Texture2D_396 (BGRA8, 8X8)
+[2017.10.07-18.36.19:057][951]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 8X8)
+[2017.10.07-18.36.19:128][951]LogTexture: Display: Building textures: Texture2D_398 (BGRA8, 8X8)
+[2017.10.07-18.36.19:196][951]LogTexture: Display: Building textures: Texture2D_399 (BGRA8, 8X8)
+[2017.10.07-18.36.19:274][951]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 8X8)
+[2017.10.07-18.36.19:346][951]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 8X8)
+[2017.10.07-18.36.19:415][951]LogTexture: Display: Building textures: Texture2D_402 (BGRA8, 8X8)
+[2017.10.07-18.36.19:494][951]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 8X8)
+[2017.10.07-18.36.19:564][951]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 8X8)
+[2017.10.07-18.36.19:634][951]LogTexture: Display: Building textures: Texture2D_405 (BGRA8, 8X8)
+[2017.10.07-18.36.19:704][951]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 8X8)
+[2017.10.07-18.36.19:782][951]LogTexture: Display: Building textures: Texture2D_407 (BGRA8, 8X8)
+[2017.10.07-18.36.19:856][951]LogTexture: Display: Building textures: Texture2D_408 (BGRA8, 8X8)
+[2017.10.07-18.36.19:930][951]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 8X8)
+[2017.10.07-18.36.20:088][951]LogTexture: Display: Building textures: Texture2D_410 (BGRA8, 8X8)
+[2017.10.07-18.36.20:179][951]LogTexture: Display: Building textures: Texture2D_411 (BGRA8, 8X8)
+[2017.10.07-18.36.20:271][951]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 8X8)
+[2017.10.07-18.36.20:353][951]LogTexture: Display: Building textures: Texture2D_413 (BGRA8, 8X8)
+[2017.10.07-18.36.20:423][951]LogTexture: Display: Building textures: Texture2D_414 (BGRA8, 8X8)
+[2017.10.07-18.36.20:502][951]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 8X8)
+[2017.10.07-18.36.20:571][951]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 8X8)
+[2017.10.07-18.36.20:642][951]LogTexture: Display: Building textures: Texture2D_417 (BGRA8, 8X8)
+[2017.10.07-18.36.20:716][951]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 8X8)
+[2017.10.07-18.36.20:794][951]LogTexture: Display: Building textures: Texture2D_419 (BGRA8, 8X8)
+[2017.10.07-18.36.20:864][951]LogTexture: Display: Building textures: Texture2D_420 (BGRA8, 8X8)
+[2017.10.07-18.36.20:937][951]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 8X8)
+[2017.10.07-18.36.21:033][951]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 8X8)
+[2017.10.07-18.36.21:107][951]LogTexture: Display: Building textures: Texture2D_423 (BGRA8, 8X8)
+[2017.10.07-18.36.21:185][951]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 8X8)
+[2017.10.07-18.36.21:280][951]LogTexture: Display: Building textures: Texture2D_425 (BGRA8, 8X8)
+[2017.10.07-18.36.21:370][951]LogTexture: Display: Building textures: Texture2D_426 (BGRA8, 8X8)
+[2017.10.07-18.36.21:460][951]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 8X8)
+[2017.10.07-18.36.21:533][951]LogTexture: Display: Building textures: Texture2D_428 (BGRA8, 8X8)
+[2017.10.07-18.36.21:604][951]LogTexture: Display: Building textures: Texture2D_429 (BGRA8, 8X8)
+[2017.10.07-18.36.21:673][951]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 8X8)
+[2017.10.07-18.36.21:749][951]LogTexture: Display: Building textures: Texture2D_431 (BGRA8, 8X8)
+[2017.10.07-18.36.21:819][951]LogTexture: Display: Building textures: Texture2D_432 (BGRA8, 8X8)
+[2017.10.07-18.36.21:899][951]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 8X8)
+[2017.10.07-18.36.21:990][951]LogTexture: Display: Building textures: Texture2D_434 (BGRA8, 8X8)
+[2017.10.07-18.36.22:081][951]LogTexture: Display: Building textures: Texture2D_435 (BGRA8, 8X8)
+[2017.10.07-18.36.22:155][951]LogTexture: Display: Building textures: Texture2D_436 (BGRA8, 8X8)
+[2017.10.07-18.36.22:245][951]LogTexture: Display: Building textures: Texture2D_437 (BGRA8, 8X8)
+[2017.10.07-18.36.22:318][951]LogTexture: Display: Building textures: Texture2D_438 (BGRA8, 8X8)
+[2017.10.07-18.36.22:397][951]LogTexture: Display: Building textures: Texture2D_439 (BGRA8, 8X8)
+[2017.10.07-18.36.22:452][951]LogTexture: Display: Building textures: Texture2D_440 (BGRA8, 8X8)
+[2017.10.07-18.36.22:514][951]LogTexture: Display: Building textures: Texture2D_441 (BGRA8, 8X8)
+[2017.10.07-18.36.22:604][951]LogTexture: Display: Building textures: Texture2D_442 (BGRA8, 8X8)
+[2017.10.07-18.36.22:680][951]LogTexture: Display: Building textures: Texture2D_443 (BGRA8, 8X8)
+[2017.10.07-18.36.22:757][951]LogTexture: Display: Building textures: Texture2D_444 (BGRA8, 8X8)
+[2017.10.07-18.36.22:805][951]LogTexture: Display: Building textures: Texture2D_445 (BGRA8, 8X8)
+[2017.10.07-18.36.22:899][951]LogTexture: Display: Building textures: Texture2D_446 (BGRA8, 8X8)
+[2017.10.07-18.36.22:997][951]LogTexture: Display: Building textures: Texture2D_447 (BGRA8, 8X8)
+[2017.10.07-18.36.23:045][951]LogTexture: Display: Building textures: Texture2D_448 (BGRA8, 8X8)
+[2017.10.07-18.36.23:117][951]LogTexture: Display: Building textures: Texture2D_449 (BGRA8, 8X8)
+[2017.10.07-18.36.23:186][951]LogTexture: Display: Building textures: Texture2D_450 (BGRA8, 8X8)
+[2017.10.07-18.36.23:283][951]LogTexture: Display: Building textures: Texture2D_451 (BGRA8, 8X8)
+[2017.10.07-18.36.23:352][951]LogTexture: Display: Building textures: Texture2D_452 (BGRA8, 8X8)
+[2017.10.07-18.36.23:399][951]LogTexture: Display: Building textures: Texture2D_453 (BGRA8, 8X8)
+[2017.10.07-18.36.23:465][951]LogTexture: Display: Building textures: Texture2D_454 (BGRA8, 8X8)
+[2017.10.07-18.36.23:555][951]LogTexture: Display: Building textures: Texture2D_455 (BGRA8, 8X8)
+[2017.10.07-18.36.23:627][951]LogTexture: Display: Building textures: Texture2D_456 (BGRA8, 8X8)
+[2017.10.07-18.36.23:704][951]LogTexture: Display: Building textures: Texture2D_457 (BGRA8, 8X8)
+[2017.10.07-18.36.23:791][951]LogTexture: Display: Building textures: Texture2D_458 (BGRA8, 8X8)
+[2017.10.07-18.36.23:887][951]LogTexture: Display: Building textures: Texture2D_459 (BGRA8, 8X8)
+[2017.10.07-18.36.23:961][951]LogTexture: Display: Building textures: Texture2D_460 (BGRA8, 8X8)
+[2017.10.07-18.36.24:038][951]LogTexture: Display: Building textures: Texture2D_461 (BGRA8, 8X8)
+[2017.10.07-18.36.24:111][951]LogTexture: Display: Building textures: Texture2D_462 (BGRA8, 8X8)
+[2017.10.07-18.36.24:184][951]LogTexture: Display: Building textures: Texture2D_463 (BGRA8, 8X8)
+[2017.10.07-18.36.24:264][951]LogTexture: Display: Building textures: Texture2D_464 (BGRA8, 8X8)
+[2017.10.07-18.36.24:340][951]LogTexture: Display: Building textures: Texture2D_465 (BGRA8, 8X8)
+[2017.10.07-18.36.24:412][951]LogTexture: Display: Building textures: Texture2D_466 (BGRA8, 8X8)
+[2017.10.07-18.36.24:485][951]LogTexture: Display: Building textures: Texture2D_467 (BGRA8, 8X8)
+[2017.10.07-18.36.24:563][951]LogTexture: Display: Building textures: Texture2D_468 (BGRA8, 8X8)
+[2017.10.07-18.36.24:633][951]LogTexture: Display: Building textures: Texture2D_469 (BGRA8, 8X8)
+[2017.10.07-18.36.24:709][951]LogTexture: Display: Building textures: Texture2D_470 (BGRA8, 8X8)
+[2017.10.07-18.36.24:785][951]LogTexture: Display: Building textures: Texture2D_471 (BGRA8, 8X8)
+[2017.10.07-18.36.24:864][951]LogTexture: Display: Building textures: Texture2D_472 (BGRA8, 8X8)
+[2017.10.07-18.36.24:953][951]LogTexture: Display: Building textures: Texture2D_473 (BGRA8, 8X8)
+[2017.10.07-18.36.25:047][951]LogTexture: Display: Building textures: Texture2D_474 (BGRA8, 8X8)
+[2017.10.07-18.36.25:128][951]LogTexture: Display: Building textures: Texture2D_475 (BGRA8, 8X8)
+[2017.10.07-18.36.25:208][951]LogTexture: Display: Building textures: Texture2D_476 (BGRA8, 8X8)
+[2017.10.07-18.36.25:296][951]LogTexture: Display: Building textures: Texture2D_477 (BGRA8, 8X8)
+[2017.10.07-18.36.25:367][951]LogTexture: Display: Building textures: Texture2D_478 (BGRA8, 8X8)
+[2017.10.07-18.36.25:439][951]LogTexture: Display: Building textures: Texture2D_479 (BGRA8, 8X8)
+[2017.10.07-18.36.25:514][951]LogTexture: Display: Building textures: Texture2D_480 (BGRA8, 8X8)
+[2017.10.07-18.36.25:587][951]LogTexture: Display: Building textures: Texture2D_481 (BGRA8, 8X8)
+[2017.10.07-18.36.25:660][951]LogTexture: Display: Building textures: Texture2D_482 (BGRA8, 8X8)
+[2017.10.07-18.36.25:732][951]LogTexture: Display: Building textures: Texture2D_483 (BGRA8, 8X8)
+[2017.10.07-18.36.25:811][951]LogTexture: Display: Building textures: Texture2D_484 (BGRA8, 8X8)
+[2017.10.07-18.36.25:884][951]LogTexture: Display: Building textures: Texture2D_485 (BGRA8, 8X8)
+[2017.10.07-18.36.25:961][951]LogTexture: Display: Building textures: Texture2D_486 (BGRA8, 8X8)
+[2017.10.07-18.36.26:048][951]LogTexture: Display: Building textures: Texture2D_487 (BGRA8, 8X8)
+[2017.10.07-18.36.26:152][951]LogTexture: Display: Building textures: Texture2D_488 (BGRA8, 8X8)
+[2017.10.07-18.36.26:229][951]LogTexture: Display: Building textures: Texture2D_489 (BGRA8, 8X8)
+[2017.10.07-18.36.26:359][951]LogTexture: Display: Building textures: Texture2D_490 (BGRA8, 8X8)
+[2017.10.07-18.36.26:428][951]LogTexture: Display: Building textures: Texture2D_491 (BGRA8, 8X8)
+[2017.10.07-18.36.26:500][951]LogTexture: Display: Building textures: Texture2D_492 (BGRA8, 8X8)
+[2017.10.07-18.36.26:573][951]LogTexture: Display: Building textures: Texture2D_493 (BGRA8, 8X8)
+[2017.10.07-18.36.26:643][951]LogTexture: Display: Building textures: Texture2D_494 (BGRA8, 8X8)
+[2017.10.07-18.36.26:711][951]LogTexture: Display: Building textures: Texture2D_495 (BGRA8, 8X8)
+[2017.10.07-18.36.26:784][951]LogTexture: Display: Building textures: Texture2D_496 (BGRA8, 8X8)
+[2017.10.07-18.36.26:857][951]LogTexture: Display: Building textures: Texture2D_497 (BGRA8, 8X8)
+[2017.10.07-18.36.26:938][951]LogTexture: Display: Building textures: Texture2D_498 (BGRA8, 8X8)
+[2017.10.07-18.36.27:019][951]LogTexture: Display: Building textures: Texture2D_499 (BGRA8, 8X8)
+[2017.10.07-18.36.27:109][951]LogTexture: Display: Building textures: Texture2D_500 (BGRA8, 8X8)
+[2017.10.07-18.36.27:192][951]LogTexture: Display: Building textures: Texture2D_501 (BGRA8, 8X8)
+[2017.10.07-18.36.27:282][951]LogTexture: Display: Building textures: Texture2D_502 (BGRA8, 8X8)
+[2017.10.07-18.36.27:380][951]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 8X8)
+[2017.10.07-18.36.27:453][951]LogTexture: Display: Building textures: Texture2D_504 (BGRA8, 8X8)
+[2017.10.07-18.36.27:524][951]LogTexture: Display: Building textures: Texture2D_505 (BGRA8, 8X8)
+[2017.10.07-18.36.27:596][951]LogTexture: Display: Building textures: Texture2D_506 (BGRA8, 8X8)
+[2017.10.07-18.36.27:666][951]LogTexture: Display: Building textures: Texture2D_507 (BGRA8, 8X8)
+[2017.10.07-18.36.27:739][951]LogTexture: Display: Building textures: Texture2D_508 (BGRA8, 8X8)
+[2017.10.07-18.36.27:813][951]LogTexture: Display: Building textures: Texture2D_509 (BGRA8, 8X8)
+[2017.10.07-18.36.27:897][951]LogTexture: Display: Building textures: Texture2D_510 (BGRA8, 8X8)
+[2017.10.07-18.36.27:976][951]LogTexture: Display: Building textures: Texture2D_511 (BGRA8, 8X8)
+[2017.10.07-18.36.28:068][951]LogTexture: Display: Building textures: Texture2D_512 (BGRA8, 8X8)
+[2017.10.07-18.36.28:171][951]LogTexture: Display: Building textures: Texture2D_513 (BGRA8, 8X8)
+[2017.10.07-18.37.22:352][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Foliage/Grass/grass_LayerInfo" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/Foliage/Grass/grass_LayerInfo.uasset" SILENT=true
+[2017.10.07-18.37.22:364][409]LogSavePackage: Save=7.09ms
+[2017.10.07-18.37.22:364][409]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/grass_LayerInfo44C37D1D4D50A3AB6E154EB7968B242C.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/Foliage/Grass/grass_LayerInfo.uasset'
+[2017.10.07-18.37.22:368][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/Foliage/Grass/grass_LayerInfo.uasset
+[2017.10.07-18.37.54:189][751]Cmd: TRANSACTION UNDO
+[2017.10.07-18.37.54:189][751]LogEditorTransaction: Undo Criando Nova Camada de Paisagem
+[2017.10.07-18.38.01:206][751]Cmd: TRANSACTION UNDO
+[2017.10.07-18.38.01:206][751]LogEditorTransaction: Undo Editar Material de Paisagem
+[2017.10.07-18.38.02:329][751]Cmd: TRANSACTION UNDO
+[2017.10.07-18.38.02:329][751]LogEditorTransaction: Undo Editar Material do Buraco de Paisagem
+[2017.10.07-18.40.40:629][489]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.40:629][489]LogEditorTransaction: Undo Clicando nos Atores
+[2017.10.07-18.40.41:428][511]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.41:428][511]LogEditorTransaction: Undo Clicando nos Atores
+[2017.10.07-18.40.42:096][528]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.42:096][528]LogEditorTransaction: Undo Clicando nos Atores
+[2017.10.07-18.40.42:877][552]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.42:877][552]LogEditorTransaction: Undo Editar Material do Buraco de Paisagem
+[2017.10.07-18.40.43:814][579]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.43:814][579]LogEditorTransaction: Undo Clicando nos Atores
+[2017.10.07-18.40.44:549][597]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.44:549][597]LogEditorTransaction: Undo Editar Material de Paisagem
+[2017.10.07-18.40.45:736][597]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.45:736][597]LogEditorTransaction: Undo Editar Material do Buraco de Paisagem
+[2017.10.07-18.40.47:843][626]Cmd: TRANSACTION UNDO
+[2017.10.07-18.40.47:843][626]LogEditorTransaction: Undo Clicando nos Atores
+[2017.10.07-18.42.04:300][341]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.42.04:448][341]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.42.04:464][341]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.42.04:509][341]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.42.08:059][484]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.42.08:059][484]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.42.08:059][484]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.42.08:059][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.42.17:196][ 20]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.42.17:219][ 20]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.42.19:305][ 65]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.42.19:305][ 65]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.42.19:305][ 65]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.42.19:305][ 65]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.42.26:727][184]LogMaterialEditor: Saving and Compiling material grass
+[2017.10.07-18.42.28:135][184]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.42.28:176][184]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.42.28:208][184]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.42.28:228][184]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.42.28:240][184]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.42.28:380][184]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass, compiling. 
+[2017.10.07-18.42.29:376][184]TextureStreamingBuild: Display: Compiling optional shaders took 1.002 seconds.
+[2017.10.07-18.42.31:466][184]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.42.31:739][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset" SILENT=true
+[2017.10.07-18.42.31:806][184]LogSavePackage: Save=29.56ms
+[2017.10.07-18.42.31:806][184]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/grass9119575E4A650C66DF60C3868984EFDE.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset'
+[2017.10.07-18.42.31:812][184]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset
+[2017.10.07-18.42.31:830][184]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.42.31:830][184]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.42.31:830][184]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.07-18.42.31:830][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.43.05:098][851]LogSavePackage: Save=4357.14ms
+[2017.10.07-18.43.05:098][851]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap_Auto1D6DEBFD94903ECAB2ACD08897E8A75FA.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.10.07-18.43.05:103][851]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.10.07-18.43.05:108][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 4.495
+[2017.10.07-18.43.05:108][851]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.495
+[2017.10.07-18.44.53:524][ 22]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.44.53:539][ 22]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.44.56:023][ 76]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.44.56:023][ 76]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.44.56:023][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.44.56:023][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.44.59:046][141]Cmd: TRANSACTION UNDO
+[2017.10.07-18.44.59:046][141]LogEditorTransaction: Undo Editar Textura
+[2017.10.07-18.44.59:095][141]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.44.59:303][141]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.44.59:322][141]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.07-18.45.01:619][224]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.45.01:619][224]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.45.01:619][224]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.07-18.45.01:619][224]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.45.04:611][288]LogMaterialEditor: Applying material grass
+[2017.10.07-18.45.05:291][288]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.45.05:329][288]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.05:359][288]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.05:379][288]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.05:391][288]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.05:470][288]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy grass, compiling. 
+[2017.10.07-18.45.06:553][288]TextureStreamingBuild: Display: Compiling optional shaders took 1.089 seconds.
+[2017.10.07-18.45.09:375][296]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.09:489][297]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.45.09:489][297]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.45.09:489][297]MaterialEditorStats: Texture samplers: 3/16
+[2017.10.07-18.45.09:489][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.45.17:871][831]LogTexture: Display: Building textures: Texture2D_514 (BGRA8, 8X8)
+[2017.10.07-18.45.17:911][831]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.45.17:999][831]LogTexture: Display: Building textures: Texture2D_515 (BGRA8, 8X8)
+[2017.10.07-18.45.18:063][831]LogTexture: Display: Building textures: Texture2D_516 (BGRA8, 8X8)
+[2017.10.07-18.45.18:114][831]LogTexture: Display: Building textures: Texture2D_517 (BGRA8, 8X8)
+[2017.10.07-18.45.18:175][831]LogTexture: Display: Building textures: Texture2D_518 (BGRA8, 8X8)
+[2017.10.07-18.45.18:234][831]LogTexture: Display: Building textures: Texture2D_519 (BGRA8, 8X8)
+[2017.10.07-18.45.18:295][831]LogTexture: Display: Building textures: Texture2D_520 (BGRA8, 8X8)
+[2017.10.07-18.45.18:362][831]LogTexture: Display: Building textures: Texture2D_521 (BGRA8, 8X8)
+[2017.10.07-18.45.18:424][831]LogTexture: Display: Building textures: Texture2D_522 (BGRA8, 8X8)
+[2017.10.07-18.45.18:489][831]LogTexture: Display: Building textures: Texture2D_523 (BGRA8, 8X8)
+[2017.10.07-18.45.18:553][831]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 8X8)
+[2017.10.07-18.45.18:613][831]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 8X8)
+[2017.10.07-18.45.18:675][831]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 8X8)
+[2017.10.07-18.45.18:736][831]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 8X8)
+[2017.10.07-18.45.18:800][831]LogTexture: Display: Building textures: Texture2D_528 (BGRA8, 8X8)
+[2017.10.07-18.45.18:860][831]LogTexture: Display: Building textures: Texture2D_529 (BGRA8, 8X8)
+[2017.10.07-18.45.18:922][831]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 8X8)
+[2017.10.07-18.45.18:989][831]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 8X8)
+[2017.10.07-18.45.19:055][831]LogTexture: Display: Building textures: Texture2D_532 (BGRA8, 8X8)
+[2017.10.07-18.45.19:117][831]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 8X8)
+[2017.10.07-18.45.19:181][831]LogTexture: Display: Building textures: Texture2D_534 (BGRA8, 8X8)
+[2017.10.07-18.45.19:242][831]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 8X8)
+[2017.10.07-18.45.19:306][831]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 8X8)
+[2017.10.07-18.45.19:369][831]LogTexture: Display: Building textures: Texture2D_537 (BGRA8, 8X8)
+[2017.10.07-18.45.19:431][831]LogTexture: Display: Building textures: Texture2D_538 (BGRA8, 8X8)
+[2017.10.07-18.45.19:500][831]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 8X8)
+[2017.10.07-18.45.19:567][831]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 8X8)
+[2017.10.07-18.45.19:627][831]LogTexture: Display: Building textures: Texture2D_541 (BGRA8, 8X8)
+[2017.10.07-18.45.19:690][831]LogTexture: Display: Building textures: Texture2D_542 (BGRA8, 8X8)
+[2017.10.07-18.45.19:756][831]LogTexture: Display: Building textures: Texture2D_543 (BGRA8, 8X8)
+[2017.10.07-18.45.19:824][831]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 8X8)
+[2017.10.07-18.45.19:884][831]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 8X8)
+[2017.10.07-18.45.19:941][831]LogTexture: Display: Building textures: Texture2D_546 (BGRA8, 8X8)
+[2017.10.07-18.45.20:003][831]LogTexture: Display: Building textures: Texture2D_547 (BGRA8, 8X8)
+[2017.10.07-18.45.20:070][831]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 8X8)
+[2017.10.07-18.45.20:164][831]LogTexture: Display: Building textures: Texture2D_549 (BGRA8, 8X8)
+[2017.10.07-18.45.20:236][831]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 8X8)
+[2017.10.07-18.45.20:305][831]LogTexture: Display: Building textures: Texture2D_551 (BGRA8, 8X8)
+[2017.10.07-18.45.20:366][831]LogTexture: Display: Building textures: Texture2D_552 (BGRA8, 8X8)
+[2017.10.07-18.45.20:429][831]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 8X8)
+[2017.10.07-18.45.20:500][831]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 8X8)
+[2017.10.07-18.45.20:571][831]LogTexture: Display: Building textures: Texture2D_555 (BGRA8, 8X8)
+[2017.10.07-18.45.20:635][831]LogTexture: Display: Building textures: Texture2D_556 (BGRA8, 8X8)
+[2017.10.07-18.45.20:699][831]LogTexture: Display: Building textures: Texture2D_557 (BGRA8, 8X8)
+[2017.10.07-18.45.20:765][831]LogTexture: Display: Building textures: Texture2D_558 (BGRA8, 8X8)
+[2017.10.07-18.45.20:842][831]LogTexture: Display: Building textures: Texture2D_559 (BGRA8, 8X8)
+[2017.10.07-18.45.20:905][831]LogTexture: Display: Building textures: Texture2D_560 (BGRA8, 8X8)
+[2017.10.07-18.45.20:971][831]LogTexture: Display: Building textures: Texture2D_561 (BGRA8, 8X8)
+[2017.10.07-18.45.21:043][831]LogTexture: Display: Building textures: Texture2D_562 (BGRA8, 8X8)
+[2017.10.07-18.45.21:114][831]LogTexture: Display: Building textures: Texture2D_563 (BGRA8, 8X8)
+[2017.10.07-18.45.21:186][831]LogTexture: Display: Building textures: Texture2D_564 (BGRA8, 8X8)
+[2017.10.07-18.45.21:254][831]LogTexture: Display: Building textures: Texture2D_565 (BGRA8, 8X8)
+[2017.10.07-18.45.21:325][831]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 8X8)
+[2017.10.07-18.45.21:393][831]LogTexture: Display: Building textures: Texture2D_567 (BGRA8, 8X8)
+[2017.10.07-18.45.21:459][831]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 8X8)
+[2017.10.07-18.45.21:526][831]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 8X8)
+[2017.10.07-18.45.21:604][831]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 8X8)
+[2017.10.07-18.45.21:675][831]LogTexture: Display: Building textures: Texture2D_571 (BGRA8, 8X8)
+[2017.10.07-18.45.21:741][831]LogTexture: Display: Building textures: Texture2D_572 (BGRA8, 8X8)
+[2017.10.07-18.45.21:815][831]LogTexture: Display: Building textures: Texture2D_573 (BGRA8, 8X8)
+[2017.10.07-18.45.21:882][831]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 8X8)
+[2017.10.07-18.45.21:946][831]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 8X8)
+[2017.10.07-18.45.22:011][831]LogTexture: Display: Building textures: Texture2D_576 (BGRA8, 8X8)
+[2017.10.07-18.45.22:079][831]LogTexture: Display: Building textures: Texture2D_577 (BGRA8, 8X8)
+[2017.10.07-18.45.22:141][831]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 8X8)
+[2017.10.07-18.45.22:208][831]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 8X8)
+[2017.10.07-18.45.22:284][831]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 8X8)
+[2017.10.07-18.45.22:354][831]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 8X8)
+[2017.10.07-18.45.22:418][831]LogTexture: Display: Building textures: Texture2D_582 (BGRA8, 8X8)
+[2017.10.07-18.45.22:480][831]LogTexture: Display: Building textures: Texture2D_583 (BGRA8, 8X8)
+[2017.10.07-18.45.22:547][831]LogTexture: Display: Building textures: Texture2D_584 (BGRA8, 8X8)
+[2017.10.07-18.45.22:613][831]LogTexture: Display: Building textures: Texture2D_585 (BGRA8, 8X8)
+[2017.10.07-18.45.22:682][831]LogTexture: Display: Building textures: Texture2D_586 (BGRA8, 8X8)
+[2017.10.07-18.45.22:753][831]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 8X8)
+[2017.10.07-18.45.22:821][831]LogTexture: Display: Building textures: Texture2D_588 (BGRA8, 8X8)
+[2017.10.07-18.45.22:890][831]LogTexture: Display: Building textures: Texture2D_589 (BGRA8, 8X8)
+[2017.10.07-18.45.22:957][831]LogTexture: Display: Building textures: Texture2D_590 (BGRA8, 8X8)
+[2017.10.07-18.45.23:026][831]LogTexture: Display: Building textures: Texture2D_591 (BGRA8, 8X8)
+[2017.10.07-18.45.23:095][831]LogTexture: Display: Building textures: Texture2D_592 (BGRA8, 8X8)
+[2017.10.07-18.45.23:164][831]LogTexture: Display: Building textures: Texture2D_593 (BGRA8, 8X8)
+[2017.10.07-18.45.23:230][831]LogTexture: Display: Building textures: Texture2D_594 (BGRA8, 8X8)
+[2017.10.07-18.45.23:291][831]LogTexture: Display: Building textures: Texture2D_595 (BGRA8, 8X8)
+[2017.10.07-18.45.23:362][831]LogTexture: Display: Building textures: Texture2D_596 (BGRA8, 8X8)
+[2017.10.07-18.45.23:425][831]LogTexture: Display: Building textures: Texture2D_597 (BGRA8, 8X8)
+[2017.10.07-18.45.23:490][831]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 8X8)
+[2017.10.07-18.45.23:557][831]LogTexture: Display: Building textures: Texture2D_599 (BGRA8, 8X8)
+[2017.10.07-18.45.23:620][831]LogTexture: Display: Building textures: Texture2D_600 (BGRA8, 8X8)
+[2017.10.07-18.45.23:688][831]LogTexture: Display: Building textures: Texture2D_601 (BGRA8, 8X8)
+[2017.10.07-18.45.23:756][831]LogTexture: Display: Building textures: Texture2D_602 (BGRA8, 8X8)
+[2017.10.07-18.45.23:824][831]LogTexture: Display: Building textures: Texture2D_603 (BGRA8, 8X8)
+[2017.10.07-18.45.23:889][831]LogTexture: Display: Building textures: Texture2D_604 (BGRA8, 8X8)
+[2017.10.07-18.45.23:962][831]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 8X8)
+[2017.10.07-18.45.24:028][831]LogTexture: Display: Building textures: Texture2D_606 (BGRA8, 8X8)
+[2017.10.07-18.45.24:094][831]LogTexture: Display: Building textures: Texture2D_607 (BGRA8, 8X8)
+[2017.10.07-18.45.24:160][831]LogTexture: Display: Building textures: Texture2D_608 (BGRA8, 8X8)
+[2017.10.07-18.45.24:223][831]LogTexture: Display: Building textures: Texture2D_609 (BGRA8, 8X8)
+[2017.10.07-18.45.24:287][831]LogTexture: Display: Building textures: Texture2D_610 (BGRA8, 8X8)
+[2017.10.07-18.45.24:354][831]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 8X8)
+[2017.10.07-18.45.24:419][831]LogTexture: Display: Building textures: Texture2D_612 (BGRA8, 8X8)
+[2017.10.07-18.45.24:484][831]LogTexture: Display: Building textures: Texture2D_613 (BGRA8, 8X8)
+[2017.10.07-18.45.24:549][831]LogTexture: Display: Building textures: Texture2D_614 (BGRA8, 8X8)
+[2017.10.07-18.45.24:615][831]LogTexture: Display: Building textures: Texture2D_615 (BGRA8, 8X8)
+[2017.10.07-18.45.24:679][831]LogTexture: Display: Building textures: Texture2D_616 (BGRA8, 8X8)
+[2017.10.07-18.45.24:747][831]LogTexture: Display: Building textures: Texture2D_617 (BGRA8, 8X8)
+[2017.10.07-18.45.24:818][831]LogTexture: Display: Building textures: Texture2D_618 (BGRA8, 8X8)
+[2017.10.07-18.45.24:882][831]LogTexture: Display: Building textures: Texture2D_619 (BGRA8, 8X8)
+[2017.10.07-18.45.24:946][831]LogTexture: Display: Building textures: Texture2D_620 (BGRA8, 8X8)
+[2017.10.07-18.45.25:011][831]LogTexture: Display: Building textures: Texture2D_621 (BGRA8, 8X8)
+[2017.10.07-18.45.25:079][831]LogTexture: Display: Building textures: Texture2D_622 (BGRA8, 8X8)
+[2017.10.07-18.45.25:144][831]LogTexture: Display: Building textures: Texture2D_623 (BGRA8, 8X8)
+[2017.10.07-18.45.25:240][831]LogTexture: Display: Building textures: Texture2D_624 (BGRA8, 8X8)
+[2017.10.07-18.45.25:291][831]LogTexture: Display: Building textures: Texture2D_625 (BGRA8, 8X8)
+[2017.10.07-18.45.25:352][831]LogTexture: Display: Building textures: Texture2D_626 (BGRA8, 8X8)
+[2017.10.07-18.45.25:418][831]LogTexture: Display: Building textures: Texture2D_627 (BGRA8, 8X8)
+[2017.10.07-18.45.25:487][831]LogTexture: Display: Building textures: Texture2D_628 (BGRA8, 8X8)
+[2017.10.07-18.45.25:550][831]LogTexture: Display: Building textures: Texture2D_629 (BGRA8, 8X8)
+[2017.10.07-18.45.25:620][831]LogTexture: Display: Building textures: Texture2D_630 (BGRA8, 8X8)
+[2017.10.07-18.45.25:685][831]LogTexture: Display: Building textures: Texture2D_631 (BGRA8, 8X8)
+[2017.10.07-18.45.25:756][831]LogTexture: Display: Building textures: Texture2D_632 (BGRA8, 8X8)
+[2017.10.07-18.45.25:843][831]LogTexture: Display: Building textures: Texture2D_633 (BGRA8, 8X8)
+[2017.10.07-18.45.25:913][831]LogTexture: Display: Building textures: Texture2D_634 (BGRA8, 8X8)
+[2017.10.07-18.45.25:980][831]LogTexture: Display: Building textures: Texture2D_635 (BGRA8, 8X8)
+[2017.10.07-18.45.26:049][831]LogTexture: Display: Building textures: Texture2D_636 (BGRA8, 8X8)
+[2017.10.07-18.45.26:114][831]LogTexture: Display: Building textures: Texture2D_637 (BGRA8, 8X8)
+[2017.10.07-18.45.26:184][831]LogTexture: Display: Building textures: Texture2D_638 (BGRA8, 8X8)
+[2017.10.07-18.45.26:256][831]LogTexture: Display: Building textures: Texture2D_639 (BGRA8, 8X8)
+[2017.10.07-18.45.26:332][831]LogTexture: Display: Building textures: Texture2D_640 (BGRA8, 8X8)
+[2017.10.07-18.45.26:404][831]LogTexture: Display: Building textures: Texture2D_641 (BGRA8, 8X8)
+[2017.10.07-18.45.26:482][831]LogTexture: Display: Building textures: Texture2D_642 (BGRA8, 8X8)
+[2017.10.07-18.45.26:572][831]LogTexture: Display: Building textures: Texture2D_643 (BGRA8, 8X8)
+[2017.10.07-18.45.26:639][831]LogTexture: Display: Building textures: Texture2D_644 (BGRA8, 8X8)
+[2017.10.07-18.45.26:717][831]LogTexture: Display: Building textures: Texture2D_645 (BGRA8, 8X8)
+[2017.10.07-18.45.26:797][831]LogTexture: Display: Building textures: Texture2D_646 (BGRA8, 8X8)
+[2017.10.07-18.45.26:881][831]LogTexture: Display: Building textures: Texture2D_647 (BGRA8, 8X8)
+[2017.10.07-18.45.26:956][831]LogTexture: Display: Building textures: Texture2D_648 (BGRA8, 8X8)
+[2017.10.07-18.45.27:030][831]LogTexture: Display: Building textures: Texture2D_649 (BGRA8, 8X8)
+[2017.10.07-18.45.27:141][831]LogTexture: Display: Building textures: Texture2D_650 (BGRA8, 8X8)
+[2017.10.07-18.45.27:181][831]LogTexture: Display: Building textures: Texture2D_651 (BGRA8, 8X8)
+[2017.10.07-18.45.27:266][831]LogTexture: Display: Building textures: Texture2D_652 (BGRA8, 8X8)
+[2017.10.07-18.45.27:336][831]LogTexture: Display: Building textures: Texture2D_653 (BGRA8, 8X8)
+[2017.10.07-18.45.27:414][831]LogTexture: Display: Building textures: Texture2D_654 (BGRA8, 8X8)
+[2017.10.07-18.45.27:475][831]LogTexture: Display: Building textures: Texture2D_655 (BGRA8, 8X8)
+[2017.10.07-18.45.27:553][831]LogTexture: Display: Building textures: Texture2D_656 (BGRA8, 8X8)
+[2017.10.07-18.45.27:626][831]LogTexture: Display: Building textures: Texture2D_657 (BGRA8, 8X8)
+[2017.10.07-18.45.27:692][831]LogTexture: Display: Building textures: Texture2D_658 (BGRA8, 8X8)
+[2017.10.07-18.45.27:758][831]LogTexture: Display: Building textures: Texture2D_659 (BGRA8, 8X8)
+[2017.10.07-18.45.27:829][831]LogTexture: Display: Building textures: Texture2D_660 (BGRA8, 8X8)
+[2017.10.07-18.45.27:907][831]LogTexture: Display: Building textures: Texture2D_661 (BGRA8, 8X8)
+[2017.10.07-18.45.27:976][831]LogTexture: Display: Building textures: Texture2D_662 (BGRA8, 8X8)
+[2017.10.07-18.45.28:041][831]LogTexture: Display: Building textures: Texture2D_663 (BGRA8, 8X8)
+[2017.10.07-18.45.28:110][831]LogTexture: Display: Building textures: Texture2D_664 (BGRA8, 8X8)
+[2017.10.07-18.45.28:184][831]LogTexture: Display: Building textures: Texture2D_665 (BGRA8, 8X8)
+[2017.10.07-18.45.28:256][831]LogTexture: Display: Building textures: Texture2D_666 (BGRA8, 8X8)
+[2017.10.07-18.45.28:356][831]LogTexture: Display: Building textures: Texture2D_667 (BGRA8, 8X8)
+[2017.10.07-18.45.28:395][831]LogTexture: Display: Building textures: Texture2D_668 (BGRA8, 8X8)
+[2017.10.07-18.45.28:468][831]LogTexture: Display: Building textures: Texture2D_669 (BGRA8, 8X8)
+[2017.10.07-18.45.28:533][831]LogTexture: Display: Building textures: Texture2D_670 (BGRA8, 8X8)
+[2017.10.07-18.45.28:616][831]LogTexture: Display: Building textures: Texture2D_671 (BGRA8, 8X8)
+[2017.10.07-18.45.28:676][831]LogTexture: Display: Building textures: Texture2D_672 (BGRA8, 8X8)
+[2017.10.07-18.45.28:747][831]LogTexture: Display: Building textures: Texture2D_673 (BGRA8, 8X8)
+[2017.10.07-18.45.28:816][831]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 8X8)
+[2017.10.07-18.45.28:881][831]LogTexture: Display: Building textures: Texture2D_675 (BGRA8, 8X8)
+[2017.10.07-18.45.28:948][831]LogTexture: Display: Building textures: Texture2D_676 (BGRA8, 8X8)
+[2017.10.07-18.45.29:015][831]LogTexture: Display: Building textures: Texture2D_677 (BGRA8, 8X8)
+[2017.10.07-18.45.29:084][831]LogTexture: Display: Building textures: Texture2D_678 (BGRA8, 8X8)
+[2017.10.07-18.45.29:152][831]LogTexture: Display: Building textures: Texture2D_679 (BGRA8, 8X8)
+[2017.10.07-18.45.29:220][831]LogTexture: Display: Building textures: Texture2D_680 (BGRA8, 8X8)
+[2017.10.07-18.45.29:288][831]LogTexture: Display: Building textures: Texture2D_681 (BGRA8, 8X8)
+[2017.10.07-18.45.29:357][831]LogTexture: Display: Building textures: Texture2D_682 (BGRA8, 8X8)
+[2017.10.07-18.45.29:423][831]LogTexture: Display: Building textures: Texture2D_683 (BGRA8, 8X8)
+[2017.10.07-18.45.29:488][831]LogTexture: Display: Building textures: Texture2D_684 (BGRA8, 8X8)
+[2017.10.07-18.45.29:555][831]LogTexture: Display: Building textures: Texture2D_685 (BGRA8, 8X8)
+[2017.10.07-18.45.29:620][831]LogTexture: Display: Building textures: Texture2D_686 (BGRA8, 8X8)
+[2017.10.07-18.45.29:686][831]LogTexture: Display: Building textures: Texture2D_687 (BGRA8, 8X8)
+[2017.10.07-18.45.29:752][831]LogTexture: Display: Building textures: Texture2D_688 (BGRA8, 8X8)
+[2017.10.07-18.45.29:823][831]LogTexture: Display: Building textures: Texture2D_689 (BGRA8, 8X8)
+[2017.10.07-18.45.29:901][831]LogTexture: Display: Building textures: Texture2D_690 (BGRA8, 8X8)
+[2017.10.07-18.45.29:958][831]LogTexture: Display: Building textures: Texture2D_691 (BGRA8, 8X8)
+[2017.10.07-18.45.30:066][831]LogTexture: Display: Building textures: Texture2D_692 (BGRA8, 8X8)
+[2017.10.07-18.45.30:112][831]LogTexture: Display: Building textures: Texture2D_693 (BGRA8, 8X8)
+[2017.10.07-18.45.30:176][831]LogTexture: Display: Building textures: Texture2D_694 (BGRA8, 8X8)
+[2017.10.07-18.45.30:235][831]LogTexture: Display: Building textures: Texture2D_695 (BGRA8, 8X8)
+[2017.10.07-18.45.30:303][831]LogTexture: Display: Building textures: Texture2D_696 (BGRA8, 8X8)
+[2017.10.07-18.45.30:390][831]LogTexture: Display: Building textures: Texture2D_697 (BGRA8, 8X8)
+[2017.10.07-18.45.30:446][831]LogTexture: Display: Building textures: Texture2D_698 (BGRA8, 8X8)
+[2017.10.07-18.45.30:513][831]LogTexture: Display: Building textures: Texture2D_699 (BGRA8, 8X8)
+[2017.10.07-18.45.30:582][831]LogTexture: Display: Building textures: Texture2D_700 (BGRA8, 8X8)
+[2017.10.07-18.45.30:648][831]LogTexture: Display: Building textures: Texture2D_701 (BGRA8, 8X8)
+[2017.10.07-18.45.30:715][831]LogTexture: Display: Building textures: Texture2D_702 (BGRA8, 8X8)
+[2017.10.07-18.45.30:780][831]LogTexture: Display: Building textures: Texture2D_703 (BGRA8, 8X8)
+[2017.10.07-18.45.30:849][831]LogTexture: Display: Building textures: Texture2D_704 (BGRA8, 8X8)
+[2017.10.07-18.45.30:917][831]LogTexture: Display: Building textures: Texture2D_705 (BGRA8, 8X8)
+[2017.10.07-18.45.30:984][831]LogTexture: Display: Building textures: Texture2D_706 (BGRA8, 8X8)
+[2017.10.07-18.45.31:052][831]LogTexture: Display: Building textures: Texture2D_707 (BGRA8, 8X8)
+[2017.10.07-18.45.31:120][831]LogTexture: Display: Building textures: Texture2D_708 (BGRA8, 8X8)
+[2017.10.07-18.45.31:187][831]LogTexture: Display: Building textures: Texture2D_709 (BGRA8, 8X8)
+[2017.10.07-18.45.31:254][831]LogTexture: Display: Building textures: Texture2D_710 (BGRA8, 8X8)
+[2017.10.07-18.45.31:323][831]LogTexture: Display: Building textures: Texture2D_711 (BGRA8, 8X8)
+[2017.10.07-18.45.31:390][831]LogTexture: Display: Building textures: Texture2D_712 (BGRA8, 8X8)
+[2017.10.07-18.45.31:457][831]LogTexture: Display: Building textures: Texture2D_713 (BGRA8, 8X8)
+[2017.10.07-18.45.31:525][831]LogTexture: Display: Building textures: Texture2D_714 (BGRA8, 8X8)
+[2017.10.07-18.45.31:599][831]LogTexture: Display: Building textures: Texture2D_715 (BGRA8, 8X8)
+[2017.10.07-18.45.31:666][831]LogTexture: Display: Building textures: Texture2D_716 (BGRA8, 8X8)
+[2017.10.07-18.45.31:733][831]LogTexture: Display: Building textures: Texture2D_717 (BGRA8, 8X8)
+[2017.10.07-18.45.31:800][831]LogTexture: Display: Building textures: Texture2D_718 (BGRA8, 8X8)
+[2017.10.07-18.45.31:867][831]LogTexture: Display: Building textures: Texture2D_719 (BGRA8, 8X8)
+[2017.10.07-18.45.31:934][831]LogTexture: Display: Building textures: Texture2D_720 (BGRA8, 8X8)
+[2017.10.07-18.45.32:001][831]LogTexture: Display: Building textures: Texture2D_721 (BGRA8, 8X8)
+[2017.10.07-18.45.32:069][831]LogTexture: Display: Building textures: Texture2D_722 (BGRA8, 8X8)
+[2017.10.07-18.45.32:144][831]LogTexture: Display: Building textures: Texture2D_723 (BGRA8, 8X8)
+[2017.10.07-18.45.32:211][831]LogTexture: Display: Building textures: Texture2D_724 (BGRA8, 8X8)
+[2017.10.07-18.45.32:280][831]LogTexture: Display: Building textures: Texture2D_725 (BGRA8, 8X8)
+[2017.10.07-18.45.32:354][831]LogTexture: Display: Building textures: Texture2D_726 (BGRA8, 8X8)
+[2017.10.07-18.45.32:421][831]LogTexture: Display: Building textures: Texture2D_727 (BGRA8, 8X8)
+[2017.10.07-18.45.32:490][831]LogTexture: Display: Building textures: Texture2D_728 (BGRA8, 8X8)
+[2017.10.07-18.45.32:559][831]LogTexture: Display: Building textures: Texture2D_729 (BGRA8, 8X8)
+[2017.10.07-18.45.32:628][831]LogTexture: Display: Building textures: Texture2D_730 (BGRA8, 8X8)
+[2017.10.07-18.45.32:695][831]LogTexture: Display: Building textures: Texture2D_731 (BGRA8, 8X8)
+[2017.10.07-18.45.32:761][831]LogTexture: Display: Building textures: Texture2D_732 (BGRA8, 8X8)
+[2017.10.07-18.45.32:832][831]LogTexture: Display: Building textures: Texture2D_733 (BGRA8, 8X8)
+[2017.10.07-18.45.32:896][831]LogTexture: Display: Building textures: Texture2D_734 (BGRA8, 8X8)
+[2017.10.07-18.45.32:962][831]LogTexture: Display: Building textures: Texture2D_735 (BGRA8, 8X8)
+[2017.10.07-18.45.33:028][831]LogTexture: Display: Building textures: Texture2D_736 (BGRA8, 8X8)
+[2017.10.07-18.45.33:099][831]LogTexture: Display: Building textures: Texture2D_737 (BGRA8, 8X8)
+[2017.10.07-18.45.33:165][831]LogTexture: Display: Building textures: Texture2D_738 (BGRA8, 8X8)
+[2017.10.07-18.45.33:228][831]LogTexture: Display: Building textures: Texture2D_739 (BGRA8, 8X8)
+[2017.10.07-18.45.33:295][831]LogTexture: Display: Building textures: Texture2D_740 (BGRA8, 8X8)
+[2017.10.07-18.45.33:364][831]LogTexture: Display: Building textures: Texture2D_741 (BGRA8, 8X8)
+[2017.10.07-18.45.33:429][831]LogTexture: Display: Building textures: Texture2D_742 (BGRA8, 8X8)
+[2017.10.07-18.45.33:494][831]LogTexture: Display: Building textures: Texture2D_743 (BGRA8, 8X8)
+[2017.10.07-18.45.33:560][831]LogTexture: Display: Building textures: Texture2D_744 (BGRA8, 8X8)
+[2017.10.07-18.45.33:627][831]LogTexture: Display: Building textures: Texture2D_745 (BGRA8, 8X8)
+[2017.10.07-18.45.33:693][831]LogTexture: Display: Building textures: Texture2D_746 (BGRA8, 8X8)
+[2017.10.07-18.45.33:756][831]LogTexture: Display: Building textures: Texture2D_747 (BGRA8, 8X8)
+[2017.10.07-18.45.33:821][831]LogTexture: Display: Building textures: Texture2D_748 (BGRA8, 8X8)
+[2017.10.07-18.45.33:888][831]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 8X8)
+[2017.10.07-18.45.33:953][831]LogTexture: Display: Building textures: Texture2D_750 (BGRA8, 8X8)
+[2017.10.07-18.45.34:020][831]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 8X8)
+[2017.10.07-18.45.34:088][831]LogTexture: Display: Building textures: Texture2D_752 (BGRA8, 8X8)
+[2017.10.07-18.45.34:155][831]LogTexture: Display: Building textures: Texture2D_753 (BGRA8, 8X8)
+[2017.10.07-18.45.34:222][831]LogTexture: Display: Building textures: Texture2D_754 (BGRA8, 8X8)
+[2017.10.07-18.45.34:287][831]LogTexture: Display: Building textures: Texture2D_755 (BGRA8, 8X8)
+[2017.10.07-18.45.34:361][831]LogTexture: Display: Building textures: Texture2D_756 (BGRA8, 8X8)
+[2017.10.07-18.45.34:427][831]LogTexture: Display: Building textures: Texture2D_757 (BGRA8, 8X8)
+[2017.10.07-18.45.34:493][831]LogTexture: Display: Building textures: Texture2D_758 (BGRA8, 8X8)
+[2017.10.07-18.45.34:560][831]LogTexture: Display: Building textures: Texture2D_759 (BGRA8, 8X8)
+[2017.10.07-18.45.34:627][831]LogTexture: Display: Building textures: Texture2D_760 (BGRA8, 8X8)
+[2017.10.07-18.45.34:694][831]LogTexture: Display: Building textures: Texture2D_761 (BGRA8, 8X8)
+[2017.10.07-18.45.34:762][831]LogTexture: Display: Building textures: Texture2D_762 (BGRA8, 8X8)
+[2017.10.07-18.45.34:831][831]LogTexture: Display: Building textures: Texture2D_763 (BGRA8, 8X8)
+[2017.10.07-18.45.34:899][831]LogTexture: Display: Building textures: Texture2D_764 (BGRA8, 8X8)
+[2017.10.07-18.45.34:965][831]LogTexture: Display: Building textures: Texture2D_765 (BGRA8, 8X8)
+[2017.10.07-18.45.35:031][831]LogTexture: Display: Building textures: Texture2D_766 (BGRA8, 8X8)
+[2017.10.07-18.45.35:115][831]LogTexture: Display: Building textures: Texture2D_767 (BGRA8, 8X8)
+[2017.10.07-18.45.35:188][831]LogTexture: Display: Building textures: Texture2D_768 (BGRA8, 8X8)
+[2017.10.07-18.45.35:258][831]LogTexture: Display: Building textures: Texture2D_769 (BGRA8, 8X8)
+[2017.10.07-18.46.26:641][134]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-18.46.26:968][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-18.46.26:969][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-18.46.26:980][134]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/10/2017 12:46:26)
+[2017.10.07-18.46.26:981][134]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.07-18.46.27:147][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.166475s)
+[2017.10.07-18.46.27:149][134]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.07-18.46.27:149][134]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2017.10.07-18.46.27:150][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.170029s)
+[2017.10.07-18.46.27:186][134]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-18.46.27:230][134]LogInit: FAudioDevice initialized.
+[2017.10.07-18.46.27:304][134]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.07-18.46.27:368][134]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.07-15.46.27
+[2017.10.07-18.46.27:379][134]LogWorld: Bringing up level for play took: 0.061576
+[2017.10.07-18.46.27:661][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0026 seconds. Added 11 classes and 0 folders.
+[2017.10.07-18.46.27:699][134]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,536
+[2017.10.07-18.46.27:701][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-18.46.27:799][134]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-18.46.45:711][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-18.46.45:817][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-18.46.48:538][637]MapCheck: New page: Verificação de Mapa
+[2017.10.07-18.46.48:551][637]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.07-18.46.48:604][637]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.07-18.46.48:736][637]LightingResults: New page: Compilação de Iluminação - 07/10/2017 12:46:48
+[2017.10.07-18.46.48:789][637]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2017.10.07-18.46.48:789][637]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2017.10.07-18.46.48:789][637]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2017.10.07-18.46.48:789][637]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2017.10.07-18.46.48:789][637]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2017.10.07-18.46.49:425][637]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.07-18.46.49:597][637]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.07-18.46.49:670][637]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.07-18.46.50:739][637]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.07-18.46.50:739][637]LogSwarmInterface: [TryOpenConnection] Local Process ID is 31232
+[2017.10.07-18.46.58:912][637]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.07-18.46.58:912][637]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.07-18.46.58:912][637]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.07-18.46.58:912][637]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.07-18.46.58:912][637]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.07-18.46.59:543][637]LogEditorBuildUtils: Build time 0:10
+[2017.10.07-18.47.01:044][674]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.10.07-18.47.01:061][674]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. 
+[2017.10.07-18.47.47:951][354]LogMaterialEditor: Saving and Compiling material grass
+[2017.10.07-18.47.48:178][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset" SILENT=true
+[2017.10.07-18.47.48:232][354]LogSavePackage: Save=20.57ms
+[2017.10.07-18.47.48:232][354]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/grassFD994AD44AC430393DE12FB7B22355A4.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset'
+[2017.10.07-18.47.48:237][354]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset
+[2017.10.07-18.47.53:118][510]LightingResults: Warning: Fountain_mdl O objeto tem um UVs fora do intervalo.
+[2017.10.07-18.48.03:028][663]Job is a success!
+[2017.10.07-18.48.03:710][664]LogMaterial: Warning: Material /Game/grass.grass needed to have new flag set bUsedWithStaticLighting !
+[2017.10.07-18.48.03:716][664]LogMaterial: Warning: Material /Engine/Transient.PreviewMaterial_0 needed to have new flag set bUsedWithStaticLighting !
+[2017.10.07-18.48.03:719][664]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.07-18.48.03:741][664]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.48.03:790][664]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.48.03:858][664]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.48.05:284][664]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.10.07-18.48.05:284][664]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2017.10.07-18.48.05:285][664]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2017.10.07-18.48.05:437][664]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X256)
+[2017.10.07-18.48.05:437][664]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2017.10.07-18.48.05:437][664]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X256)
+[2017.10.07-18.48.05:508][664]Lightmass on DESKTOP-V0QB7PK: 17.7 sec total, 2.20 sec importing, 499 ms setup, 522 ms photons, 14.4 sec processing, 0 ms extra exporting [1172/1172 mappings]. Threads: 57.7 sec total, 34.4 sec processing.
+[2017.10.07-18.48.05:604][664]LogStaticLightingSystem: Illumination: 1:16 min (1.31 sec encoding lightmaps, 149 ms encoding shadowmaps)
+[2017.10.07-18.48.05:604][664]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (5.3 MB streaming, 0.7 MB non-streaming), 6 textures
+[2017.10.07-18.48.05:604][664]LogStaticLightingSystem: Shadowmap texture memory: 0.8 MB (0.7 MB streaming, 0.1 MB non-streaming), 3 textures
+[2017.10.07-18.48.05:944][664]DumpUnbuiltLightIteractions
+[2017.10.07-18.48.05:944][664]Lights with unbuilt interactions: 0
+[2017.10.07-18.48.05:944][664]
+[2017.10.07-18.48.05:944][664]Primitives with unbuilt interactions: 0
+[2017.10.07-18.48.05:966][665]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.07-18.48.05:967][665]MapCheck: New page: ThirdPersonExampleMap - 07/10/2017 12:48:05
+[2017.10.07-18.48.05:971][665]MapCheck: Warning: Drawer_Mesh3 SkeletalMeshActor '/Game/deco/Drawer.Drawer_Mesh ' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.10.07-18.48.05:972][665]MapCheck: Warning: Drawer_Mesh5 SkeletalMeshActor '/Game/deco/Drawer.Drawer_Mesh ' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.10.07-18.48.05:972][665]MapCheck: Warning: Drawer_Mesh_14 SkeletalMeshActor '/Game/deco/Drawer.Drawer_Mesh ' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.10.07-18.48.06:632][665]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 665,67ms to complete.
+[2017.10.07-18.48.13:745][993]MaterialEditorStats: Base pass shader: 81 instructions
+[2017.10.07-18.48.13:745][993]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.07-18.48.13:745][993]MaterialEditorStats: Texture samplers: 4/16
+[2017.10.07-18.48.13:745][993]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.07-18.48.19:477][252]LogMaterialEditor: Saving and Compiling material grass
+[2017.10.07-18.48.19:542][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/grass" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset" SILENT=true
+[2017.10.07-18.48.19:569][252]LogSavePackage: Save=9.37ms
+[2017.10.07-18.48.19:570][252]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/grass621365C04C3D673751B8D489D3F0D096.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset'
+[2017.10.07-18.48.19:578][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/grass.uasset
+[2017.10.07-18.48.26:999][570]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.07-18.48.30:052][718]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.07-18.48.38:923][986]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.07-18.48.40:508][ 29]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.07-18.48.41:369][108]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.10.07-18.48.59:783][484]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.48.59:803][484]LogMaterial: Missing cached shader map for material grass, compiling. 
+[2017.10.07-18.49.32:974][557]LogUObjectGlobals: Warning: Falha ao encontrar objeto “Object /Game/Foliage/Grass/grass_LayerInfo.grass_LayerInfo”
+[2017.10.07-18.49.42:935][705]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2017.10.07-18.49.51:456][914]LogTexture: Display: Building textures: T_Leafe_Green_Normal (AutoDXT, 256X256)
+[2017.10.07-18.49.51:456][914]LogTexture: Display: Building textures: T_Leafe_Green_Diffuse (AutoDXT, 256X256)
+[2017.10.07-18.49.51:456][914]LogMaterial: Missing cached shader map for material Green_Leaf_Mat, compiling. 
+[2017.10.07-18.49.51:581][914]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/UrbanCity/Particles/' is not a standard unreal filename or a long path name. Reason: O caminho não pode terminar com “/”
+[2017.10.07-18.49.51:582][914]LogLinker: Não é possível encontrar o arquivo “/Game/UrbanCity/Particles/”
+[2017.10.07-18.49.51:582][914]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/UrbanCity/Particles/' is not a standard unreal filename or a long path name. Reason: O caminho não pode terminar com “/”
+[2017.10.07-18.49.51:582][914]LogLinker: Não é possível encontrar o arquivo “/Game/UrbanCity/Particles/”
+[2017.10.07-18.49.52:146][917]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed 
+ at C:\Program Files\Epic Games\UnrealEngine-release\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:441 
+ with error E_OUTOFMEMORY, 
+ Size=4096x4096x1 Format=(0x00000035), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE 
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     73 = 131072 KB (2D 8192x8192 PF_ShadowDepth) PreShadowCacheDepthZ
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     66 = 131072 KB (2D 8192x8192 PF_ShadowDepth) WholeSceneShadowmap
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     68 = 131072 KB (2D 8192x8192 PF_ShadowDepth) WholeSceneShadowmap
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     67 = 131072 KB (2D 8192x8192 PF_ShadowDepth) WholeSceneShadowmap
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     80 = 7631 KB (2D 1292x756 PF_FloatRGBA RT UAV VRam) SceneColor VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     35 = 7631 KB (2D 1292x756 PF_FloatRGBA RT UAV) LightAccumulation
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     56 = 7631 KB (2D 1292x756 PF_FloatRGBA RT VRam) SeparateTranslucency VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     57 = 7631 KB (2D 1292x756 PF_FloatRGBA RT) BokehDOFRecombine
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     72 = 7631 KB (2D 1292x756 PF_FloatRGBA RT) SSRTemporalAA
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     65 = 7631 KB (2D 1292x756 PF_FloatRGBA RT) TemporalAA
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     61 = 7631 KB (2D 1292x756 PF_FloatRGBA RT) TemporalAA
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     64 = 3816 KB (2D 1292x756 PF_A2B10G10R10 RT) GBufferA
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     62 = 3816 KB (2D 1292x756 PF_B8G8R8A8 RT sRGB) GBufferC
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     63 = 3816 KB (2D 1292x756 PF_B8G8R8A8 RT VRam) GBufferE VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     59 = 3816 KB (2D 1292x756 PF_B8G8R8A8 RT) GBufferB
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     60 = 3816 KB (2D 1292x756 PF_B8G8R8A8 RT) GBufferD
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     58 = 3816 KB (2D 1292x756 PF_B8G8R8A8 RT) ScreenShadowMaskTexture
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     21 = 3816 KB (2D 1292x756 PF_DepthStencil VRam) SceneDepthZ VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     22 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume0
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     27 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume1
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     33 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolume2
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     24 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir0
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     32 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir1
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     34 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDir2
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     28 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_0
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     29 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_1
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     30 = 2048 KB (3D 64x64x64 PF_FloatRGBA) IndirectLightingCache_2
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     19 = 2048 KB (Cube[2] 128 PF_FloatRGBA) ReflectionEnvs
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     42 = 1908 KB (2D 1292x378 PF_R32_UINT RT UAV) QuadOverdrawBuffer
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     18 = 1908 KB (2D 646x378 PF_DepthStencil) SmallDepthZ
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     41 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap0
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     39 = 1024 KB (Cube 128 PF_FloatRGBA RT) ReflectionColorScratchCubemap1
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     43 = 954 KB (2D 1292x756 PF_G8 RT UAV) ScreenSpaceAO
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     55 = 954 KB (2D 646x378 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     40 = 954 KB (2D 646x378 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:      1 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:      4 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:      2 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     23 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:      3 = 256 KB (2D 256x256 PF_B8G8R8A8) HZBResultsCPU
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     54 = 239 KB (2D 323x189 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     44 = 239 KB (2D 323x189 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     26 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     31 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     17 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     10 = 64 KB (2D 128x128 PF_B8G8R8A8) PerlinNoiseGradient
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     38 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap0
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     37 = 64 KB (Cube 32 PF_FloatRGBA RT) DiffuseIrradianceScratchCubemap1
+[2017.10.07-18.49.54:301][917]LogConsoleResponse:     53 = 61 KB (2D 162x95 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     45 = 61 KB (2D 162x95 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     16 = 16 KB (2D 128x32 PF_G16R16) PreintegratedGF
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     52 = 16 KB (2D 81x48 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     46 = 16 KB (2D 81x48 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     14 = 16 KB (3D 16x16x16 PF_B8G8R8A8) PerlinNoise3D
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     15 = 8 KB (2D 64x64 PF_R8G8) SSAORandomization
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     51 = 4 KB (2D 41x24 PF_FloatRGB RT VRam) BloomBlurX VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     47 = 4 KB (2D 41x24 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     48 = 2 KB (2D 22x12 PF_FloatRGB RT) BloomBlurY
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     49 = 1 KB (2D 11x12 PF_FloatRGB RT) BloomBlurX
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:      7 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackAlphaOneDummy
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) BlackDummy
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:      9 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) DefaultNormal8Bit
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:      8 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) GreenDummy
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:      5 = 1 KB (2D 1x1 PF_B8G8R8A8 RT) WhiteDummy
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     13 = 1 KB (2D 1x1 PF_DepthStencil) DepthDummy
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     12 = 1 KB (2D 1x1 PF_FloatRGBA RT) MaxFP16Depth
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     20 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     25 = 1 KB (2D 1x1 PF_G32R32F RT UAV) EyeAdaptation
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     50 = 1 KB (2D 21x12 PF_FloatRGB RT VRam) BloomDownsample5 VRamInKB(Start/Size):<NONE>
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     11 = 1 KB (2D 32x16 PF_R16_UINT) SobolSampling
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     36 = 1 KB (2D 9x1 PF_FloatRGBA RT) SkySHIrradianceMap
+[2017.10.07-18.49.54:302][917]LogConsoleResponse:     88 = 0 KB (2D 4096x4096 PF_ShadowDepth) UnknownTexture2D
+[2017.10.07-18.49.54:302][917]LogConsoleResponse: 
+[2017.10.07-18.49.54:302][917]LogConsoleResponse: Pool: 183/622 MB (referenced/allocated)
+[2017.10.07-18.49.54:302][917]LogWindows: FPlatformMisc::RequestExit(1)
+[2017.10.07-18.49.54:302][917]Cmd: Mem FromReport
+[2017.10.07-18.49.54:302][917]Log file closed, 10/07/17 15:49:54

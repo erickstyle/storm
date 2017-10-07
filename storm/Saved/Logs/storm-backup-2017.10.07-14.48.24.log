@@ -1,0 +1,1194 @@
+﻿Log file open, 10/07/17 14:26:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: storm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1550236271) SRandInit(-1550236271).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.827688
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-0
+LogInit: Engine Version: 4.17.2-0+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-0+++UE4+Release-4.17
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Oct  3 2017 12:16:54
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.07-17.26.11:529][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-17.26.11:529][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.07-17.26.11:570][  0]LogInit: Computer: DESKTOP-V0QB7PK
+[2017.10.07-17.26.11:570][  0]LogInit: User: Erick
+[2017.10.07-17.26.11:570][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.07-17.26.11:570][  0]LogInit: High frequency timer resolution =3.125021 MHz
+[2017.10.07-17.26.11:572][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.10.07-17.26.11:572][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.07-17.26.11:572][  0]LogMemory: Process Physical Memory: 279.86 MB used, 279.86 MB peak
+[2017.10.07-17.26.11:572][  0]LogMemory: Process Virtual Memory: 276.00 MB used, 276.00 MB peak
+[2017.10.07-17.26.11:572][  0]LogMemory: Physical Memory: 5202.34 MB used,  883.41 MB free, 6085.74 MB total
+[2017.10.07-17.26.11:572][  0]LogMemory: Virtual Memory: 670.80 MB used,  883.41 MB free, 134217728.00 MB total
+[2017.10.07-17.26.12:229][  0]LogInit: Using OS detected language (pt-BR).
+[2017.10.07-17.26.12:229][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.10.07-17.26.15:204][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.07-17.26.15:276][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 630' (Feature Level 11_0)
+[2017.10.07-17.26.15:276][  0]LogD3D11RHI:       2000/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.07-17.26.15:278][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.07-17.26.15:278][  0]LogD3D11RHI:       0/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.07-17.26.15:278][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.07-17.26.15:288][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.07-17.26.15:288][  0]LogD3D11RHI:     GPU DeviceId: 0xf00 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.07-17.26.15:288][  0]LogWindows: EnumDisplayDevices:
+[2017.10.07-17.26.15:288][  0]LogWindows:    0. 'NVIDIA GeForce GT 630' (P:1 D:1)
+[2017.10.07-17.26.15:288][  0]LogWindows:    1. 'NVIDIA GeForce GT 630' (P:0 D:0)
+[2017.10.07-17.26.15:288][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.10.07-17.26.15:288][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 630
+[2017.10.07-17.26.15:288][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.07-17.26.15:288][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.07-17.26.15:288][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.07-17.26.15:337][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.10.07-17.26.15:338][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.07-17.26.15:380][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.07-17.26.15:387][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2017.10.07-17.26.15:390][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/Erick/Documents/GitHub/storm/storm/Intermediate/Shaders/WorkingDirectory/30752/).
+[2017.10.07-17.26.15:390][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Erick/AppData/Local/Temp/UnrealShaderWorkingDir/B9BFCF544F92D3F7B559C78F815C0211/'.
+[2017.10.07-17.26.15:391][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.07-17.26.18:392][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.07-17.26.18:503][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.07-17.26.18:606][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.07-17.26.18:705][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.07-17.26.18:811][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.07-17.26.18:911][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.07-17.26.19:010][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.07-17.26.19:113][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.07-17.26.19:209][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.07-17.26.19:310][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.07-17.26.19:408][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.07-17.26.19:504][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.07-17.26.19:606][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.07-17.26.19:700][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.07-17.26.19:795][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.07-17.26.19:989][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.07-17.26.19:990][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.07-17.26.20:075][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.07-17.26.20:272][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.07-17.26.20:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.07-17.26.20:330][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.07-17.26.21:814][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.07-17.26.22:451][  0]LogDerivedDataCache: Loaded boot cache 0.64s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.07-17.26.22:451][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc
+[2017.10.07-17.26.22:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.07-17.26.22:451][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.07-17.26.22:452][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.07-17.26.22:452][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2017.10.07-17.26.22:465][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2017.10.07-17.26.22:465][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2017.10.07-17.26.22:465][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2017.10.07-17.26.22:485][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.07-17.26.22:492][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.07-17.26.22:512][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-17.26.22:513][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-17.26.26:982][  0]LogAssetRegistry: FAssetRegistry took 0.0281 seconds to start up
+[2017.10.07-17.26.27:222][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-17.26.27:813][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.07-17.26.28:414][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.07-17.26.28:414][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.07-17.26.28:414][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.07-17.26.28:414][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2017.10.07-17.26.28:414][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.07-17.26.28:414][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2017.10.07-17.26.29:499][  0]LogNetVersion: storm , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3367854216)
+[2017.10.07-17.26.30:218][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.080864 seconds
+[2017.10.07-17.26.30:225][  0]LogUObjectArray: 35784 objects as part of root set at end of initial load.
+[2017.10.07-17.26.30:225][  0]LogUObjectAllocator: 7522352 out of 0 bytes used by permanent object pool.
+[2017.10.07-17.26.30:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.07-17.26.30:391][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.07-17.26.38:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.07-17.26.38:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.07-17.26.39:795][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.07-17.26.40:832][  0]SourceControl: Controle de origem desativado
+[2017.10.07-17.26.43:033][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.07-17.26.43:616][  0]LogOcInput: OculusInput pre-init called
+[2017.10.07-17.26.44:247][  0]LogEngine: Initializing Engine...
+[2017.10.07-17.26.44:254][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.07-17.26.44:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.07-17.26.44:761][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.07-17.26.45:153][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.07-17.26.45:193][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-17.26.45:325][  0]LogInit: FAudioDevice initialized.
+[2017.10.07-17.26.45:439][  0]LogDerivedDataCache: Saved boot cache 0.11s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.07-17.26.45:461][  0]LogInit: Texture streaming: Enabled
+[2017.10.07-17.26.45:916][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.07-17.26.46:995][  0]LogInit: Transaction tracking system initialized
+[2017.10.07-17.26.47:830][  0]BlueprintLog: New page: Carregar Editor
+[2017.10.07-17.26.50:243][  0]LocalizationService: Localization service is disabled
+[2017.10.07-17.26.51:965][  0]LogConsoleResponse: Display: 
+[2017.10.07-17.26.52:742][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.07-17.26.52:742][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.07-17.26.52:743][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.07-17.26.53:795][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' took 0.03s
+[2017.10.07-17.26.55:462][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.07-17.26.55:465][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.07-17.26.55:573][  0]MapCheck: New page: Verificação de Mapa
+[2017.10.07-17.26.55:573][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.07-17.26.56:457][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:457][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-17.26.56:457][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:457][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-17.26.56:457][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.07-17.26.56:457][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:457][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-17.26.56:457][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:457][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-17.26.56:457][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.07-17.26.56:468][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:468][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-17.26.56:468][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:468][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-17.26.56:468][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _PhysicsAsset
+[2017.10.07-17.26.56:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:469][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-17.26.56:469][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.56:469][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/deco/Drawer.uasset” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-17.26.56:469][  0]LoadErrors: Error: /Game/deco/Drawer : Não é possível encontrar o arquivo do ativo. /Game/deco/Drawer_Mesh _Skeleton
+[2017.10.07-17.26.57:425][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:426][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:426][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-17.26.57:426][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-17.26.57:426][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-17.26.57:426][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_n
+[2017.10.07-17.26.57:426][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-17.26.57:426][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-17.26.57:426][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_r
+[2017.10.07-17.26.57:427][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:427][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:427][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-17.26.57:427][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-17.26.57:427][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-17.26.57:427][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_n
+[2017.10.07-17.26.57:427][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-17.26.57:428][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/-Metal_Mat.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-17.26.57:428][  0]LoadErrors: Error: /Game/UrbanCity/Materials/-Metal_Mat : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_r
+[2017.10.07-17.26.57:429][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:429][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:430][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-17.26.57:430][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-17.26.57:430][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-17.26.57:430][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/road_r
+[2017.10.07-17.26.57:430][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:431][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:431][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/metal_01_d
+[2017.10.07-17.26.57:431][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-17.26.57:431][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/UrbanCity/Materials/Tileable/metal_03_Inst.uasset” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-17.26.57:431][  0]LoadErrors: Error: /Game/UrbanCity/Materials/Tileable/metal_03_Inst : Não é possível encontrar o arquivo do ativo. /Game/UrbanCity/Textures/Tileable/road_r
+[2017.10.07-17.26.57:545][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.57:546][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _Skeleton”
+[2017.10.07-17.26.57:546][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.07-17.26.57:546][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _Skeleton' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.57:546][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _Skeleton.
+[2017.10.07-17.26.57:546][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _Skeleton.Drawer_Mesh _Skeleton Referenciado por Drawer_Mesh 
+[2017.10.07-17.26.57:546][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.57:546][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/deco/Drawer_Mesh _PhysicsAsset”
+[2017.10.07-17.26.57:546][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.07-17.26.57:546][  0]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/Game/deco/Drawer_Mesh _PhysicsAsset' is not a standard unreal filename or a long path name. Reason: Name may not contain the following characters: ' '
+[2017.10.07-17.26.57:546][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.
+[2017.10.07-17.26.57:546][  0]LoadErrors: Falha ao carregar /Game/deco/Drawer_Mesh _PhysicsAsset.Drawer_Mesh _PhysicsAsset Referenciado por Drawer_Mesh 
+[2017.10.07-17.26.57:678][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:678][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por MaterialExpressionTextureSampleParameter2D_0
+[2017.10.07-17.26.57:679][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:679][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por MaterialExpressionTextureSampleParameter2D_0
+[2017.10.07-17.26.57:679][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_r”
+[2017.10.07-17.26.57:679][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.metal_01_r Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2017.10.07-17.26.57:679][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.
+[2017.10.07-17.26.57:679][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_r.metal_01_r Referenciado por MaterialExpressionTextureSampleParameter2D_1
+[2017.10.07-17.26.57:679][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_n”
+[2017.10.07-17.26.57:679][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.metal_01_n Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2017.10.07-17.26.57:680][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.
+[2017.10.07-17.26.57:680][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_n.metal_01_n Referenciado por MaterialExpressionTextureSampleParameter2D_2
+[2017.10.07-17.26.57:680][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/metal_01_d”
+[2017.10.07-17.26.57:680][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por metal_03_Inst
+[2017.10.07-17.26.57:680][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.
+[2017.10.07-17.26.57:680][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/metal_01_d.metal_01_d Referenciado por metal_03_Inst
+[2017.10.07-17.26.57:681][  0]LogLinker: Warning: Não é possível encontrar o arquivo “/Game/UrbanCity/Textures/Tileable/road_r”
+[2017.10.07-17.26.57:681][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/road_r.road_r Referenciado por metal_03_Inst
+[2017.10.07-17.26.57:681][  0]LogLinker: Warning: Não é possível encontrar o arquivo do ativo “NULL” ao carregar /Game/UrbanCity/Textures/Tileable/road_r.
+[2017.10.07-17.26.57:681][  0]LoadErrors: Falha ao carregar /Game/UrbanCity/Textures/Tileable/road_r.road_r Referenciado por metal_03_Inst
+[2017.10.07-17.26.58:582][  0]LogMaterial: Missing cached shader map for material -Metal_Mat, compiling. 
+[2017.10.07-17.26.58:587][  0]LogMaterial: Warning: Failed to compile Material /Game/UrbanCity/Materials/-Metal_Mat.-Metal_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-17.26.58:587][  0]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.10.07-17.26.58:878][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.07-17.26.59:256][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.07-17.26.59:309][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.07-17.26.59:452][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 142,845ms to complete.
+[2017.10.07-17.26.59:452][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.992
+[2017.10.07-17.26.59:881][  0]LogCollectionManager: Loaded 0 collections in 0.005547 seconds
+[2017.10.07-17.27.00:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' took 0.01s
+[2017.10.07-17.27.00:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' took 0.01s
+[2017.10.07-17.27.00:054][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' took 0.01s
+[2017.10.07-17.27.00:054][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.07-17.27.00:067][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2385 classes and 498 folders.
+[2017.10.07-17.27.00:230][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.07-17.27.00:696][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.07-17.27.00:812][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.07-17.27.00:927][  0]LogSlate: Took 0.009002 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-17.27.00:935][  0]LogSlate: Took 0.005692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.07-17.27.00:952][  0]LogSlate: Took 0.005542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.07-17.27.01:205][  0]LogRenderer: Reallocating scene render targets to support 676x580 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-17.27.01:775][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.07-17.27.01:775][  0]LogLoad: (Engine Initialization) Total time: 56.48 seconds
+[2017.10.07-17.27.01:775][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.07-17.27.01:776][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.07-17.27.01:776][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.07-17.27.02:161][  0]SourceControl: On branch master
+[2017.10.07-17.27.02:161][  0]SourceControl: Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+[2017.10.07-17.27.02:161][  0]SourceControl:   (use "git pull" to update your local branch)
+[2017.10.07-17.27.02:161][  0]SourceControl: Changes to be committed:
+[2017.10.07-17.27.02:161][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_DISP.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_Mat.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_NRM.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_OCC.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_SPEC.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/UrbanCity/Textures/Props/Papel-de-Parede-bandeira-brasileira-em-pano-36174.uasset
+[2017.10.07-17.27.02:161][  0]SourceControl: 	new file:   storm/Content/toilet/ValveMat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/toilet/Water.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/toilet/WaterMat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/toilet/Water_TubeMat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/waterfall/water_d_Mat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/window/Window_001.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/window/defaultMat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/Body_Courtyard_Template002_Window_reference_smd_mesh_0Mat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/Window_001_Skeleton.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/defaultMat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/tex/window_normal.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/window.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/window_0_PhysicsAsset.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/window_PhysicsAsset.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	new file:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: Changes not staged for commit:
+[2017.10.07-17.27.02:162][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.10.07-17.27.02:162][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   README.md
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   storm/Config/DefaultGame.ini
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   storm/Content/UrbanCity/Textures/Props/39413743-brazil-flag-wallpapers_Mat.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   storm/Content/windoww/window.uasset
+[2017.10.07-17.27.02:162][  0]SourceControl: 	modified:   storm/Content/windoww/window_Skeleton.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: Untracked files:
+[2017.10.07-17.27.02:163][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Build/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Config/DefaultEditor.ini
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Config/DefaultEditorPerProjectUserSettings.ini
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Mannequin/Animations/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Mannequin/Character/Materials/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/Mannequin/Character/Textures/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Architecture/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Blueprints/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/HDRI/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Maps/
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.10.07-17.27.02:163][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Fire.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Smoke.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Sparks.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2017.10.07-17.27.02:164][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Shapes/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/StarterContent/Textures/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/ThirdPerson/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/ThirdPersonBP/Blueprints/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Foliage.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Metal_Mat.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Tilable_Ground.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Tilable_mat.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/-Window_mat.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Buildings/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/ColorVariation_WorldSpace.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Decals/
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/DemoTerrainMat.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/-Foliage.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_01_Inst.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_01_Inst_STorm.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/Foliage_Mat.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/dECALS.uasset
+[2017.10.07-17.27.02:165][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Foliage/decal_DeadLeaves_Inst.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Functions/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Props/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Road.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Tileable/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/Tint.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Materials/building_mat.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Models/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Particles/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Detail_Metal_A_N.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Foliage/
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/LUT.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_A.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_C.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Awning_N.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_A.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_C.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door1_N.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_A.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_C.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Door2_N.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_A.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_C.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Fountain_N.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_A.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_C.uasset
+[2017.10.07-17.27.02:166][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Signs_N.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_A.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_C.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Stairs_N.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_A.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_C.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_E.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/StoreSigns_N.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_A.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_C.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/TrashBag_N.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_A.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_C.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/Tree_Fence_N.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_d.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_n.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/doors_r.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_d.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_m.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_n.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/misc_01_r.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_a.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_ao.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_m.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_n.uasset
+[2017.10.07-17.27.02:167][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_barriers_r.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_a.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_ao.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_m.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_n.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_bench_r.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_a.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_ao.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_n.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_cementBarrier_r.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_a.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_ao.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_m.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_n.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_electricalBox_r.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_a.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_ao.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_m.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_n.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_fireHydrant_r.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_a.uasset
+[2017.10.07-17.27.02:168][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_ao.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_m.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_garbageCan_r.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_a.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_ao.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_m.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_metalPillar_r.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_a.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_ao.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_parkingMeter_r.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_a.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_ao.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_m.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_patioFurniture_r.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_a.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pole_r.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_a.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_m.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_n.uasset
+[2017.10.07-17.27.02:169][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_powerlines_r.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_a.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_ao.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_n.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_pylons_r.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_a.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_ao.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_m.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_n.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLight_r.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_streetLights_e.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_a.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_ao.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/prp_tarp_n.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/usaflag.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/UrbanCity/Textures/Props/wood_grunge.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Sign_1_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Sign_2_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Sign_3_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Sign_4_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Sign_5_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Stairs_1_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Stairs_2_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Stairs_3_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/Stairs_4_mdl.uasset
+[2017.10.07-17.27.02:170][  0]SourceControl: 	storm/Content/props/StoreSign_1_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/StoreSign_2_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/StoreSign_3_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/StoreSign_4_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/TrashBag_1_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/TrashBag_2_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/Tree_Fence_mdl.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/mat/
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_ac_02.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_barrier_Lrg.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_barrier_Sml.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_bench.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_cementBarrier.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_chainlinkFence.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_chainlinkPost.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_chair.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_crosswalkSign.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_electricalBox.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_fireHydrant_A.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_fireHydrant_B.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_flag.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_garbageCan.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_light_01.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_light_02.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_light_03.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_light_04.uasset
+[2017.10.07-17.27.02:171][  0]SourceControl: 	storm/Content/props/prp_manhole.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_metalFence.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_metalPillar.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_parkingMeter.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_potRoung.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_potSquare_A.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_potSquare_B.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_powerlines.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_pylon_Lrg.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_pylong_Sml.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_sewerGrate.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_streetLight.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_table.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_tableUmbrella.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_tarp.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_telephonepole.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_trafficLight.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_vent_01.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/prp_vent_02.uasset
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Content/props/text/
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/DerivedDataCache/
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Intermediate/
+[2017.10.07-17.27.02:172][  0]SourceControl: 	storm/Saved/
+[2017.10.07-17.27.02:174][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2017.10.07-17.27.02:818][  2]LogAssetRegistry: Asset discovery search completed in 35.8583 seconds
+[2017.10.07-17.27.02:822][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.07-17.27.02:822][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2017.10.07-17.40.56:063][850]LogSlate: Took 0.010383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-17.40.56:155][850]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj)
+[2017.10.07-17.40.56:215][850]LogFbx: Loading FBX Scene from ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj
+[2017.10.07-17.40.56:243][850]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.07-17.41.05:253][850]LogFbx: Loading FBX Scene from ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj
+[2017.10.07-17.41.05:267][850]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [Box46] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -734189472.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] Box46 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [Box46]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [hehualou02] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -1896475328.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] hehualou02 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [hehualou02]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [hehulou01] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -1896475328.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] hehulou01 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [hehulou01]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [Box46] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -734186544.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] Box46 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [Box46]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [hehualou02] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -1896471936.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] hehualou02 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [hehualou02]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [hehulou01] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -1896471936.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] hehulou01 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [hehulou01]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [Box46] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -734195088.
+[2017.10.07-17.41.05:269][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:269][850]LogFbx: 		[Node Attribute Child 1] Box46 (Type Mesh).
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node END [Box46]
+[2017.10.07-17.41.05:269][850]LogFbx: =================================================
+[2017.10.07-17.41.05:269][850]LogFbx: Dumping Node START [hehualou02] 
+[2017.10.07-17.41.05:269][850]LogFbx: 	Total Deformer Count -1896471936.
+[2017.10.07-17.41.05:270][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:270][850]LogFbx: 		[Node Attribute Child 1] hehualou02 (Type Mesh).
+[2017.10.07-17.41.05:270][850]LogFbx: Dumping Node END [hehualou02]
+[2017.10.07-17.41.05:270][850]LogFbx: =================================================
+[2017.10.07-17.41.05:270][850]LogFbx: Dumping Node START [hehulou01] 
+[2017.10.07-17.41.05:270][850]LogFbx: 	Total Deformer Count -1896471936.
+[2017.10.07-17.41.05:270][850]LogFbx: 	Attribute () Type (4).
+[2017.10.07-17.41.05:270][850]LogFbx: 		[Node Attribute Child 1] hehulou01 (Type Mesh).
+[2017.10.07-17.41.05:270][850]LogFbx: Dumping Node END [hehulou01]
+[2017.10.07-17.41.05:275][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/07___Default”
+[2017.10.07-17.41.05:275][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/07___Default”
+[2017.10.07-17.41.05:278][850]LogMaterial: Warning: Material /Game/sss/07___Default.07___Default needed to have new flag set bUsedWithSkeletalMesh !
+[2017.10.07-17.41.05:280][850]LogMaterial: Missing cached shader map for material 07___Default, compiling. 
+[2017.10.07-17.41.05:354][850]LogMaterial: Missing cached shader map for material 07___Default, compiling. 
+[2017.10.07-17.41.05:392][850]LogFbx: Triangulating skeletal mesh Box46
+[2017.10.07-17.41.05:404][850]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.10.07-17.41.05:410][850]LogSkeletalMesh: Section 0: 24 vertices, 1 active bones
+[2017.10.07-17.41.05:411][850]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2017.10.07-17.41.05:414][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_Box46_Skeleton”
+[2017.10.07-17.41.05:414][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_Box46_Skeleton”
+[2017.10.07-17.41.05:417][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_Box46_PhysicsAsset”
+[2017.10.07-17.41.05:417][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_Box46_PhysicsAsset”
+[2017.10.07-17.41.05:426][850]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2017.10.07-17.41.05:432][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/Material__52”
+[2017.10.07-17.41.05:432][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/Material__52”
+[2017.10.07-17.41.05:432][850]LogMaterial: Warning: Material /Game/sss/Material__52.Material__52 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.10.07-17.41.05:435][850]LogMaterial: Missing cached shader map for material Material__52, compiling. 
+[2017.10.07-17.41.05:478][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/hehualou_cloor_02”
+[2017.10.07-17.41.05:478][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/hehualou_cloor_02”
+[2017.10.07-17.41.05:490][850]LogTexture: Display: Building textures: hehualou_cloor_02 (AutoDXT, 512X512)
+[2017.10.07-17.41.05:803][850]LogMaterial: Missing cached shader map for material Material__52, compiling. 
+[2017.10.07-17.41.05:841][850]LogFbx: Triangulating skeletal mesh hehualou02
+[2017.10.07-17.41.05:942][850]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.10.07-17.41.05:950][850]LogSkeletalMesh: Section 0: 1764 vertices, 1 active bones
+[2017.10.07-17.41.05:951][850]LogSkeletalMesh: Section 0: Material=0, 908 triangles
+[2017.10.07-17.41.05:952][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehualou02_Skeleton”
+[2017.10.07-17.41.05:952][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehualou02_Skeleton”
+[2017.10.07-17.41.05:955][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehualou02_PhysicsAsset”
+[2017.10.07-17.41.05:955][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehualou02_PhysicsAsset”
+[2017.10.07-17.41.05:961][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/Material__51”
+[2017.10.07-17.41.05:961][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/Material__51”
+[2017.10.07-17.41.05:961][850]LogMaterial: Warning: Material /Game/sss/Material__51.Material__51 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.10.07-17.41.05:964][850]LogMaterial: Missing cached shader map for material Material__51, compiling. 
+[2017.10.07-17.41.06:012][850]LogSlate: Took 0.007494 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-17.41.06:017][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/hehualou_cloor_01”
+[2017.10.07-17.41.06:018][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/hehualou_cloor_01”
+[2017.10.07-17.41.06:026][850]LogTexture: Display: Building textures: hehualou_cloor_01 (AutoDXT, 512X512)
+[2017.10.07-17.41.06:407][850]LogMaterial: Missing cached shader map for material Material__51, compiling. 
+[2017.10.07-17.41.06:454][850]LogFbx: Triangulating skeletal mesh hehulou01
+[2017.10.07-17.41.06:548][850]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2017.10.07-17.41.06:553][850]LogSkeletalMesh: Section 0: 1024 vertices, 1 active bones
+[2017.10.07-17.41.06:554][850]LogSkeletalMesh: Section 0: Material=0, 552 triangles
+[2017.10.07-17.41.06:555][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehulou01_Skeleton”
+[2017.10.07-17.41.06:555][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehulou01_Skeleton”
+[2017.10.07-17.41.06:559][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehulou01_PhysicsAsset”
+[2017.10.07-17.41.06:559][850]LogLinker: Não é possível encontrar o arquivo “/Game/sss/D0208052_hehulou01_PhysicsAsset”
+[2017.10.07-17.41.11:898][850]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/hehualou_cloor_01.tga)
+[2017.10.07-17.41.17:685][850]LogTexture: Display: Building textures: hehualou_cloor_01 (AutoDXT, 512X512)
+[2017.10.07-17.41.23:026][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2017.10.07-17.41.23:031][879]OBJ SavePackage: Generating thumbnails for [3] asset(s) in package [/Game/sss/D0208052] ([3] browsable assets)...
+[2017.10.07-17.41.23:092][879]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/sss/D0208052.D0208052_Box46]
+[2017.10.07-17.41.23:151][879]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/sss/D0208052.D0208052_hehualou02]
+[2017.10.07-17.41.23:210][879]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/sss/D0208052.D0208052_hehulou01]
+[2017.10.07-17.41.23:210][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052]
+[2017.10.07-17.41.23:210][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.07-17.41.23:263][879]LogSavePackage: Save=47.61ms
+[2017.10.07-17.41.23:263][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_Auto13DBECB2E42EDB9CD7CEDF196D8E5A5DE.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Auto1.uasset'
+[2017.10.07-17.41.23:266][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Auto1.uasset
+[2017.10.07-17.41.23:268][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sss/07___Default] ([1] browsable assets)...
+[2017.10.07-17.41.23:326][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/sss/07___Default.07___Default]
+[2017.10.07-17.41.23:326][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/07___Default]
+[2017.10.07-17.41.23:326][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/07___Default" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/07___Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.07-17.41.23:346][879]LogSavePackage: Save=16.76ms
+[2017.10.07-17.41.23:346][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/07___Default_Auto15D48B5034FDFA6B60B44D19D50E59CC0.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/07___Default_Auto1.uasset'
+[2017.10.07-17.41.23:348][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/07___Default_Auto1.uasset
+[2017.10.07-17.41.23:350][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_Box46_Skeleton] ([1] browsable assets)...
+[2017.10.07-17.41.23:350][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_Box46_Skeleton]
+[2017.10.07-17.41.23:358][879]LogSavePackage: Save=5.54ms
+[2017.10.07-17.41.23:358][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_Box46_Skeleton_Auto1AFC7B94A4BEA59D3BAEC299F8E218265.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Box46_Skeleton_Auto1.uasset'
+[2017.10.07-17.41.23:360][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Box46_Skeleton_Auto1.uasset
+[2017.10.07-17.41.23:361][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_Box46_PhysicsAsset] ([1] browsable assets)...
+[2017.10.07-17.41.23:362][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_Box46_PhysicsAsset]
+[2017.10.07-17.41.23:370][879]LogSavePackage: Save=5.76ms
+[2017.10.07-17.41.23:370][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_Box46_PhysicsAsset_Auto1278EA88940C076A2B2E53DAD8C25A371.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Box46_PhysicsAsset_Auto1.uasset'
+[2017.10.07-17.41.23:372][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_Box46_PhysicsAsset_Auto1.uasset
+[2017.10.07-17.41.23:373][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sss/Material__52] ([1] browsable assets)...
+[2017.10.07-17.41.23:432][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/sss/Material__52.Material__52]
+[2017.10.07-17.41.23:432][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/Material__52]
+[2017.10.07-17.41.23:433][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/Material__52" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__52_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.07-17.41.23:455][879]LogSavePackage: Save=18.40ms
+[2017.10.07-17.41.23:455][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Material__52_Auto1989B2EA34DD4DF80ABF53EB502D099F9.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__52_Auto1.uasset'
+[2017.10.07-17.41.23:457][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__52_Auto1.uasset
+[2017.10.07-17.41.23:458][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sss/hehualou_cloor_02] ([1] browsable assets)...
+[2017.10.07-17.41.23:467][879]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/sss/hehualou_cloor_02.hehualou_cloor_02]
+[2017.10.07-17.41.23:467][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/hehualou_cloor_02]
+[2017.10.07-17.41.23:486][879]LogSavePackage: Save=14.36ms
+[2017.10.07-17.41.23:486][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/hehualou_cloor_02_Auto1D9C78B0D41A24AF78D13E9B5B8C94D53.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/hehualou_cloor_02_Auto1.uasset'
+[2017.10.07-17.41.23:488][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/hehualou_cloor_02_Auto1.uasset
+[2017.10.07-17.41.23:489][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_hehualou02_Skeleton] ([1] browsable assets)...
+[2017.10.07-17.41.23:489][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_hehualou02_Skeleton]
+[2017.10.07-17.41.23:498][879]LogSavePackage: Save=6.09ms
+[2017.10.07-17.41.23:498][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehualou02_Skeleton_Auto18CF2DABF4CD84ABC75C18081B01BF409.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehualou02_Skeleton_Auto1.uasset'
+[2017.10.07-17.41.23:500][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehualou02_Skeleton_Auto1.uasset
+[2017.10.07-17.41.23:502][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_hehualou02_PhysicsAsset] ([1] browsable assets)...
+[2017.10.07-17.41.23:502][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_hehualou02_PhysicsAsset]
+[2017.10.07-17.41.23:514][879]LogSavePackage: Save=8.96ms
+[2017.10.07-17.41.23:514][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehualou02_PhysicsAsset_Auto1D3945A8B4039D7628C9DF0913BEEA99A.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehualou02_PhysicsAsset_Auto1.uasset'
+[2017.10.07-17.41.23:516][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehualou02_PhysicsAsset_Auto1.uasset
+[2017.10.07-17.41.23:518][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sss/Material__51] ([1] browsable assets)...
+[2017.10.07-17.41.23:577][879]OBJ SavePackage:     Rendered thumbnail for [Material /Game/sss/Material__51.Material__51]
+[2017.10.07-17.41.23:577][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/Material__51]
+[2017.10.07-17.41.23:577][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/Material__51" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__51_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2017.10.07-17.41.23:601][879]LogSavePackage: Save=20.96ms
+[2017.10.07-17.41.23:601][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Material__51_Auto14CC8D9A5488A1E5D0F76428804E71F30.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__51_Auto1.uasset'
+[2017.10.07-17.41.23:603][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/Material__51_Auto1.uasset
+[2017.10.07-17.41.23:604][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/sss/hehualou_cloor_01] ([1] browsable assets)...
+[2017.10.07-17.41.23:613][879]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/sss/hehualou_cloor_01.hehualou_cloor_01]
+[2017.10.07-17.41.23:613][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/hehualou_cloor_01]
+[2017.10.07-17.41.23:632][879]LogSavePackage: Save=15.83ms
+[2017.10.07-17.41.23:632][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/hehualou_cloor_01_Auto1D86904404B9C3F7DCF0582825A78B79C.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/hehualou_cloor_01_Auto1.uasset'
+[2017.10.07-17.41.23:635][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/hehualou_cloor_01_Auto1.uasset
+[2017.10.07-17.41.23:638][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_hehulou01_Skeleton] ([1] browsable assets)...
+[2017.10.07-17.41.23:638][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_hehulou01_Skeleton]
+[2017.10.07-17.41.23:647][879]LogSavePackage: Save=6.02ms
+[2017.10.07-17.41.23:647][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehulou01_Skeleton_Auto1D57678824D5869E96CDF1DB78D73E192.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehulou01_Skeleton_Auto1.uasset'
+[2017.10.07-17.41.23:649][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehulou01_Skeleton_Auto1.uasset
+[2017.10.07-17.41.23:651][879]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/sss/D0208052_hehulou01_PhysicsAsset] ([1] browsable assets)...
+[2017.10.07-17.41.23:651][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/sss/D0208052_hehulou01_PhysicsAsset]
+[2017.10.07-17.41.23:660][879]LogSavePackage: Save=6.23ms
+[2017.10.07-17.41.23:660][879]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehulou01_PhysicsAsset_Auto1C4FDD19A49C065F458B58997143FDB88.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehulou01_PhysicsAsset_Auto1.uasset'
+[2017.10.07-17.41.23:662][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/sss/D0208052_hehulou01_PhysicsAsset_Auto1.uasset
+[2017.10.07-17.41.23:662][879]LogFileHelpers: Auto-saving content packages took 0.635
+[2017.10.07-17.41.29:151][925]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.10.07-17.41.29:412][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.10.07-17.41.29:514][925]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.10.07-17.41.29:891][925]LogSlate: Took 0.005387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.07-17.41.29:993][925]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2017.10.07-17.41.30:001][925]LogRenderer: Reallocating scene render targets to support 676x832 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-17.41.46:965][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset" SILENT=true
+[2017.10.07-17.41.47:009][178]LogSavePackage: Save=39.63ms
+[2017.10.07-17.41.47:009][178]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D020805216AD9D7A4A0C75F979AFED9F3D479A8B.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset'
+[2017.10.07-17.41.47:027][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset
+[2017.10.07-17.41.48:177][200]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2017.10.07-17.41.48:207][200]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2017.10.07-17.41.48:492][201]LogRenderer: Reallocating scene render targets to support 760x832 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-17.41.58:015][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052_hehulou01_Skeleton" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehulou01_Skeleton.uasset" SILENT=true
+[2017.10.07-17.41.58:024][360]LogSavePackage: Save=5.30ms
+[2017.10.07-17.41.58:024][360]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehulou01_SkeletonC9EFAE72476BF75912AEC58E32F9C4B9.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehulou01_Skeleton.uasset'
+[2017.10.07-17.41.58:038][360]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehulou01_Skeleton.uasset
+[2017.10.07-17.42.04:462][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2017.10.07-17.42.04:506][449]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2017.10.07-17.42.12:823][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset" SILENT=true
+[2017.10.07-17.42.12:871][598]LogSavePackage: Save=16.28ms
+[2017.10.07-17.42.12:871][598]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052A01B22C24FAFEE009926DC8C805C9925.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset'
+[2017.10.07-17.42.12:874][598]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset
+[2017.10.07-17.42.13:766][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.10.07-17.42.13:794][617]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.10.07-17.42.20:954][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052_hehualou02_Skeleton" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehualou02_Skeleton.uasset" SILENT=true
+[2017.10.07-17.42.20:964][736]LogSavePackage: Save=6.37ms
+[2017.10.07-17.42.20:964][736]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_hehualou02_Skeleton0E5E35B344E6AA40BB376FBF18D2163E.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehualou02_Skeleton.uasset'
+[2017.10.07-17.42.20:974][736]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_hehualou02_Skeleton.uasset
+[2017.10.07-17.42.25:970][817]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_4.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2017.10.07-17.42.26:012][817]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_4.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2017.10.07-17.42.35:647][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset" SILENT=true
+[2017.10.07-17.42.35:673][985]LogSavePackage: Save=13.49ms
+[2017.10.07-17.42.35:673][985]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D02080521D7ECDE243EF83AAC128CE825B2B430E.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset'
+[2017.10.07-17.42.35:676][985]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052.uasset
+[2017.10.07-17.42.36:486][  1]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2017.10.07-17.42.36:514][  1]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2017.10.07-17.42.45:572][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sss/D0208052_Box46_Skeleton" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_Box46_Skeleton.uasset" SILENT=true
+[2017.10.07-17.42.45:581][153]LogSavePackage: Save=5.38ms
+[2017.10.07-17.42.45:581][153]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/D0208052_Box46_Skeleton807E99AB426313EECED984A69D4218A8.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_Box46_Skeleton.uasset'
+[2017.10.07-17.42.45:591][153]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/sss/D0208052_Box46_Skeleton.uasset
+[2017.10.07-17.43.33:681][  4]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (D0208052_hehualou02)
+[2017.10.07-17.44.00:844][104]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2017.10.07-17.44.04:048][300]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2017.10.07-17.44.05:291][424]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (D0208052_hehulou01)
+[2017.10.07-17.44.16:248][868]LogEditorViewport: Clicking on Actor (context menu): LightmassImportanceVolume (LightmassImportanceVolume)
+[2017.10.07-17.44.17:279][961]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (D0208052_hehulou01)
+[2017.10.07-17.44.32:334][563]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2017.10.07-17.44.33:377][648]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (D0208052_hehualou02)
+[2017.10.07-17.44.34:344][676]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (D0208052_hehulou01)
+[2017.10.07-17.44.35:640][725]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (D0208052_hehulou01)
+[2017.10.07-17.45.03:457][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-17.45.03:579][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-17.45.03:580][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-17.45.03:589][873]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (07/10/2017 11:45:03)
+[2017.10.07-17.45.03:590][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.07-17.45.03:669][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078082s)
+[2017.10.07-17.45.03:670][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.07-17.45.03:670][873]LogPlayLevel: PIE: World Init took: (0.001537s)
+[2017.10.07-17.45.03:671][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.080663s)
+[2017.10.07-17.45.03:687][873]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-17.45.03:703][873]LogInit: FAudioDevice initialized.
+[2017.10.07-17.45.03:776][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.07-17.45.03:785][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.07-14.45.03
+[2017.10.07-17.45.03:792][873]LogWorld: Bringing up level for play took: 0.014803
+[2017.10.07-17.45.04:017][873]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2017.10.07-17.45.04:028][873]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,865
+[2017.10.07-17.45.04:029][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-17.45.04:121][873]LogRenderer: Reallocating scene render targets to support 1292x832 Format 10 NumSamples 1 (Frame:1).
+[2017.10.07-17.45.05:931][910]LogBlueprintUserMessages: [ThirdPersonExampleMap_C_0] Lave as mãos
+[2017.10.07-17.45.15:575][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-17.45.15:675][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.07-17.45.19:205][176]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2017.10.07-17.45.19:249][176]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2017.10.07-17.45.53:390][806]Cmd: DELETE
+[2017.10.07-17.45.53:390][806]Cmd: ACTOR DELETE
+[2017.10.07-17.45.53:399][806]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.10.07-17.45.53:400][806]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.10.07-17.45.53:420][806]LogEditorActor: Deleted 2 Actors (0.023 secs)
+[2017.10.07-17.46.05:490][947]LogMaterial: Missing cached shader map for material Material__51, compiling. 
+[2017.10.07-17.46.05:491][947]LogMaterial: Warning: Failed to compile Material /Game/sss/Material__51.Material__51 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-17.46.05:491][947]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.07-17.46.05:497][947]LogMaterial: Missing cached shader map for material Material__52, compiling. 
+[2017.10.07-17.46.05:497][947]LogMaterial: Warning: Failed to compile Material /Game/sss/Material__52.Material__52 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-17.46.05:497][947]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.07-17.47.04:697][975]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj)
+[2017.10.07-17.47.04:706][975]LogFbx: Loading FBX Scene from ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj
+[2017.10.07-17.47.04:726][975]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.07-17.47.10:469][975]LogFbx: Loading FBX Scene from ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/D0208052.obj
+[2017.10.07-17.47.10:483][975]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.07-17.47.10:489][975]LogMaterial: Missing cached shader map for material 07___Default, compiling. 
+[2017.10.07-17.47.10:505][975]LogFbx: Warning: Triangulating static mesh Box46
+[2017.10.07-17.47.10:527][975]LogTexture: Display: Building textures: hehualou_cloor_02 (AutoDXT, 512X512)
+[2017.10.07-17.47.10:846][975]LogMaterial: Missing cached shader map for material Material__52, compiling. 
+[2017.10.07-17.47.10:862][975]LogFbx: Warning: Triangulating static mesh hehualou02
+[2017.10.07-17.47.10:978][975]LogTexture: Display: Building textures: hehualou_cloor_01 (AutoDXT, 512X512)
+[2017.10.07-17.47.11:365][975]LogMaterial: Missing cached shader map for material Material__51, compiling. 
+[2017.10.07-17.47.11:382][975]LogFbx: Warning: Triangulating static mesh hehulou01
+[2017.10.07-17.47.11:451][975]LogStaticMesh: Criando malha estática D0208052...
+[2017.10.07-17.47.11:515][975]LogStaticMesh: Built static mesh [0.06s] /Game/sss/D0208052.D0208052
+[2017.10.07-17.47.11:520][975]LogStaticMesh: Warning: D0208052 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2017.10.07-17.47.11:531][975]FBXImport: Warning: D0208052 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2017.10.07-17.47.15:149][975]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/hehualou_cloor_01.tga)
+[2017.10.07-17.47.17:310][975]LogTexture: Display: Building textures: hehualou_cloor_01 (AutoDXT, 512X512)
+[2017.10.07-17.47.18:717][975]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Erick/Downloads/cadnav-1F40R25Q5 (1)/hehualou_cloor_02.tga)
+[2017.10.07-17.47.19:623][975]LogTexture: Display: Building textures: hehualou_cloor_02 (AutoDXT, 512X512)
+[2017.10.07-17.48.14:898][455]Cmd: QUIT_EDITOR
+[2017.10.07-17.48.15:132][455]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.07-17.48.15:160][455]LogExit: Preparing to exit.
+[2017.10.07-17.48.15:779][455]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' was aborted.
+[2017.10.07-17.48.15:984][455]LogExit: Editor shut down
+[2017.10.07-17.48.15:991][455]LogExit: Transaction tracking system shut down
+[2017.10.07-17.48.16:385][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.07-17.48.16:385][455]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/' was aborted.
+[2017.10.07-17.48.16:385][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.07-17.48.16:385][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.07-17.48.16:385][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.07-17.48.16:693][455]LogExit: Object subsystem successfully closed.
+[2017.10.07-17.48.16:738][455]LogD3D11RHI: Shutdown
+[2017.10.07-17.48.16:738][455]LogD3D11RHI: CleanupD3DDevice
+[2017.10.07-17.48.16:911][455]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.07-17.48.17:012][455]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (526)
+[2017.10.07-17.48.17:012][455]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (524)
+[2017.10.07-17.48.17:012][455]LogModuleManager: Shutting down and abandoning module SkeletonEditor (522)
+[2017.10.07-17.48.17:013][455]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (520)
+[2017.10.07-17.48.17:013][455]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (518)
+[2017.10.07-17.48.17:013][455]LogModuleManager: Shutting down and abandoning module SceneOutliner (516)
+[2017.10.07-17.48.17:013][455]LogModuleManager: Shutting down and abandoning module AddContentDialog (514)
+[2017.10.07-17.48.17:014][455]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UnrealEngine-release/FeaturePacks/' was aborted.
+[2017.10.07-17.48.17:030][455]LogModuleManager: Shutting down and abandoning module WidgetCarousel (513)
+[2017.10.07-17.48.17:030][455]LogModuleManager: Shutting down and abandoning module EditorWidgets (510)
+[2017.10.07-17.48.17:030][455]LogModuleManager: Shutting down and abandoning module CollectionManager (508)
+[2017.10.07-17.48.17:030][455]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' was aborted.
+[2017.10.07-17.48.17:030][455]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' was aborted.
+[2017.10.07-17.48.17:030][455]LogDirectoryWatcher: A directory notification for 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' was aborted.
+[2017.10.07-17.48.17:030][455]LogModuleManager: Shutting down and abandoning module StatsViewer (506)
+[2017.10.07-17.48.17:031][455]LogModuleManager: Shutting down and abandoning module FoliageEdit (504)
+[2017.10.07-17.48.17:031][455]LogModuleManager: Shutting down and abandoning module LandscapeEditor (502)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module MeshPaintMode (500)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (498)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module ActorPickerMode (496)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module GeometryMode (494)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module TextureAlignMode (492)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module BspMode (490)
+[2017.10.07-17.48.17:032][455]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (488)
+[2017.10.07-17.48.17:033][455]LogModuleManager: Shutting down and abandoning module HardwareSurvey (486)
+[2017.10.07-17.48.17:033][455]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (484)
+[2017.10.07-17.48.17:033][455]LogModuleManager: Shutting down and abandoning module AutomationWorker (482)
+[2017.10.07-17.48.17:033][455]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (480)
+[2017.10.07-17.48.17:033][455]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (478)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module PlacementMode (477)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (474)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (472)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (470)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (468)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (466)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module Media (465)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (462)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module CharacterAI (460)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module AudioCapture (458)
+[2017.10.07-17.48.17:036][455]LogModuleManager: Shutting down and abandoning module SequenceRecorder (457)
+[2017.10.07-17.48.17:037][455]LogModuleManager: Shutting down and abandoning module SmartSnapping (454)
+[2017.10.07-17.48.17:037][455]LogModuleManager: Shutting down and abandoning module SessionServices (452)
+[2017.10.07-17.48.17:037][455]LogModuleManager: Shutting down and abandoning module ViewportSnapping (450)
+[2017.10.07-17.48.17:037][455]LogModuleManager: Shutting down and abandoning module ViewportInteraction (448)
+[2017.10.07-17.48.17:037][455]LogModuleManager: Shutting down and abandoning module ClothPainter (446)
+[2017.10.07-17.48.17:039][455]LogModuleManager: Shutting down and abandoning module LogVisualizer (444)
+[2017.10.07-17.48.17:040][455]LogModuleManager: Shutting down and abandoning module IntroTutorials (442)
+[2017.10.07-17.48.17:041][455]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (441)
+[2017.10.07-17.48.17:043][455]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (438)
+[2017.10.07-17.48.17:043][455]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (436)
+[2017.10.07-17.48.17:043][455]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (434)
+[2017.10.07-17.48.17:043][455]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (433)
+[2017.10.07-17.48.17:682][455]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (430)
+[2017.10.07-17.48.17:682][455]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (428)
+[2017.10.07-17.48.17:682][455]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (426)
+[2017.10.07-17.48.17:682][455]LogModuleManager: Shutting down and abandoning module InputBindingEditor (424)
+[2017.10.07-17.48.17:684][455]LogModuleManager: Shutting down and abandoning module MergeActors (422)
+[2017.10.07-17.48.17:686][455]LogModuleManager: Shutting down and abandoning module SizeMap (420)
+[2017.10.07-17.48.17:686][455]LogModuleManager: Shutting down and abandoning module TreeMap (418)
+[2017.10.07-17.48.17:687][455]LogModuleManager: Shutting down and abandoning module ReferenceViewer (416)
+[2017.10.07-17.48.17:687][455]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (414)
+[2017.10.07-17.48.17:688][455]LogModuleManager: Shutting down and abandoning module LocalizationService (413)
+[2017.10.07-17.48.17:688][455]LogModuleManager: Shutting down and abandoning module HardwareTargeting (410)
+[2017.10.07-17.48.17:688][455]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (408)
+[2017.10.07-17.48.17:689][455]LogModuleManager: Shutting down and abandoning module UndoHistory (406)
+[2017.10.07-17.48.17:689][455]LogModuleManager: Shutting down and abandoning module XmlParser (404)
+[2017.10.07-17.48.17:689][455]LogModuleManager: Shutting down and abandoning module Blutility (402)
+[2017.10.07-17.48.17:689][455]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (400)
+[2017.10.07-17.48.17:689][455]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (399)
+[2017.10.07-17.48.17:690][455]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (396)
+[2017.10.07-17.48.17:690][455]LogModuleManager: Shutting down and abandoning module SettingsEditor (394)
+[2017.10.07-17.48.17:691][455]LogModuleManager: Shutting down and abandoning module ProjectLauncher (392)
+[2017.10.07-17.48.17:691][455]LogModuleManager: Shutting down and abandoning module SessionFrontend (390)
+[2017.10.07-17.48.17:692][455]LogModuleManager: Shutting down and abandoning module ProfilerClient (388)
+[2017.10.07-17.48.17:692][455]LogModuleManager: Shutting down and abandoning module DeviceManager (386)
+[2017.10.07-17.48.17:693][455]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (385)
+[2017.10.07-17.48.17:759][455]LogModuleManager: Shutting down and abandoning module AutomationController (382)
+[2017.10.07-17.48.17:760][455]LogModuleManager: Shutting down and abandoning module AutomationWindow (380)
+[2017.10.07-17.48.17:761][455]LogModuleManager: Shutting down and abandoning module Layers (378)
+[2017.10.07-17.48.17:763][455]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (376)
+[2017.10.07-17.48.17:763][455]LogModuleManager: Shutting down and abandoning module DetailCustomizations (374)
+[2017.10.07-17.48.17:763][455]LogModuleManager: Shutting down and abandoning module PackagesDialog (372)
+[2017.10.07-17.48.17:764][455]LogModuleManager: Shutting down and abandoning module Persona (370)
+[2017.10.07-17.48.17:764][455]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (369)
+[2017.10.07-17.48.17:764][455]LogModuleManager: Shutting down and abandoning module AnimGraph (367)
+[2017.10.07-17.48.17:765][455]LogModuleManager: Shutting down and abandoning module Kismet (364)
+[2017.10.07-17.48.17:766][455]LogModuleManager: Shutting down and abandoning module ClassViewer (362)
+[2017.10.07-17.48.17:766][455]LogModuleManager: Shutting down and abandoning module Toolbox (360)
+[2017.10.07-17.48.17:766][455]LogModuleManager: Shutting down and abandoning module ModuleUI (358)
+[2017.10.07-17.48.17:767][455]LogModuleManager: Shutting down and abandoning module MovieSceneTools (356)
+[2017.10.07-17.48.17:768][455]LogModuleManager: Shutting down and abandoning module OutputLog (354)
+[2017.10.07-17.48.17:768][455]LogModuleManager: Shutting down and abandoning module GammaUI (352)
+[2017.10.07-17.48.17:769][455]LogModuleManager: Shutting down and abandoning module Documentation (350)
+[2017.10.07-17.48.17:769][455]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (348)
+[2017.10.07-17.48.17:769][455]LogModuleManager: Shutting down and abandoning module MovieScene (346)
+[2017.10.07-17.48.17:769][455]LogModuleManager: Shutting down and abandoning module Niagara (344)
+[2017.10.07-17.48.17:769][455]LogModuleManager: Shutting down and abandoning module NiagaraEditor (343)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (340)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module LauncherPlatform (338)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module AnalyticsET (336)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module PortalServices (334)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module PortalRpc (332)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module MessagingRpc (330)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module AIModule (328)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module GameplayDebugger (327)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module AITestSuite (325)
+[2017.10.07-17.48.17:771][455]LogModuleManager: Shutting down and abandoning module ProfilerService (322)
+[2017.10.07-17.48.17:783][455]LogModuleManager: Shutting down and abandoning module TaskGraph (320)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module SteamVRController (318)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (316)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (314)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module OculusInput (312)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (310)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (308)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module CableComponent (306)
+[2017.10.07-17.48.17:784][455]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (304)
+[2017.10.07-17.48.17:785][455]LogModuleManager: Shutting down and abandoning module AndroidPermission (302)
+[2017.10.07-17.48.17:785][455]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (298)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module HTML5Networking (296)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module AlembicImporter (294)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module AlembicLibrary (293)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module GeometryCache (292)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (291)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (286)
+[2017.10.07-17.48.17:787][455]LogModuleManager: Shutting down and abandoning module PluginBrowser (284)
+[2017.10.07-17.48.17:789][455]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (282)
+[2017.10.07-17.48.17:790][455]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (280)
+[2017.10.07-17.48.17:790][455]LogModuleManager: Shutting down and abandoning module DesktopPlatform (279)
+[2017.10.07-17.48.17:791][455]LogModuleManager: Shutting down and abandoning module UObjectPlugin (276)
+[2017.10.07-17.48.17:791][455]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (274)
+[2017.10.07-17.48.17:792][455]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (272)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module GitSourceControl (270)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module SourceControl (269)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (266)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (264)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (262)
+[2017.10.07-17.48.17:793][455]LogModuleManager: Shutting down and abandoning module Paper2DEditor (260)
+[2017.10.07-17.48.17:794][455]LogModuleManager: Shutting down and abandoning module MeshPaint (259)
+[2017.10.07-17.48.17:794][455]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2017.10.07-17.48.17:796][455]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2017.10.07-17.48.17:797][455]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2017.10.07-17.48.17:797][455]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (248)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (246)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module PhysXVehicles (244)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module OculusEditor (242)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (240)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (238)
+[2017.10.07-17.48.17:799][455]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (236)
+[2017.10.07-17.48.17:800][455]LogModuleManager: Shutting down and abandoning module UdpMessaging (234)
+[2017.10.07-17.48.17:901][455]LogModuleManager: Shutting down and abandoning module TcpMessaging (232)
+[2017.10.07-17.48.18:002][455]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (230)
+[2017.10.07-17.48.18:003][455]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (228)
+[2017.10.07-17.48.18:003][455]LogModuleManager: Shutting down and abandoning module FacialAnimation (226)
+[2017.10.07-17.48.18:003][455]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (224)
+[2017.10.07-17.48.18:004][455]LogModuleManager: Shutting down and abandoning module GraphEditor (223)
+[2017.10.07-17.48.18:006][455]LogModuleManager: Shutting down and abandoning module ContentBrowser (221)
+[2017.10.07-17.48.18:008][455]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (218)
+[2017.10.07-17.48.18:008][455]LogModuleManager: Shutting down and abandoning module Paper2D (216)
+[2017.10.07-17.48.18:008][455]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (214)
+[2017.10.07-17.48.18:009][455]LogModuleManager: Shutting down and abandoning module WmfMedia (212)
+[2017.10.07-17.48.18:009][455]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2017.10.07-17.48.18:010][455]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2017.10.07-17.48.18:010][455]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2017.10.07-17.48.18:011][455]LogModuleManager: Shutting down and abandoning module Overlay (204)
+[2017.10.07-17.48.18:011][455]LogModuleManager: Shutting down and abandoning module OverlayEditor (203)
+[2017.10.07-17.48.18:011][455]LogModuleManager: Shutting down and abandoning module MediaAssets (200)
+[2017.10.07-17.48.18:011][455]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2017.10.07-17.48.18:012][455]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2017.10.07-17.48.18:012][455]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2017.10.07-17.48.18:012][455]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2017.10.07-17.48.18:014][455]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2017.10.07-17.48.18:015][455]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2017.10.07-17.48.18:015][455]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2017.10.07-17.48.18:015][455]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2017.10.07-17.48.18:016][455]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2017.10.07-17.48.18:018][455]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2017.10.07-17.48.18:020][455]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2017.10.07-17.48.18:020][455]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2017.10.07-17.48.18:022][455]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2017.10.07-17.48.18:022][455]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (166)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (164)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module XAudio2 (162)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module Networking (160)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module Core (156)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module LevelSequence (150)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module MeshUtilities (148)
+[2017.10.07-17.48.18:028][455]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (147)
+[2017.10.07-17.48.18:029][455]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (146)
+[2017.10.07-17.48.18:029][455]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (145)
+[2017.10.07-17.48.18:029][455]LogModuleManager: Shutting down and abandoning module MaterialBaking (141)
+[2017.10.07-17.48.18:030][455]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (138)
+[2017.10.07-17.48.18:035][455]LogModuleManager: Shutting down and abandoning module DerivedDataCache (136)
+[2017.10.07-17.48.18:084][455]LogDerivedDataCache: Shutdown
+[2017.10.07-17.48.18:084][455]LogModuleManager: Shutting down and abandoning module TargetPlatform (134)
+[2017.10.07-17.48.18:086][455]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (133)
+[2017.10.07-17.48.18:087][455]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (131)
+[2017.10.07-17.48.18:087][455]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (129)
+[2017.10.07-17.48.18:087][455]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (127)
+[2017.10.07-17.48.18:088][455]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (125)
+[2017.10.07-17.48.18:089][455]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (123)
+[2017.10.07-17.48.18:089][455]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (121)
+[2017.10.07-17.48.18:089][455]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (119)
+[2017.10.07-17.48.18:089][455]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (117)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (115)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module ImageWrapper (114)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (111)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (109)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (107)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (105)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.07-17.48.18:090][455]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.07-17.48.18:091][455]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.07-17.48.18:092][455]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.07-17.48.18:093][455]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.07-17.48.18:093][455]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.07-17.48.18:093][455]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.07-17.48.18:093][455]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.07-17.48.18:094][455]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.07-17.48.18:095][455]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.07-17.48.18:095][455]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.07-17.48.18:095][455]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE898DC16-4B60-43E1-8653-2897D86CB984%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.17.2-0%2B%2B%2BUE4%2BRelease-4.17&UserID=c4f097a14edb72948e1b609202c1ac2d%7C6c0923afca2c450bb55d507de94b1cd7%7Cc2725472-7586-4a72-b68b-f40897905ab3&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2017.10.07-17.48.18:111][455]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.07-17.48.18:113][455]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.07-17.48.18:114][455]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.07-17.48.18:115][455]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.07-17.48.18:116][455]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.07-17.48.18:116][455]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.07-17.48.18:116][455]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.07-17.48.18:116][455]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.07-17.48.18:121][455]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.07-17.48.18:122][455]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.07-17.48.18:122][455]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.07-17.48.18:122][455]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.07-17.48.18:122][455]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.07-17.48.18:127][455]LogExit: Exiting.
+[2017.10.07-17.48.18:151][455]Log file closed, 10/07/17 14:48:18

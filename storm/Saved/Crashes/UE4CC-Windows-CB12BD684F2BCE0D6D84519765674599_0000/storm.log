@@ -1,0 +1,951 @@
+﻿Log file open, 10/06/17 15:31:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: storm
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1488136901) SRandInit(-1488136901).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.201351
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-0
+LogInit: Engine Version: 4.17.2-0+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-0+++UE4+Release-4.17
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Oct  3 2017 12:16:54
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.06-18.31.40:542][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.06-18.31.40:542][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.06-18.31.40:571][  0]LogInit: Computer: DESKTOP-V0QB7PK
+[2017.10.06-18.31.40:571][  0]LogInit: User: Erick
+[2017.10.06-18.31.40:571][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.06-18.31.40:571][  0]LogInit: High frequency timer resolution =3.125024 MHz
+[2017.10.06-18.31.40:571][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2017.10.06-18.31.40:571][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.06-18.31.40:571][  0]LogMemory: Process Physical Memory: 278.89 MB used, 278.89 MB peak
+[2017.10.06-18.31.40:571][  0]LogMemory: Process Virtual Memory: 276.11 MB used, 276.11 MB peak
+[2017.10.06-18.31.40:571][  0]LogMemory: Physical Memory: 4065.60 MB used,  2020.14 MB free, 6085.74 MB total
+[2017.10.06-18.31.40:571][  0]LogMemory: Virtual Memory: 670.80 MB used,  2020.14 MB free, 134217728.00 MB total
+[2017.10.06-18.31.40:990][  0]LogInit: Using OS detected language (pt-BR).
+[2017.10.06-18.31.40:990][  0]LogInit: Using OS detected locale (pt-BR).
+[2017.10.06-18.31.43:840][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.06-18.31.43:915][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 630' (Feature Level 11_0)
+[2017.10.06-18.31.43:915][  0]LogD3D11RHI:       2000/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.06-18.31.43:917][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.06-18.31.43:917][  0]LogD3D11RHI:       0/0/3042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.06-18.31.43:917][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.06-18.31.43:922][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.06-18.31.43:922][  0]LogD3D11RHI:     GPU DeviceId: 0xf00 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.06-18.31.43:922][  0]LogWindows: EnumDisplayDevices:
+[2017.10.06-18.31.43:922][  0]LogWindows:    0. 'NVIDIA GeForce GT 630' (P:1 D:1)
+[2017.10.06-18.31.43:922][  0]LogWindows:    1. 'NVIDIA GeForce GT 630' (P:0 D:0)
+[2017.10.06-18.31.43:922][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2017.10.06-18.31.43:922][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 630
+[2017.10.06-18.31.43:922][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.10.06-18.31.43:922][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.10.06-18.31.43:922][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.06-18.31.43:959][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.10.06-18.31.43:959][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.06-18.31.43:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.06-18.31.43:971][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (../../../../../../Users/Erick/Documents/GitHub/storm/storm/Intermediate/Shaders/WorkingDirectory/5348/).
+[2017.10.06-18.31.43:972][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Erick/AppData/Local/Temp/UnrealShaderWorkingDir/7F70C7E147ED58BDECC09E8807B67F24/'.
+[2017.10.06-18.31.43:972][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.06-18.31.46:320][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.06-18.31.46:450][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.06-18.31.46:563][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.06-18.31.46:687][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.06-18.31.46:811][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.06-18.31.46:937][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.06-18.31.47:052][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.06-18.31.47:171][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.06-18.31.47:276][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.06-18.31.47:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.06-18.31.47:502][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.06-18.31.47:609][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.06-18.31.47:731][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.06-18.31.47:847][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.06-18.31.47:967][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.06-18.31.48:191][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.06-18.31.48:191][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.06-18.31.48:286][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.06-18.31.48:478][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.06-18.31.48:540][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.06-18.31.48:540][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.06-18.31.49:848][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.06-18.31.50:499][  0]LogDerivedDataCache: Loaded boot cache 0.65s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.06-18.31.50:499][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc
+[2017.10.06-18.31.50:499][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.06-18.31.50:499][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.06-18.31.50:500][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.06-18.31.50:500][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2017.10.06-18.31.50:512][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2017.10.06-18.31.50:512][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2017.10.06-18.31.50:512][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2017.10.06-18.31.50:525][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.06-18.31.50:525][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.06-18.31.50:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.06-18.31.50:539][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.06-18.31.52:231][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2017.10.06-18.31.52:406][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.06-18.31.52:687][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.06-18.31.53:277][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.06-18.31.53:277][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.06-18.31.53:277][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.06-18.31.53:277][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2017.10.06-18.31.53:277][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.06-18.31.53:277][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2017.10.06-18.31.53:927][  0]LogNetVersion: storm , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3367854216)
+[2017.10.06-18.31.54:599][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.080407 seconds
+[2017.10.06-18.31.54:607][  0]LogUObjectArray: 35784 objects as part of root set at end of initial load.
+[2017.10.06-18.31.54:607][  0]LogUObjectAllocator: 7522352 out of 0 bytes used by permanent object pool.
+[2017.10.06-18.31.54:607][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.06-18.31.54:783][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.06-18.32.03:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.06-18.32.03:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.06-18.32.05:002][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.06-18.32.06:067][  0]SourceControl: Controle de origem desativado
+[2017.10.06-18.32.08:451][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.06-18.32.09:079][  0]LogOcInput: OculusInput pre-init called
+[2017.10.06-18.32.09:733][  0]LogEngine: Initializing Engine...
+[2017.10.06-18.32.09:736][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.06-18.32.10:245][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.06-18.32.10:245][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.06-18.32.10:578][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.06-18.32.10:597][  0]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-18.32.10:619][  0]LogInit: FAudioDevice initialized.
+[2017.10.06-18.32.10:750][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB ../../../../../../Users/Erick/Documents/GitHub/storm/storm/DerivedDataCache/Boot.ddc.
+[2017.10.06-18.32.10:769][  0]LogInit: Texture streaming: Enabled
+[2017.10.06-18.32.11:094][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.06-18.32.11:681][  0]LogInit: Transaction tracking system initialized
+[2017.10.06-18.32.12:531][  0]BlueprintLog: New page: Carregar Editor
+[2017.10.06-18.32.15:029][  0]LocalizationService: Localization service is disabled
+[2017.10.06-18.32.17:142][  0]LogConsoleResponse: Display: 
+[2017.10.06-18.32.17:924][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.06-18.32.17:924][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.06-18.32.17:924][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.06-18.32.18:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/' took 0.02s
+[2017.10.06-18.32.20:903][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.06-18.32.20:904][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.06-18.32.21:012][  0]MapCheck: New page: Verificação de Mapa
+[2017.10.06-18.32.21:012][  0]LightingResults: New page: Compilação de Iluminação
+[2017.10.06-18.32.22:009][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-18.32.22:144][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.06-18.32.22:171][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.06-18.32.22:290][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119,56ms to complete.
+[2017.10.06-18.32.22:290][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.387
+[2017.10.06-18.32.22:561][  0]LogCollectionManager: Loaded 0 collections in 0.005731 seconds
+[2017.10.06-18.32.22:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Saved/Collections/' took 0.01s
+[2017.10.06-18.32.22:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Developers/Erick/Collections/' took 0.01s
+[2017.10.06-18.32.22:727][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Erick/Documents/GitHub/storm/storm/Content/Collections/' took 0.01s
+[2017.10.06-18.32.22:727][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.06-18.32.22:741][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2385 classes and 498 folders.
+[2017.10.06-18.32.22:914][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.06-18.32.23:353][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.06-18.32.23:467][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.10.06-18.32.23:522][  0]LogSlate: Took 0.006820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.06-18.32.23:530][  0]LogSlate: Took 0.005527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.06-18.32.23:541][  0]LogSlate: Took 0.005127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.06-18.32.24:017][  0]LogRenderer: Reallocating scene render targets to support 840x540 Format 9 NumSamples 1 (Frame:1).
+[2017.10.06-18.32.24:388][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.06-18.32.24:388][  0]LogLoad: (Engine Initialization) Total time: 47.21 seconds
+[2017.10.06-18.32.24:388][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.06-18.32.24:389][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.06-18.32.24:389][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.06-18.32.24:423][  0]SourceControl: On branch master
+[2017.10.06-18.32.24:423][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.10.06-18.32.24:423][  0]SourceControl: Changes not staged for commit:
+[2017.10.06-18.32.24:423][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.10.06-18.32.24:423][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.10.06-18.32.24:423][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-18.32.24:423][  0]SourceControl: 	modified:   storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	modified:   storm/storm.uproject
+[2017.10.06-18.32.24:423][  0]SourceControl: Untracked files:
+[2017.10.06-18.32.24:423][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Config/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/Mannequin/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Architecture/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Audio/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Blueprints/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/HDRI/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Maps/
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Chrome.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Copper.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Gold.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Rust.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Metal_Steel.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Basalt.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Sandstone.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Rock_Slate.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Tech_Panel.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Lake.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Water_Ocean.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset
+[2017.10.06-18.32.24:423][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Oak.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Pine.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Materials/M_Wood_Walnut.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_Spark.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Ambient_Dust.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Explosion.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Fire.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Smoke.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Sparks.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Particles/P_Steam_Lit.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/MaterialSphere.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Rock.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Shelf.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_Statue.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_StatueGlass.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/Materials/M_TableRound.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Bush.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Chair.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Couch.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Door.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Rock.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Shelf.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Stairs.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_Statue.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_TableRound.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Shapes/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/StarterContent/Textures/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/ThirdPerson/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Content/ThirdPersonBP/Blueprints/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/DerivedDataCache/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Intermediate/
+[2017.10.06-18.32.24:424][  0]SourceControl: 	storm/Saved/
+[2017.10.06-18.32.24:424][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.10.06-18.32.24:425][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.10.06-18.32.24:478][  0]LogSlate: Took 0.010240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-18.32.24:498][  1]LogAssetRegistry: Asset discovery search completed in 32.2876 seconds
+[2017.10.06-18.32.24:500][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.06-18.32.24:500][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000042 seconds (updated 0 objects)
+[2017.10.06-18.33.04:934][815]MapCheck: New page: Verificação de Mapa
+[2017.10.06-18.33.04:959][815]LightingResults: New page: Compilação de Iluminação - 06/10/2017 12:33:04
+[2017.10.06-18.33.05:062][815]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.06-18.33.05:168][815]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.06-18.33.05:259][815]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.06-18.33.05:801][815]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.06-18.33.05:801][815]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5348
+[2017.10.06-18.33.13:648][815]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.06-18.33.13:648][815]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.06-18.33.13:648][815]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.06-18.33.13:648][815]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.06-18.33.13:648][815]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.06-18.33.13:921][815]LogEditorBuildUtils: Build time 0:08
+[2017.10.06-18.33.22:447][294]Job is a success!
+[2017.10.06-18.33.22:491][295]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.10.06-18.33.23:467][295]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.10.06-18.33.23:614][295]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.10.06-18.33.23:614][295]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2017.10.06-18.33.23:665][295]Lightmass on DESKTOP-V0QB7PK: 8.51 sec total, 138 ms importing, 26 ms setup, 1.19 sec photons, 7.07 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 28.2 sec total, 16.7 sec processing.
+[2017.10.06-18.33.23:669][295]LogStaticLightingSystem: Illumination: 18.6 sec (895 ms encoding lightmaps, 137 ms encoding shadowmaps)
+[2017.10.06-18.33.23:670][295]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.10.06-18.33.23:670][295]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.06-18.33.24:654][295]DumpUnbuiltLightIteractions
+[2017.10.06-18.33.24:654][295]Lights with unbuilt interactions: 0
+[2017.10.06-18.33.24:654][295]
+[2017.10.06-18.33.24:654][295]Primitives with unbuilt interactions: 0
+[2017.10.06-18.33.24:661][296]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.06-18.33.24:661][296]MapCheck: New page: ThirdPersonExampleMap - 06/10/2017 12:33:24
+[2017.10.06-18.33.24:831][296]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 169,841ms to complete.
+[2017.10.06-18.33.26:561][413]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.10.06-18.33.28:288][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2017.10.06-18.33.34:945][915]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall11)
+[2017.10.06-18.33.36:264][994]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall10)
+[2017.10.06-18.33.38:425][128]Cmd: DELETE
+[2017.10.06-18.33.38:426][128]Cmd: ACTOR DELETE
+[2017.10.06-18.33.38:428][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-18.33.38:429][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-18.33.38:429][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-18.33.38:444][128]LogEditorActor: Deleted 3 Actors (0.016 secs)
+[2017.10.06-18.33.41:615][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2017.10.06-18.33.43:096][436]Cmd: DELETE
+[2017.10.06-18.33.43:096][436]Cmd: ACTOR DELETE
+[2017.10.06-18.33.43:097][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.06-18.33.43:106][436]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2017.10.06-18.33.46:234][696]MapCheck: New page: Verificação de Mapa
+[2017.10.06-18.33.46:247][696]LightingResults: New page: Compilação de Iluminação - 06/10/2017 12:33:46
+[2017.10.06-18.33.46:258][696]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.06-18.33.46:260][696]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.06-18.33.46:260][696]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.06-18.33.46:261][696]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.06-18.33.46:261][696]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5348
+[2017.10.06-18.33.55:315][696]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.06-18.33.55:315][696]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.06-18.33.55:315][696]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.06-18.33.55:315][696]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.06-18.33.55:315][696]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.06-18.33.55:514][696]LogEditorBuildUtils: Build time 0:09
+[2017.10.06-18.34.00:467][999]Job is a success!
+[2017.10.06-18.34.00:760][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2017.10.06-18.34.00:760][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.10.06-18.34.00:760][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.10.06-18.34.00:760][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2017.10.06-18.34.00:760][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.10.06-18.34.00:761][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.10.06-18.34.00:839][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2017.10.06-18.34.00:839][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 512X512)
+[2017.10.06-18.34.00:870][  0]LogStaticLightingSystem: Illumination: 14.5 sec (186 ms encoding lightmaps, 88 ms encoding shadowmaps)
+[2017.10.06-18.34.00:870][  0]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.10.06-18.34.00:870][  0]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.06-18.34.01:320][  0]Lightmass on DESKTOP-V0QB7PK: 4.72 sec total, 117 ms importing, 22 ms setup, 951 ms photons, 3.59 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 14.3 sec total, 3.19 sec processing.
+[2017.10.06-18.34.01:320][  0]DumpUnbuiltLightIteractions
+[2017.10.06-18.34.01:320][  0]Lights with unbuilt interactions: 0
+[2017.10.06-18.34.01:320][  0]
+[2017.10.06-18.34.01:320][  0]Primitives with unbuilt interactions: 0
+[2017.10.06-18.34.01:395][  1]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.06-18.34.01:395][  1]MapCheck: New page: ThirdPersonExampleMap - 06/10/2017 12:34:01
+[2017.10.06-18.34.01:510][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115,172ms to complete.
+[2017.10.06-18.34.04:292][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.06-18.34.06:510][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.06-18.34.07:410][362]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2017.10.06-18.34.09:002][465]Cmd: DELETE
+[2017.10.06-18.34.09:002][465]Cmd: ACTOR DELETE
+[2017.10.06-18.34.09:003][465]LogEditorActor: Deleted Actor: DocumentationActor
+[2017.10.06-18.34.09:013][465]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2017.10.06-18.34.26:845][711]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.10.06-18.34.54:774][634]Cmd: EDIT COPY
+[2017.10.06-18.34.55:436][682]Cmd: EDIT PASTE
+[2017.10.06-18.35.05:939][431]Cmd: EDIT COPY
+[2017.10.06-18.35.06:441][466]Cmd: EDIT PASTE
+[2017.10.06-18.35.38:008][665]Cmd: EDIT COPY
+[2017.10.06-18.35.38:493][697]Cmd: EDIT PASTE
+[2017.10.06-18.35.55:041][814]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2017.10.06-18.36.18:167][405]LogStaticMesh: Criando malha estática SM_DoorFrame...
+[2017.10.06-18.36.18:180][405]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2017.10.06-18.36.19:200][405]LogTexture: Display: Building textures: T_Frame_M (DXT1, 2048X2048)
+[2017.10.06-18.36.19:200][405]LogTexture: Display: Building textures: T_Frame_N (BC5, 2048X2048)
+[2017.10.06-18.36.19:200][405]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2017.10.06-18.36.19:264][405]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.10.06-18.36.20:828][505]LogActorFactory: Actor Factory created SM_DoorFrame
+[2017.10.06-18.36.22:931][651]LogStaticMesh: Criando malha estática SM_Door...
+[2017.10.06-18.36.22:954][651]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Door.SM_Door
+[2017.10.06-18.36.22:967][651]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2017.10.06-18.36.23:844][651]LogTexture: Display: Building textures: T_Door_M (DXT1, 2048X2048)
+[2017.10.06-18.36.23:844][651]LogTexture: Display: Building textures: T_Door_N (BC5, 2048X2048)
+[2017.10.06-18.36.23:844][651]LogMaterial: Missing cached shader map for material M_Door, compiling. 
+[2017.10.06-18.36.23:876][651]LogActorFactory: Actor Factory created SM_Door
+[2017.10.06-18.36.25:613][761]LogActorFactory: Actor Factory created SM_Door
+[2017.10.06-18.36.57:323][806]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.10.06-18.37.05:841][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.37.06:841][383]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_DoorFrame)
+[2017.10.06-18.37.59:031][874]LogEditorViewport: Clicking on Actor (LMB): Brush (Caixa Pincel5)
+[2017.10.06-18.38.31:062][  5]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2017.10.06-18.38.59:287][878]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.38.59:288][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-18.38.59:291][878]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 12:38:59)
+[2017.10.06-18.38.59:292][878]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-18.38.59:316][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023804s)
+[2017.10.06-18.38.59:317][878]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-18.38.59:317][878]LogPlayLevel: PIE: World Init took: (0.001393s)
+[2017.10.06-18.38.59:319][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026950s)
+[2017.10.06-18.38.59:340][878]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-18.38.59:356][878]LogInit: FAudioDevice initialized.
+[2017.10.06-18.38.59:417][878]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-18.38.59:433][878]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-15.38.59
+[2017.10.06-18.38.59:437][878]LogWorld: Bringing up level for play took: 0.005584
+[2017.10.06-18.38.59:563][878]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.10.06-18.38.59:573][878]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,593
+[2017.10.06-18.38.59:573][878]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.03:591][163]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.03:648][163]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.06:008][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.39.10:163][529]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.10.06-18.39.10:209][529]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.10.06-18.39.10:238][529]LogTexture: Display: Building textures: SimplygonLogo (AutoDXT, 128X128)
+[2017.10.06-18.39.24:274][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2017.10.06-18.39.24:307][490]LogSavePackage: Save=20.61ms
+[2017.10.06-18.39.24:307][490]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/SM_Door5A2AF6064F50495683FE53BA39E1DBFE.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Props/SM_Door.uasset'
+[2017.10.06-18.39.24:316][490]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Props/SM_Door.uasset
+[2017.10.06-18.39.37:426][525]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-18.39.37:441][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.37:441][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-18.39.37:441][525]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 12:39:37)
+[2017.10.06-18.39.37:441][525]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-18.39.37:462][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020585s)
+[2017.10.06-18.39.37:463][525]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-18.39.37:463][525]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2017.10.06-18.39.37:464][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022056s)
+[2017.10.06-18.39.37:487][525]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-18.39.37:502][525]LogInit: FAudioDevice initialized.
+[2017.10.06-18.39.37:537][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-18.39.37:539][525]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-15.39.37
+[2017.10.06-18.39.37:540][525]LogWorld: Bringing up level for play took: 0.001980
+[2017.10.06-18.39.37:544][525]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,622
+[2017.10.06-18.39.37:545][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.44:700][ 44]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.44:764][ 44]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.39.50:672][504]MapCheck: New page: Verificação de Mapa
+[2017.10.06-18.39.50:682][504]Cmd: MAP REBUILD ALLVISIBLE
+[2017.10.06-18.39.50:682][504]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.10.06-18.39.50:700][504]LightingResults: New page: Compilação de Iluminação - 06/10/2017 12:39:50
+[2017.10.06-18.39.50:710][504]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.06-18.39.50:712][504]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.06-18.39.50:712][504]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.06-18.39.50:713][504]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.06-18.39.50:713][504]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5348
+[2017.10.06-18.39.55:226][504]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.06-18.39.55:227][504]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.06-18.39.55:227][504]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.06-18.39.55:227][504]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.06-18.39.55:227][504]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.06-18.39.55:487][504]LogEditorBuildUtils: Build time 0:04
+[2017.10.06-18.39.55:508][504]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2017.10.06-18.39.55:516][504]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Frame, compiling. 
+[2017.10.06-18.39.55:552][505]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2017.10.06-18.39.55:561][505]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2017.10.06-18.39.55:590][506]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2017.10.06-18.39.55:601][506]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Glass, compiling. 
+[2017.10.06-18.40.03:675][531]Job is a success!
+[2017.10.06-18.40.04:866][532]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2017.10.06-18.40.04:866][532]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2017.10.06-18.40.04:866][532]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2017.10.06-18.40.04:866][532]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2017.10.06-18.40.04:866][532]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2017.10.06-18.40.04:867][532]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2017.10.06-18.40.04:867][532]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2017.10.06-18.40.04:867][532]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2017.10.06-18.40.04:867][532]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2017.10.06-18.40.05:026][532]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 512X32)
+[2017.10.06-18.40.05:026][532]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2017.10.06-18.40.05:026][532]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X512)
+[2017.10.06-18.40.05:059][532]LogStaticLightingSystem: Illumination: 14.0 sec (793 ms encoding lightmaps, 148 ms encoding shadowmaps)
+[2017.10.06-18.40.05:060][532]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (2.7 MB streaming, 0.7 MB non-streaming), 6 textures
+[2017.10.06-18.40.05:060][532]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 3 textures
+[2017.10.06-18.40.05:233][532]DumpUnbuiltLightIteractions
+[2017.10.06-18.40.05:233][532]Lights with unbuilt interactions: 0
+[2017.10.06-18.40.05:233][532]
+[2017.10.06-18.40.05:233][532]Primitives with unbuilt interactions: 0
+[2017.10.06-18.40.05:244][533]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.06-18.40.05:244][533]MapCheck: New page: ThirdPersonExampleMap - 06/10/2017 12:40:05
+[2017.10.06-18.40.05:372][533]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127,986ms to complete.
+[2017.10.06-18.42.33:414][977]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.06-18.42.42:963][  5]LogSavePackage: Save=110.96ms
+[2017.10.06-18.42.42:964][  5]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap_Auto143ABE820426099EF006756891FC1634A.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.10.06-18.42.42:967][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.10.06-18.42.42:976][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.205
+[2017.10.06-18.42.42:976][  5]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2017.10.06-18.42.42:981][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.10.06-18.42.42:981][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.10.06-18.42.43:025][  5]LogSavePackage: Save=22.14ms
+[2017.10.06-18.42.43:025][  5]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap_BuiltData_Auto13E6B239B4F26E84ACF7627BF7389F4B5.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2017.10.06-18.42.43:027][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2017.10.06-18.42.43:027][  5]LogFileHelpers: Auto-saving content packages took 0.050
+[2017.10.06-18.43.11:821][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.43.16:868][567]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0009 seconds. Added 15 classes and 2 folders.
+[2017.10.06-18.43.16:878][567]LogInit: Transaction tracking system initialized
+[2017.10.06-18.43.16:879][567]EditorErrors: New page: Inicialização de Matinê
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_View_On (AutoDXT, 16X16)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_View_Off (AutoDXT, 16X16)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Right_On (AutoDXT, 8X8)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Right_Off (AutoDXT, 8X8)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Left_On (AutoDXT, 8X8)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Left_Off (AutoDXT, 8X8)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: CASC_ModuleEnable (AutoDXT, 16X16)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Graph_On (AutoDXT, 8X8)
+[2017.10.06-18.43.17:065][567]LogTexture: Display: Building textures: MAT_Groups_Graph_Off (AutoDXT, 8X8)
+[2017.10.06-18.43.17:137][567]LogTexture: Display: Building textures: MatineeGreyGrad (AutoDXT, 64X64)
+[2017.10.06-18.43.57:144][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.44.42:694][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.06-18.46.56:179][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.47.07:276][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.48.46:367][437]Cmd: TRANSACTION UNDO
+[2017.10.06-18.48.46:367][437]LogEditorTransaction: Undo Adicionar Chave
+[2017.10.06-18.49.16:392][177]LogAudioDerivedData: Display: Criando onda OGG Collapse01 do formato de áudio compactado
+[2017.10.06-18.49.16:453][177]LogAudioDerivedData: Display: Criando onda OGG Collapse02 do formato de áudio compactado
+[2017.10.06-18.49.16:508][177]LogAudioDerivedData: Display: Criando onda OGG Explosion01 do formato de áudio compactado
+[2017.10.06-18.49.16:542][177]LogAudioDerivedData: Display: Criando onda OGG Explosion02 do formato de áudio compactado
+[2017.10.06-18.49.16:586][177]LogAudioDerivedData: Display: Criando onda OGG Fire01 do formato de áudio compactado
+[2017.10.06-18.49.16:663][177]LogAudioDerivedData: Display: Criando onda OGG Fire_Sparks01 do formato de áudio compactado
+[2017.10.06-18.49.16:757][177]LogAudioDerivedData: Display: Criando onda OGG Light01 do formato de áudio compactado
+[2017.10.06-18.49.16:809][177]LogAudioDerivedData: Display: Criando onda OGG Light02 do formato de áudio compactado
+[2017.10.06-18.49.16:856][177]LogAudioDerivedData: Display: Criando onda OGG Smoke01 do formato de áudio compactado
+[2017.10.06-18.49.16:940][177]LogAudioDerivedData: Display: Criando onda OGG Starter_Wind06 do formato de áudio compactado
+[2017.10.06-18.49.17:146][177]LogAudioDerivedData: Display: Criando onda OGG Starter_Birds01 do formato de áudio compactado
+[2017.10.06-18.49.17:392][177]LogAudioDerivedData: Display: Criando onda OGG Starter_Wind05 do formato de áudio compactado
+[2017.10.06-18.49.17:625][177]LogAudioDerivedData: Display: Criando onda OGG Starter_Music01 do formato de áudio compactado
+[2017.10.06-18.49.18:445][177]LogAudioDerivedData: Display: Criando onda OGG Steam01 do formato de áudio compactado
+[2017.10.06-18.49.46:020][917]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Erick/Downloads/door_open_close.wav)
+[2017.10.06-18.49.46:027][917]LogAudioDerivedData: Display: Criando onda OGG door_open_close do formato de áudio compactado
+[2017.10.06-18.49.46:088][917]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/StarterContent/Audio/door_open_close.door_open_close.
+[2017.10.06-18.50.01:962][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Audio/door_open_close" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close.uasset" SILENT=true
+[2017.10.06-18.50.01:975][702]LogSavePackage: Save=9.02ms
+[2017.10.06-18.50.01:975][702]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/door_open_close83B692F94EDCDE499730DABD11D49946.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close.uasset'
+[2017.10.06-18.50.01:983][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close.uasset
+[2017.10.06-18.50.02:134][702]LogSavePackage: Save=8.24ms
+[2017.10.06-18.50.02:135][702]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/door_open_close_CueAB339CAA4742D10E5C47FEBF643D37E8.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close_Cue.uasset'
+[2017.10.06-18.50.02:141][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close_Cue.uasset
+[2017.10.06-18.50.05:181][702]LogExit: Transaction tracking system shut down
+[2017.10.06-18.50.05:307][702]LogSavePackage: Save=110.79ms
+[2017.10.06-18.50.05:307][702]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap97760906454753107FD86FBFA2ADDACA.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-18.50.05:316][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-18.50.05:342][702]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.307
+[2017.10.06-18.50.05:462][702]LogSavePackage: Save=102.69ms
+[2017.10.06-18.50.05:462][702]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap_BuiltData40511108425E666485BF1FB8D21D4002.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.10.06-18.50.05:467][702]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.10.06-18.50.28:582][106]LogInit: Transaction tracking system initialized
+[2017.10.06-18.50.28:582][106]EditorErrors: New page: Inicialização de Matinê
+[2017.10.06-18.51.51:285][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.52.05:966][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.53.52:307][660]LogSlate: Took 0.005467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.06-18.55.04:073][944]LogSavePackage: Save=8.69ms
+[2017.10.06-18.55.04:073][944]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/door_open_close_Cue4AD9A9444BB802E57283C19DA870CDA3.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close_Cue.uasset'
+[2017.10.06-18.55.04:076][944]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/StarterContent/Audio/door_open_close_Cue.uasset
+[2017.10.06-18.55.48:123][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-18.57.11:633][ 66]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-18.57.13:256][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.57.13:256][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-18.57.13:256][ 66]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 12:57:13)
+[2017.10.06-18.57.13:256][ 66]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-18.57.13:292][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035903s)
+[2017.10.06-18.57.13:293][ 66]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-18.57.13:294][ 66]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2017.10.06-18.57.13:294][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.037687s)
+[2017.10.06-18.57.13:306][ 66]LogExit: Transaction tracking system shut down
+[2017.10.06-18.57.13:310][ 66]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-18.57.13:325][ 66]LogInit: FAudioDevice initialized.
+[2017.10.06-18.57.13:369][ 66]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-18.57.13:372][ 66]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-15.57.13
+[2017.10.06-18.57.13:372][ 66]LogWorld: Bringing up level for play took: 0.002084
+[2017.10.06-18.57.13:380][ 66]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,214
+[2017.10.06-18.57.13:380][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.57.16:827][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.57.16:880][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-18.58.57:953][500]LogSlate: Took 0.007082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.06-18.59.43:188][519]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 113 classes and 0 folders.
+[2017.10.06-18.59.50:494][977]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (SM_DoorGatilho)
+[2017.10.06-19.00.32:950][163]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (SM_DoorAnim)
+[2017.10.06-19.01.20:732][440]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.01.21:855][480]LogSavePackage: Save=136.98ms
+[2017.10.06-19.01.21:855][480]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap6C6A5AF0471C84A31567908F886B22A3.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.01.21:862][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.01.21:888][480]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.329
+[2017.10.06-19.01.26:650][887]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.01.26:672][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.01.26:673][887]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.01.26:673][887]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:01:26)
+[2017.10.06-19.01.26:673][887]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.01.26:695][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021864s)
+[2017.10.06-19.01.26:696][887]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.01.26:696][887]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2017.10.06-19.01.26:696][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023277s)
+[2017.10.06-19.01.26:722][887]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.01.26:737][887]LogInit: FAudioDevice initialized.
+[2017.10.06-19.01.26:780][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.01.26:782][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.01.26
+[2017.10.06-19.01.26:789][887]LogWorld: Bringing up level for play took: 0.008969
+[2017.10.06-19.01.26:795][887]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,629
+[2017.10.06-19.01.26:796][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.01.40:247][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.01.40:301][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.02.28:947][519]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.storm
+[2017.10.06-19.02.28:947][519]LogTemp: CWD: C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\IOS
+[2017.10.06-19.02.28:947][519]LogTemp: Initial Dir: C:\Program Files\Epic Games\UnrealEngine-release
+[2017.10.06-19.02.28:947][519]LogTemp: Env CWD: C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\IOS
+[2017.10.06-19.02.28:947][519]LogTemp: BranchPath = DESKTOP-V0QB7PK/C/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries --- GameBranchPath = DESKTOP-V0QB7PK/C/Program Files/Epic Games/UnrealEngine-release/Engine/Binaries
+[2017.10.06-19.02.28:970][520]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Erick\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.06-19.02.35:149][906]SourceControl: Error: warning: LF will be replaced by CRLF in storm/Config/DefaultInput.ini.
+[2017.10.06-19.02.35:149][906]SourceControl: Error: The file will have its original line endings in your working directory.
+[2017.10.06-19.05.07:732][550]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.05.09:027][657]LogSavePackage: Save=149.60ms
+[2017.10.06-19.05.09:027][657]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap642E6A8F4D9319E7205829A89DE8B59B.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.05.09:034][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.05.09:075][657]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.353
+[2017.10.06-19.05.11:917][897]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.05.11:933][897]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.11:933][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.05.11:933][897]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:05:11)
+[2017.10.06-19.05.11:934][897]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.05.11:956][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022352s)
+[2017.10.06-19.05.11:957][897]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.05.11:957][897]LogPlayLevel: PIE: World Init took: (0.001070s)
+[2017.10.06-19.05.11:957][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023775s)
+[2017.10.06-19.05.11:983][897]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.05.11:998][897]LogInit: FAudioDevice initialized.
+[2017.10.06-19.05.12:036][897]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.05.12:039][897]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.05.12
+[2017.10.06-19.05.12:039][897]LogWorld: Bringing up level for play took: 0.002075
+[2017.10.06-19.05.12:046][897]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,12
+[2017.10.06-19.05.12:046][897]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.27:998][159]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.28:058][159]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.29:460][254]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (SM_DoorGatilho)
+[2017.10.06-19.05.47:781][558]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.05.47:796][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.47:796][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.05.47:796][558]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:05:47)
+[2017.10.06-19.05.47:796][558]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.05.47:820][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023615s)
+[2017.10.06-19.05.47:821][558]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.05.47:821][558]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2017.10.06-19.05.47:821][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025077s)
+[2017.10.06-19.05.47:844][558]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.05.47:859][558]LogInit: FAudioDevice initialized.
+[2017.10.06-19.05.47:900][558]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.05.47:902][558]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.05.47
+[2017.10.06-19.05.47:903][558]LogWorld: Bringing up level for play took: 0.002169
+[2017.10.06-19.05.47:908][558]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,257
+[2017.10.06-19.05.47:909][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.59:353][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.05.59:437][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.06.19:144][ 27]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.06.20:389][128]LogSavePackage: Save=142.67ms
+[2017.10.06-19.06.20:389][128]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap35373F3F4E1FA4EDA95626A6A81C9A73.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.06.20:397][128]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.06.20:425][128]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.334
+[2017.10.06-19.07.02:289][ 30]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.07.03:477][123]LogSavePackage: Save=152.81ms
+[2017.10.06-19.07.03:478][123]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap430CC81C4B1261D7522891A9A95149A7.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.07.03:486][123]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.07.03:515][123]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.350
+[2017.10.06-19.07.07:732][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.07.07:747][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.07.07:747][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.07.07:747][501]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:07:07)
+[2017.10.06-19.07.07:748][501]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.07.07:770][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022247s)
+[2017.10.06-19.07.07:771][501]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.07.07:771][501]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2017.10.06-19.07.07:771][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023753s)
+[2017.10.06-19.07.07:794][501]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.07.07:807][501]LogInit: FAudioDevice initialized.
+[2017.10.06-19.07.07:848][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.07.07:851][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.07.07
+[2017.10.06-19.07.07:851][501]LogWorld: Bringing up level for play took: 0.002050
+[2017.10.06-19.07.07:857][501]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,309
+[2017.10.06-19.07.07:858][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.07.47:970][797]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.07.48:059][797]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.09.41:217][223]LogStaticMesh: Criando malha estática PhAT_FloorBox...
+[2017.10.06-19.09.41:218][223]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2017.10.06-19.09.41:650][223]LogTexture: Display: Building textures: TilePatine_N (BC5, 512X512)
+[2017.10.06-19.09.41:650][223]LogTexture: Display: Building textures: TilePatine_D (AutoDXT, 512X512)
+[2017.10.06-19.09.41:660][223]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.10.06-19.09.41:797][224]LogRenderer: Reallocating scene render targets to support 840x844 Format 9 NumSamples 1 (Frame:1).
+[2017.10.06-19.12.17:776][311]LogEditorTransaction: Undo Mover Nó
+[2017.10.06-19.12.18:245][364]LogEditorTransaction: Undo Paste clipboard contents
+[2017.10.06-19.12.18:721][418]LogEditorTransaction: Undo Delete current selection
+[2017.10.06-19.15.35:485][274]BlueprintLog: New page: Compilar SM_DoorGatilho_Blueprint
+[2017.10.06-19.15.36:421][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_DoorGatilho_Blueprint" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset" SILENT=true
+[2017.10.06-19.15.36:461][334]LogSavePackage: Save=36.98ms
+[2017.10.06-19.15.36:461][334]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/SM_DoorGatilho_Blueprint453FFAC94113DE9291DD29A154FC718F.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset'
+[2017.10.06-19.15.36:469][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset
+[2017.10.06-19.18.15:964][517]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.18.15:977][517]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Não foi possível localizar o objeto do nó de evento vinculado  OnActorBeginOverlap (None)
+[2017.10.06-19.18.15:977][517]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Não foi possível localizar o objeto do nó de evento vinculado  OnActorEndOverlap (None)
+[2017.10.06-19.18.16:028][517]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [2798,85] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 64 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2017.10.06-19.18.41:178][520]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.18.41:191][520]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Não foi possível localizar o objeto do nó de evento vinculado  OnActorBeginOverlap (None)
+[2017.10.06-19.18.41:191][520]LogBlueprint: Error: [Compiler PersistentLevel.ThirdPersonExampleMap] Não foi possível localizar o objeto do nó de evento vinculado  OnActorEndOverlap (None)
+[2017.10.06-19.18.41:211][520]LogBlueprint: Warning: [Compiler PersistentLevel.ThirdPersonExampleMap] [2824,03] Compile of PersistentLevel.ThirdPersonExampleMap failed. 2 Fatal Issue(s) 0 Warning(s) [in 33 ms] (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap)
+[2017.10.06-19.18.55:326][205]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2017.10.06-19.18.55:912][264]LogEditorTransaction: Undo Criar Vínculo de Fixador
+[2017.10.06-19.20.18:174][783]BlueprintLog: New page: Compilar ThirdPersonExampleMap
+[2017.10.06-19.20.19:428][881]LogSavePackage: Save=157.81ms
+[2017.10.06-19.20.19:428][881]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap4E6758044B2276DE790255A0D2EDE391.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.20.19:436][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.20.19:485][881]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.379
+[2017.10.06-19.20.22:352][150]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.20.22:371][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.20.22:371][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.20.22:372][150]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:20:22)
+[2017.10.06-19.20.22:372][150]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.20.22:395][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023200s)
+[2017.10.06-19.20.22:396][150]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.20.22:396][150]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2017.10.06-19.20.22:396][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024616s)
+[2017.10.06-19.20.22:421][150]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.20.22:434][150]LogInit: FAudioDevice initialized.
+[2017.10.06-19.20.22:475][150]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.20.22:477][150]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.20.22
+[2017.10.06-19.20.22:478][150]LogWorld: Bringing up level for play took: 0.002207
+[2017.10.06-19.20.22:482][150]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,316
+[2017.10.06-19.20.22:483][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.20.49:109][307]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.20.49:168][307]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.22:858][230]BlueprintLog: New page: Compilar SM_DoorGatilho_Blueprint
+[2017.10.06-19.21.23:595][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_DoorGatilho_Blueprint" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset" SILENT=true
+[2017.10.06-19.21.23:640][256]LogSavePackage: Save=31.60ms
+[2017.10.06-19.21.23:640][256]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/SM_DoorGatilho_BlueprintBEA0F5AB48257F09836CFCBA109C06A3.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset'
+[2017.10.06-19.21.23:646][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset
+[2017.10.06-19.21.26:401][500]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.21.26:419][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.26:419][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.21.26:419][500]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:21:26)
+[2017.10.06-19.21.26:420][500]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.21.26:442][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022609s)
+[2017.10.06-19.21.26:443][500]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.21.26:443][500]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2017.10.06-19.21.26:444][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024016s)
+[2017.10.06-19.21.26:471][500]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.21.26:485][500]LogInit: FAudioDevice initialized.
+[2017.10.06-19.21.26:525][500]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.21.26:527][500]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.21.26
+[2017.10.06-19.21.26:528][500]LogWorld: Bringing up level for play took: 0.002116
+[2017.10.06-19.21.26:532][500]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,366
+[2017.10.06-19.21.26:532][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.33:889][ 83]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.33:947][ 83]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.46:454][121]BlueprintLog: New page: Compilar SM_DoorGatilho_Blueprint
+[2017.10.06-19.21.47:233][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_DoorGatilho_Blueprint" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset" SILENT=true
+[2017.10.06-19.21.47:275][155]LogSavePackage: Save=35.94ms
+[2017.10.06-19.21.47:275][155]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/SM_DoorGatilho_Blueprint6B431DF74C9766EABE1F4EBE3C351D78.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset'
+[2017.10.06-19.21.47:281][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset
+[2017.10.06-19.21.49:813][371]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.21.49:830][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.21.49:830][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.21.49:830][371]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:21:49)
+[2017.10.06-19.21.49:830][371]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.21.49:849][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019442s)
+[2017.10.06-19.21.49:850][371]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.21.49:850][371]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2017.10.06-19.21.49:851][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020802s)
+[2017.10.06-19.21.49:876][371]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.21.49:889][371]LogInit: FAudioDevice initialized.
+[2017.10.06-19.21.49:925][371]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.21.49:928][371]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.21.49
+[2017.10.06-19.21.49:928][371]LogWorld: Bringing up level for play took: 0.002140
+[2017.10.06-19.21.49:933][371]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,233
+[2017.10.06-19.21.49:933][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.01:297][276]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.01:352][276]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.04:967][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.10.06-19.22.33:179][586]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.22.33:194][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.33:194][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.22.33:194][586]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:22:33)
+[2017.10.06-19.22.33:194][586]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.22.33:214][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020104s)
+[2017.10.06-19.22.33:216][586]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.22.33:216][586]LogPlayLevel: PIE: World Init took: (0.001510s)
+[2017.10.06-19.22.33:216][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022026s)
+[2017.10.06-19.22.33:243][586]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.22.33:256][586]LogInit: FAudioDevice initialized.
+[2017.10.06-19.22.33:297][586]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.22.33:299][586]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.22.33
+[2017.10.06-19.22.33:300][586]LogWorld: Bringing up level for play took: 0.002219
+[2017.10.06-19.22.33:304][586]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0,862
+[2017.10.06-19.22.33:304][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.45:619][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.22.45:679][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.23.10:708][614]BlueprintLog: New page: Compilar SM_DoorGatilho_Blueprint
+[2017.10.06-19.23.11:534][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM_DoorGatilho_Blueprint" FILE="../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset" SILENT=true
+[2017.10.06-19.23.11:572][648]LogSavePackage: Save=31.34ms
+[2017.10.06-19.23.11:572][648]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/SM_DoorGatilho_BlueprintAF295AB94160B3CB88944C8466FED4B0.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset'
+[2017.10.06-19.23.11:579][648]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/SM_DoorGatilho_Blueprint.uasset
+[2017.10.06-19.23.15:094][951]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.06-19.23.15:111][951]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.23.15:111][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.06-19.23.15:112][951]PIE: New page: Sessão de PIE : ThirdPersonExampleMap (06/10/2017 13:23:15)
+[2017.10.06-19.23.15:112][951]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2017.10.06-19.23.15:131][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019450s)
+[2017.10.06-19.23.15:132][951]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.10.06-19.23.15:132][951]LogPlayLevel: PIE: World Init took: (0.001120s)
+[2017.10.06-19.23.15:133][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020970s)
+[2017.10.06-19.23.15:160][951]LogInit: XAudio2 using 'Alto-falantes (VIA HD Audio(Win8))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.06-19.23.15:174][951]LogInit: FAudioDevice initialized.
+[2017.10.06-19.23.15:210][951]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.10.06-19.23.15:212][951]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.10.06-16.23.15
+[2017.10.06-19.23.15:213][951]LogWorld: Bringing up level for play took: 0.002080
+[2017.10.06-19.23.15:217][951]PIE: Momento de início de reprodução no editor para /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,052
+[2017.10.06-19.23.15:218][951]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.23.20:814][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.23.20:872][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.10.06-19.23.32:412][275]LogSavePackage: Save=153.29ms
+[2017.10.06-19.23.32:412][275]LogSavePackage: Moving '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Saved/ThirdPersonExampleMap57EABCAF4631442B974F249B2EA52BAC.tmp' to '../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.10.06-19.23.32:418][275]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Erick/Documents/GitHub/storm/storm/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.10.06-19.23.32:447][275]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.339
+[2017.10.06-19.23.45:948][564]SourceControl: Error: fatal: Invalid path '/Script': No such file or directory
+[2017.10.06-19.24.20:522][208]UATHelper: Empacotamento (Windows (32 bits)): Running AutomationTool...
+[2017.10.06-19.24.22:343][344]LogSlate: Took 0.006871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.10.06-19.24.23:720][422]UATHelper: Empacotamento (Windows (32 bits)): Automation.ParseCommandLine: Parsing command line: -ScriptsForProject=C:/Users/Erick/Documents/GitHub/storm/storm/storm.uproject BuildCookRun -nocompileeditor -nop4 -project=C:/Users/Erick/Documents/GitHub/storm/storm/storm.uproject -cook -stage -archive -archivedirectory="C:/Users/Erick/Downloads/Nova pasta" -package -clientconfig=Shipping -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -distribution -nodebuginfo -targetplatform=Win32 -build -utf8output -compile
+[2017.10.06-19.24.24:103][446]UATHelper: Empacotamento (Windows (32 bits)): ScriptCompiler.FindAndCompileScriptModules: Compiling scripts.
+[2017.10.06-19.24.25:368][524]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   DotNETUtilities -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\DotNETUtilities.dll
+[2017.10.06-19.24.25:431][528]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   UnrealBuildTool -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\UnrealBuildTool.exe
+[2017.10.06-19.24.25:480][531]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   AutomationUtils.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationUtils.Automation.dll
+[2017.10.06-19.24.25:664][542]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   AllDesktop.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\AllDesktop\AllDesktop.Automation.dll
+[2017.10.06-19.24.25:818][552]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   Localization.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\Localization.Automation.dll
+[2017.10.06-19.24.25:938][559]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   OneSkyLocalization.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\OneSkyLocalization.Automation.dll
+[2017.10.06-19.24.26:458][589]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   AutomationScripts.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\AutomationScripts.Automation.dll
+[2017.10.06-19.24.26:676][603]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   Android.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\Android\Android.Automation.dll
+[2017.10.06-19.24.27:166][632]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   BuildGraph.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\BuildGraph.Automation.dll
+[2017.10.06-19.24.27:375][645]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   HTML5.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\HTML5\HTML5.Automation.dll
+[2017.10.06-19.24.27:425][648]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   MobileDeviceInterface -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\IOS\MobileDeviceInterface.dll
+[2017.10.06-19.24.27:588][658]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   IOS.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\IOS\IOS.Automation.dll
+[2017.10.06-19.24.27:692][664]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   Linux.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\Linux\Linux.Automation.dll
+[2017.10.06-19.24.27:817][672]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   Mac.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\Mac\Mac.Automation.dll
+[2017.10.06-19.24.27:947][680]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   TVOS.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\TVOS\TVOS.Automation.dll
+[2017.10.06-19.24.28:139][692]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   Win.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\Win.Automation.dll
+[2017.10.06-19.24.28:437][709]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   XLocLocalization.Automation -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\AutomationScripts\XLocLocalization.Automation.dll
+[2017.10.06-19.24.28:453][710]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: Took 3,5083382s to run MSBuild.exe, ExitCode=0
+[2017.10.06-19.24.29:127][752]UATHelper: Empacotamento (Windows (32 bits)): BuildCookRun.SetupParams: Setting up ProjectParams for C:\Users\Erick\Documents\GitHub\storm\storm\storm.uproject
+[2017.10.06-19.24.29:805][794]UATHelper: Empacotamento (Windows (32 bits)): Project.Build: ********** BUILD COMMAND STARTED **********
+[2017.10.06-19.24.29:828][795]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: C:\Program Files (x86)\MSBuild\14.0\bin\MSBuild.exe "C:/Program Files/Epic Games/UnrealEngine-release/Engine/Source/Programs/UnrealBuildTool/UnrealBuildTool.csproj" /verbosity:minimal /nologo /target:Rebuild /property:Configuration=Development /property:Platform=AnyCPU
+[2017.10.06-19.24.30:238][821]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   DotNETUtilities -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\DotNETUtilities.dll
+[2017.10.06-19.24.32:007][916]UATHelper: Empacotamento (Windows (32 bits)): MSBuild:   UnrealBuildTool -> C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\UnrealBuildTool.exe
+[2017.10.06-19.24.32:020][917]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: Took 2,1915844s to run MSBuild.exe, ExitCode=0
+[2017.10.06-19.24.32:034][918]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\UnrealBuildTool.exe UE4Game Win32 Shipping  -NoUBTMakefiles  -remoteini="C:\Users\Erick\Documents\GitHub\storm\storm" -skipdeploy -noxge -generatemanifest -NoHotReload
+[2017.10.06-19.24.43:696][ 11]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: Took 11,451895s to run UnrealBuildTool.exe, ExitCode=0
+[2017.10.06-19.24.43:696][ 11]UATHelper: Empacotamento (Windows (32 bits)): CommandUtils.Run: Run: C:\Program Files\Epic Games\UnrealEngine-release\Engine\Binaries\DotNET\UnrealBuildTool.exe UE4Game Win32 Shipping  -NoUBTMakefiles  -remoteini="C:\Users\Erick\Documents\GitHub\storm\storm" -skipdeploy -noxge -NoHotReload -ignorejunk
+[2017.10.06-19.25.18:285][ 81]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool: Building UnrealHeaderTool...
+[2017.10.06-19.25.18:542][ 96]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool: Creating makefile for UnrealHeaderTool (UnrealBuildTool.exe is newer)
+[2017.10.06-19.25.21:322][263]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool: Target is up to date
+[2017.10.06-19.25.21:353][265]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool: Total build time: 2,83 seconds (NoActionsToExecute executor: 0,00 seconds)
+[2017.10.06-19.25.21:357][265]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool: Parsing headers for UE4Game
+[2017.10.06-19.25.21:402][268]UATHelper: Empacotamento (Windows (32 bits)): UnrealBuildTool:   Running UnrealHeaderTool UE4Game "C:\Program Files\Epic Games\UnrealEngine-release\Engine\Intermediate\Build\Win32\UE4Game\Shipping\UE4Game.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors
+[2017.10.06-19.25.32:989][ 27]SourceControl: fatal: C:/Program Files/Epic Games/UnrealEngine-release/Engine/Content/: 'C:/Program Files/Epic Games/UnrealEngine-release/Engine/Content/' is outside repository
+[2017.10.06-19.25.33:478][ 27]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Erick/Documents/GitHub/storm/storm/storm.uproject' is not a standard unreal filename or a long path name. Reason: O caminho não deve possuir menos do que 4 caracteres.
+[2017.10.06-19.25.42:431][ 27]LogStats: FPlatformStackWalk::StackWalkAndDump -  8.952 s
+[2017.10.06-19.25.42:432][ 27]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.06-19.25.42:432][ 27]LogOutputDevice: Error: 
+[2017.10.06-19.25.42:432][ 27]LogOutputDevice: Error: Ensure condition failed: false [File:C:\Program Files\Epic Games\UnrealEngine-release\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 810]
+[2017.10.06-19.25.42:432][ 27]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../../../Users/Erick/Documents/GitHub/storm/storm/storm.uproject' is not a standard unreal filename or a long path name. Reason: O caminho não deve possuir menos do que 4 caracteres.
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: Stack: 
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-Core.dll!0x00000000049B5776
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000000473CB42
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000004754646
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-CoreUObject.dll!0x000000000B721BA5
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x000000000D4A73C2
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x000000000D4A7557
+[2017.10.06-19.25.42:433][ 27]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000FE1878EE
+[2017.10.06-19.25.42:446][ 27]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000FE143755
+[2017.10.06-19.25.42:446][ 27]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000FE142D2D
+[2017.10.06-19.25.42:447][ 27]LogOutputDevice: Error: UE4Editor-SourceControlWindows.dll!0x00000000FE157DD4
+[2017.10.06-19.25.42:447][ 27]LogOutputDevice: Error: UE4Editor-GitSourceControl.dll!FGitSourceControlProvider::Tick() [c:\program files\epic games\unrealengine-release\engine\plugins\developer\gitsourcecontrol\source\gitsourcecontrol\private\gitsourcecontrolprovider.cpp:305]
+[2017.10.06-19.25.42:447][ 27]LogOutputDevice: Error: UE4Editor-SourceControl.dll!0x000000000D4AC27C
+[2017.10.06-19.25.42:447][ 27]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000002BF885F
+[2017.10.06-19.25.42:447][ 27]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x0000000003484226
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: UE4Editor.exe!0x0000000001F1534A
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: UE4Editor.exe!0x0000000001F23970
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: UE4Editor.exe!0x0000000001F239EA
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: UE4Editor.exe!0x0000000001F30439
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: UE4Editor.exe!0x0000000001F31DC7
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: KERNEL32.DLL!0x0000000031462774
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: ntdll.dll!0x00000000318A0D51
+[2017.10.06-19.25.42:448][ 27]LogOutputDevice: Error: 
+[2017.10.06-19.25.42:575][ 27]LogStats:                SubmitErrorReport -  0.000 s
